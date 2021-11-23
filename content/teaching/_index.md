@@ -1,0 +1,33 @@
+# Teaching experience
+
+I really enjoy teaching and have experience both with math lessons at schools and math courses in universities. I admire [3blue1brown](https://www.youtube.com/c/3blue1brown) as one of the most enjoable math explainers. <!-- Also I advice a series of interactive books: * for first semester calculus [in Russian](https://calculus.mathbook.info/) by Ilya Schurov * for ODEs course [in Russian](https://ode.mathbook.info/) by Ilya Schurov -->
+
+{.table .table-striped}
+|              <h5>Semester</h5>          | <h5>Educational organization</h5>   | <h5>Subject</h5>   | <h5>Materials</h5> |
+|:------------------------------------|:----|:----|:----|
+| Spring 2021             | [St Petersburg State University](https://math-cs.spbu.ru/en/) <br /> Faculty of [Mathematics and Computer Science](https://math-cs.spbu.ru/)  |   Seminars in calculus of variations for mathematicians  | [PDF](Calculus_of_variations_seminars_spring_2021_mkn.pdf) |
+| Fall 2020             | [St Petersburg State University]((https://math-cs.spbu.ru/en/)) <br /> Faculty of [Mathematics and Computer Science](https://math-cs.spbu.ru/)    |   Seminars in probability theory for mathematicians  | [PDF](Probability_seminars_fall_2020_mkn.pdf) |
+| Spring 2020             | [St Petersburg State University](https://math-cs.spbu.ru/en/)  <br /> Faculty of [Mathematics and Computer Science](https://math-cs.spbu.ru/)  |   Seminars in complex variables | [PDF](ComplAn_seminars_spring_2020_Misha_Yulia.pdf) &  [Wiki](https://bsse.compscicenter.ru/wiki/index.php?title=%D0%9C%D0%B0%D1%82%D0%B0%D0%BD_2MIT_%D0%BE%D1%81%D0%B5%D0%BD%D1%8C_2019) |
+| November 2019             | [COMSATS University Islamabad in <br /> Lahore Campus, Pakistan](https://www.internationalmathematicsmaster.org/)    |   Assistant in the course on Dynamical systems <br /> for [International Mathematics Master Program]((https://www.internationalmathematicsmaster.org/)) <br /> supported by ICTP | - |
+| Fall 2019             | [St Petersburg State University](https://math-cs.spbu.ru/en/)  <br /> Faculty of [Mathematics and Computer Science](https://math-cs.spbu.ru/)  |   Seminars in calculus, 3 semester | [PDF]((Matan_ModernProgramming_3sem_ALL.pdf)) & [Wiki](https://bsse.compscicenter.ru/wiki/index.php?title=%D0%9C%D0%B0%D1%82%D0%B0%D0%BD_2MIT_%D0%BE%D1%81%D0%B5%D0%BD%D1%8C_2019) |
+| Fall 2019             | [St Petersburg State University](https://math-cs.spbu.ru/en/)  <br /> Faculty of [Mathematics and Computer Science](https://math-cs.spbu.ru/)  |   Seminars in calculus, 1 semester  | [Wiki](https://bsse.compscicenter.ru/wiki/index.php?title=%D0%9C%D0%B0%D1%82%D0%B0%D0%BD_1MIT_%D0%BE%D1%81%D0%B5%D0%BD%D1%8C_2019_%E3%83%BC_%D0%B2%D0%B5%D1%81%D0%BD%D0%B0_2020#.D0.9F.D1.80.D0.B0.D0.BA.D1.82.D0.B8.D0.BA.D0.B0_19..D0.9109-.D0.BC.D0.BA.D0.BD) |
+| Spring 2019             | [St Petersburg State University](https://math-cs.spbu.ru/en/)  <br /> Faculty of [Mathematics and Computer Science](https://math-cs.spbu.ru/)  |   Seminars in calculus, 2 semester  | [Wiki](https://bsse.compscicenter.ru/wiki/index.php?title=%D0%9C%D0%B0%D1%82%D0%B0%D0%BD_1MIT_%D0%BE%D1%81%D0%B5%D0%BD%D1%8C_2018) |
+| January 2019             | [Educational Center Sirius in Sochi, Russia](https://sochisirius.ru/)    |   Lecture course on Random walks  | |
+| Fall 2018             | [St Petersburg State University](https://math-cs.spbu.ru/en/)  <br /> Faculty of [Mathematics and Computer Science](https://math-cs.spbu.ru/)  |   Seminars in calculus, 1 semester | [Wiki](https://bsse.compscicenter.ru/wiki/index.php?title=%D0%9C%D0%B0%D1%82%D0%B0%D0%BD_1MIT_%D0%BE%D1%81%D0%B5%D0%BD%D1%8C_2018) |
+| Spring 2018             | [St Petersburg Academic University](https://en.wikipedia.org/wiki/Saint_Petersburg_Academic_University)    |   Seminars in calculus, 2 semester,  for physicists | - |
+| Fall 2017             | [St Petersburg Academic University](https://en.wikipedia.org/wiki/Saint_Petersburg_Academic_University)    |   Seminars in calculus, 1 semester,  for physicists | - |
+| Spring 2017             | [St Petersburg Academic University](https://en.wikipedia.org/wiki/Saint_Petersburg_Academic_University)    |   Seminars in calculus, 4 semester,  for physicists | - |
+| Spring 2017             | [St Petersburg Academic University](https://en.wikipedia.org/wiki/Saint_Petersburg_Academic_University)    |   Seminars in calculus, 2 semester,  for physicists | - |
+| Fall 2016             | [St Petersburg Academic University](https://en.wikipedia.org/wiki/Saint_Petersburg_Academic_University)    |   Seminars in calculus, 3 semester,  for physicists | - |
+| Fall 2016             | [St Petersburg Academic University](https://en.wikipedia.org/wiki/Saint_Petersburg_Academic_University)    |   Seminars in calculus, 1 semester,  for physicists | - |
+| Spring 2016             | [St Petersburg Academic University](https://en.wikipedia.org/wiki/Saint_Petersburg_Academic_University)    |   Seminars in calculus, 4 semester,  for physicists | - |
+| Fall 2015             | [St Petersburg Academic University](https://en.wikipedia.org/wiki/Saint_Petersburg_Academic_University)    |   Seminars in calculus, 1 semester,  for physicists | - |
+| Fall 2015             | [St Petersburg Academic University](https://en.wikipedia.org/wiki/Saint_Petersburg_Academic_University)    |   Seminars in calculus, 3 semester,  for physicists | - |
+| Spring 2015             | [St Petersburg Academic University](https://en.wikipedia.org/wiki/Saint_Petersburg_Academic_University)    |   Seminars in calculus, 2 semester,  for physicists | - |
+| Fall 2014             | [St Petersburg Academic University](https://en.wikipedia.org/wiki/Saint_Petersburg_Academic_University)    |   Seminars in calculus, 1 semester,  for physicists | - |
+| Spring 2014             | [St Petersburg Polytecnic University](https://english.spbstu.ru/)    |   Seminars in PDEs,  for physicists  | - |
+| Fall 2013             | [St Petersburg Polytecnic University](https://english.spbstu.ru/)    |   Seminars in PDEs,  for physicists  | - |
+| Spring 2013             | [St Petersburg Polytecnic University](https://english.spbstu.ru/)    |   Seminars in PDEs,  for physicists  | - |
+| Fall 2012             | [St Petersburg Polytecnic University](https://english.spbstu.ru/)    |   Seminars in PDEs,  for physicists  | - |
+| 2014--2016             | [Formulo de Integreco](https://www.formulo.org/en/)    |   Math teacher on online math olimpiad courses  | - |
+| 2012--2017             | [Formulo de Integreco](https://www.formulo.org/en/)    |   Math teacher at summer and winter schools  | - |
