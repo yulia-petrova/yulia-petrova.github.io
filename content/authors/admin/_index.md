@@ -29,10 +29,10 @@ interests:
 education:
   courses:
   - course: PhD in Probability Theory
-    institution: Saint-Petersburg State University, Russia
+    institution: St. Petersburg State University, Russia
     year: 2018
   - course: Specialist in Mathematical Physics
-    institution: Saint-Petersburg State University, Russia
+    institution: St. Petersburg State University, Russia
     year: 2013
 
 # Social/Academic Networking
@@ -51,7 +51,7 @@ social:
   link: https://github.com/yulia-petrova
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/yulia-petrova-8480a9217/
 - icon: cv
   icon_pack: ai
   link: uploads/Petrova_CV.pdf
@@ -70,11 +70,11 @@ email: "yu.pe.petrova@yandex.ru"
 highlight_name: true
 ---
 
-I am a postdoc in Industrial Mathematics at [IMPA](https://impa.br/), Rio de Janeiro, Brasil, working with Prof. [Dan Marchesin](https://web.archive.org/web/20210815113601/https://marchesi.impa.br/Home) and in [Centro Pi IMPA](https://centropi.impa.br/). Broadly speaking my research interests include PDEs and their applications to different fields: probability theory, fluid dynamics and solving real world problems.
+I am a postdoc in Industrial Mathematics at [IMPA](https://impa.br/), Rio de Janeiro, Brazil, working with Prof. [Dan Marchesin](https://web.archive.org/web/20210815113601/https://marchesi.impa.br/Home) and in [Centro Pi IMPA](https://centropi.impa.br/). Broadly speaking, my research interests include PDEs and their applications to different fields: probability theory, fluid dynamics and solving real-world problems.
 
 I did my PhD under the supervision of Prof. [Alexander Nazarov](https://www.researchgate.net/scientific-contributions/Alexander-I-Nazarov-53574797) at the junction of probability theory and spectral theory. For the Russian version of PhD thesis see the [link](https://www.pdmi.ras.ru/pdmi/system/files/dissertations/dissertation_PETROVA_2018-07-09.pdf).
 
-I was a researcher at [Chebyshev Laboratory of Mathematics & Computer Science department of St. Petersburg State University](https://chebyshev.spbu.ru/), a lab led by Fields medalist Prof. Stanislav Smirnov in St. Petersburg, Russia. At Chebyshev Laboratory I was also involved in the lab's collaboration with petroleum company [GazpromNeft](https://www.gazprom-neft.com/).
+I was a researcher at [Chebyshev Laboratory of Mathematics & Computer Science department of St. Petersburg State University](https://chebyshev.spbu.ru/), a lab led by Fields medalist Prof. Stanislav Smirnov in St. Petersburg, Russia. At Chebyshev Laboratory I was also involved in the lab's collaboration with petroleum company GazpromNeft.
 
 <!--
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
