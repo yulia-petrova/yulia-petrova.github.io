@@ -1,0 +1,294 @@
+<!doctype html><html lang=en-us>
+<head>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1">
+<meta http-equiv=x-ua-compatible content="IE=edge">
+<meta name=generator content="Wowchemy 5.3.0 for Hugo">
+<meta name=author content="Yulia Petrova">
+<meta name=description content="Here is my research on small ball probabilities for Gaussian processes.">
+<link rel=alternate hreflang=en-us href=https://example.com/project/small_ball_probabilities/>
+<link rel=preconnect href=https://fonts.gstatic.com crossorigin>
+<meta name=theme-color content="#1565c0">
+<script src=/js/mathjax-config.js></script>
+<link rel=stylesheet href=/css/vendor-bundle.min.f1ecf783c14edc00c9320c205831ad8e.css media=print onload="this.media='all'">
+<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin=anonymous media=print onload="this.media='all'">
+<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css crossorigin=anonymous title=hl-light media=print onload="this.media='all'">
+<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css crossorigin=anonymous title=hl-dark media=print onload="this.media='all'" disabled>
+<script src=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js integrity crossorigin=anonymous async></script>
+<link rel=preload as=style href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+<link rel=stylesheet href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media=print onload="this.media='all'">
+<link rel=stylesheet href=/css/wowchemy.52927af53ae4a6f611e422364d52eb1d.css>
+<link rel=manifest href=/manifest.webmanifest>
+<link rel=icon type=image/png href=/media/icon_hub8df033b399123bf68cdca948df172d3_59625_32x32_fill_lanczos_center_3.png>
+<link rel=apple-touch-icon type=image/png href=/media/icon_hub8df033b399123bf68cdca948df172d3_59625_180x180_fill_lanczos_center_3.png>
+<link rel=canonical href=https://example.com/project/small_ball_probabilities/>
+<meta property="twitter:card" content="summary_large_image">
+<meta property="og:site_name" content="Yulia Petrova">
+<meta property="og:url" content="https://example.com/project/small_ball_probabilities/">
+<meta property="og:title" content="Small ball probabilities for Gaussian processes | Yulia Petrova">
+<meta property="og:description" content="Here is my research on small ball probabilities for Gaussian processes."><meta property="og:image" content="https://example.com/project/small_ball_probabilities/featured.png">
+<meta property="twitter:image" content="https://example.com/project/small_ball_probabilities/featured.png"><meta property="og:locale" content="en-us">
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://example.com/project/small_ball_probabilities/"},"headline":"Small ball probabilities for Gaussian processes","image":["https://example.com/project/small_ball_probabilities/featured.png"],"datePublished":"0001-01-01T00:00:00Z","dateModified":"0001-01-01T00:00:00Z","author":{"@type":"Person","name":"Yulia Petrova"},"publisher":{"@type":"Organization","name":"Yulia Petrova","logo":{"@type":"ImageObject","url":"https://example.com/media/icon_hub8df033b399123bf68cdca948df172d3_59625_192x192_fill_lanczos_center_3.png"}},"description":"Here is my research on small ball probabilities for Gaussian processes."}</script>
+<title>Small ball probabilities for Gaussian processes | Yulia Petrova</title>
+</head>
+<body id=top data-spy=scroll data-offset=70 data-target=#TableOfContents class=page-wrapper data-wc-page-id=67d8e13d02e029f021ee201b0b34f4be>
+<script src=/js/wowchemy-init.min.da42964e270e05a6063fbca894d7ccff.js></script>
+<aside class=search-modal id=search>
+<div class=container>
+<section class=search-header>
+<div class="row no-gutters justify-content-between mb-3">
+<div class=col-6>
+<h1>Search</h1>
+</div>
+<div class="col-6 col-search-close">
+<a class=js-search href=# aria-label=Close><i class="fas fa-times-circle text-muted" aria-hidden=true></i></a>
+</div>
+</div>
+<div id=search-box>
+<input name=q id=search-query placeholder=Search... autocapitalize=off autocomplete=off autocorrect=off spellcheck=false type=search class=form-control aria-label=Search...>
+</div>
+</section>
+<section class=section-search-results>
+<div id=search-hits>
+</div>
+</section>
+</div>
+</aside>
+<div class=page-header>
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id=navbar-main>
+<div class=container-xl>
+<div class="d-none d-lg-inline-flex">
+<a class=navbar-brand href=/>Yulia Petrova</a>
+</div>
+<button type=button class=navbar-toggler data-toggle=collapse data-target=#navbar-content aria-controls=navbar-content aria-expanded=false aria-label="Toggle navigation">
+<span><i class="fas fa-bars"></i></span>
+</button>
+<div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+<a class=navbar-brand href=/>Yulia Petrova</a>
+</div>
+<div class="navbar-collapse main-menu-item collapse justify-content-end" id=navbar-content>
+<ul class="navbar-nav d-md-inline-flex">
+<li class=nav-item>
+<a class=nav-link href=/#about><span>Home</span></a>
+</li>
+<li class=nav-item>
+<a class=nav-link href=/publication/><span>Publications</span></a>
+</li>
+<li class=nav-item>
+<a class="nav-link active" href=/project/><span>Projects</span></a>
+</li>
+<li class=nav-item>
+<a class=nav-link href=/teaching/><span>Teaching</span></a>
+</li>
+</ul>
+</div>
+<ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+</ul>
+</div>
+</nav>
+</div>
+<div class=page-body>
+<article class="article article-project">
+<div class="article-container pt-3">
+<h1>Small ball probabilities for Gaussian processes</h1>
+<div class=article-metadata>
+<span class=article-date>
+November 11, 1011
+</span>
+</div>
+</div>
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style=max-width:705px;max-height:433px>
+<div style=position:relative>
+<img src=/project/small_ball_probabilities/featured.png width=705 height=433 alt class=featured-image>
+</div>
+</div>
+<div class=article-container>
+<div class=article-style>
+<p>Given a Gaussian process $X(t)$, $t\in[0,1]$, with zero mean, we are interested in the asymptotic behavior of the probability
+$$
+\mathbb{P}(||X(t)||&lt;\varepsilon), \quad \text{as }\varepsilon\to0,
+$$
+which is called small ball probabilities (or small deviation probabilities). Here $||X(t)||$ is some norm.</p>
+<p>For example, for $|| X(t)||=\sup\limits_{t\in[0,1]}|X(t)|$ this value is just a probability that the trajectory of the process $X(t)$ stays in a small $\varepsilon$-neighbourhood near it&rsquo;s mean value for all times (see figure above), which is usually a <em>rare event</em>. For example, for a Brownian motion</p>
+<p>$$
+\mathbb{P}(||X(t)||&lt;\varepsilon)\sim C\cdot\varepsilon\cdot \exp\left(-\frac18\varepsilon^{-2}\right), \quad \text{as }\varepsilon\to0,
+$$
+the probability is exponentially small. The main question of my interest is the following: imagine you have two processes $X_0(t)$ and it&rsquo;s finite dimensional perturbation $X(t)$. How their small ball probabilities are related to each other? You can prove some general theorems, but many inetersting examples (i.e. coming from statistics) are not obeying the assumptions and need individual analysis. My research on the topic is the publications below.</p>
+</div>
+<div class="project-related-pages content-widget-hr">
+<h2>Publications</h2>
+<div class="media stream-item">
+<div class=media-body>
+<div class="section-subheading article-title mb-0 mt-0">
+<a href=/publication/2019_findimpert/>$L_2$-small ball asymptotics for a family of finite-dimensional perturbations of Gaussian functions</a>
+</div>
+<a href=/publication/2019_findimpert/ class=summary-link>
+<div class=article-style>
+In this article we study the small ball probabilities in $L_2$-norm for a family of finite-dimensional perturbations of Gaussian …
+</div>
+</a>
+<div class="stream-meta article-metadata">
+<div>
+<span class=author-highlighted>
+Yulia Petrova</span>
+</div>
+</div>
+<div class=btn-links>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=https://arxiv.org/pdf/1905.07804.pdf target=_blank rel=noopener>
+PDF
+</a>
+<a href=# class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename=/publication/2019_findimpert/cite.bib>
+Cite
+</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=/project/small_ball_probabilities/>
+Project
+</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=https://arxiv.org/abs/1905.07804 target=_blank rel=noopener>
+arXiv</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=http://ftp.pdmi.ras.ru/pub/publicat/znsl/v501/p236.pdf target=_blank rel=noopener>
+In Russian</a>
+</div>
+</div>
+<div class=ml-3>
+</div>
+</div>
+<div class="media stream-item">
+<div class=media-body>
+<div class="section-subheading article-title mb-0 mt-0">
+<a href=/publication/2018_doklady/>On spectral asymptotics for a family of finite-dimensional perturbations of operators of trace class</a>
+</div>
+<a href=/publication/2018_doklady/ class=summary-link>
+<div class=article-style>
+Spectral asymptotics for a family of finite-dimensional perturbations of operators of trace class are found. The results are used to …
+</div>
+</a>
+<div class="stream-meta article-metadata">
+<div>
+<span class=author-highlighted>
+Yulia Petrova</span>
+</div>
+</div>
+<div class=btn-links>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=https://link.springer.com/content/pdf/10.1134/S1064562418050204.pdf target=_blank rel=noopener>
+PDF
+</a>
+<a href=# class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename=/publication/2018_doklady/cite.bib>
+Cite
+</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=/project/small_ball_probabilities/>
+Project
+</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=https://doi.org/https://doi.org/10.1134/S1064562418050204 target=_blank rel=noopener>
+DOI
+</a>
+</div>
+</div>
+<div class=ml-3>
+</div>
+</div>
+<div class="media stream-item">
+<div class=media-body>
+<div class="section-subheading article-title mb-0 mt-0">
+<a href=/publication/2017_integral_constraint/>Spectral asymptotics for problems with integral constraints</a>
+</div>
+<a href=/publication/2017_integral_constraint/ class=summary-link>
+<div class=article-style>
+The eigenvalue problem for differential operators of arbitrary order with integral constraints is considered. The asymptotics of the …
+</div>
+</a>
+<div class="stream-meta article-metadata">
+<div>
+<span class=author-highlighted>
+Yulia Petrova</span>
+</div>
+</div>
+<div class=btn-links>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=https://link.springer.com/content/pdf/10.1134/S0001434617090073.pdf target=_blank rel=noopener>
+PDF
+</a>
+<a href=# class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename=/publication/2017_integral_constraint/cite.bib>
+Cite
+</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=/project/small_ball_probabilities/>
+Project
+</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=https://doi.org/https://doi.org/10.1134/S0001434617090073 target=_blank rel=noopener>
+DOI
+</a>
+</div>
+</div>
+<div class=ml-3>
+</div>
+</div>
+<div class="media stream-item">
+<div class=media-body>
+<div class="section-subheading article-title mb-0 mt-0">
+<a href=/publication/2017_durbin/>Exact $L_2$-small ball asymptotics for some Durbin processes</a>
+</div>
+<a href=/publication/2017_durbin/ class=summary-link>
+<div class=article-style>
+We find the exact $L_2$-small ball asymptotics for some Durbin processes. These processes are finitedimensional perturbations of a …
+</div>
+</a>
+<div class="stream-meta article-metadata">
+<div>
+<span class=author-highlighted>
+Yulia Petrova</span>
+</div>
+</div>
+<div class=btn-links>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=https://link.springer.com/content/pdf/10.1007/s10958-020-04657-9.pdf target=_blank rel=noopener>
+PDF
+</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=/project/small_ball_probabilities/>
+Project
+</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=https://doi.org/https://doi.org/10.1007/s10958-020-04657-9 target=_blank rel=noopener>
+DOI
+</a>
+</div>
+</div>
+<div class=ml-3>
+</div>
+</div>
+<div class="media stream-item">
+<div class=media-body>
+<div class="section-subheading article-title mb-0 mt-0">
+<a href=/publication/2016_kkw/>The small ball asymptotics in Hilbert norm for the Kac-Kiefer-Wolfowitz processes</a>
+</div>
+<a href=/publication/2016_kkw/ class=summary-link>
+<div class=article-style>
+We consider the problem of a small ball behavior in $L_2$-norm for some Gaussian processes of statistical interest. The problem is …
+</div>
+</a>
+<div class="stream-meta article-metadata">
+<div>
+<span>
+Alexander Nazarov</span>, <span class=author-highlighted>
+Yulia Petrova</span>
+</div>
+</div>
+<div class=btn-links>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=https://epubs.siam.org/doi/pdf/10.1137/S0040585X97T987752 target=_blank rel=noopener>
+PDF
+</a>
+<a href=# class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename=/publication/2016_kkw/cite.bib>
+Cite
+</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=/project/small_ball_probabilities/>
+Project
+</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=https://doi.org/https://doi.org/10.1137/S0040585X97T987752 target=_blank rel=noopener>
+DOI
+</a>
+</div>
+</div>
+<div class=ml-3>
+</div>
+</div>
+</div>
+</div>
+</article>
+</div>
+</body>
+</html>

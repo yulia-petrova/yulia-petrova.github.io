@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>conservation laws | Yulia Petrova</title><link>https://example.com/tag/conservation-laws/</link><atom:link href="https://example.com/tag/conservation-laws/index.xml" rel="self" type="application/rss+xml"/><description>conservation laws</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://example.com/media/icon_hub8df033b399123bf68cdca948df172d3_59625_512x512_fill_lanczos_center_3.png</url><title>conservation laws</title><link>https://example.com/tag/conservation-laws/</link></image><item><title>Conservation laws</title><link>https://example.com/project/conservation_laws/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/project/conservation_laws/</guid><description>&lt;p>We study the existence, uniqueness and stability of solutions to some systems of conservation laws. Right now we are working on the non-uniqueness of vanishing viscosity admissible solutions for a Riemann problem for the system of conservation laws ($x\in\mathbb{R}$, $t&amp;gt;0$):
+$$
+s_t + f(s, c)_x = 0,
+$$
+$$
+(cs + a(c))_t + (cf(s,c))_x = 0,
+$$
+with initial data $s(x,0)=c(x,0)=1$ for $x&amp;lt;0$ and $s(x,0)=s(x,0)=0$ for $x&amp;gt;0$. Here&lt;/p>
+&lt;ul>
+&lt;li>$s=s(x,t)\in[0,1]$ is the water phase saturation&lt;/li>
+&lt;li>$c=c(x,t)\in[0,1]$ is the concentration of the chemical agent in the water phase&lt;/li>
+&lt;li>function $f(s,c)$ denotes the fractional flow of water (the Buckley–Leverett function)&lt;/li>
+&lt;li>function $a(c)$ denotes the chemical&amp;rsquo;s adsorption on the rock&lt;/li>
+&lt;/ul>
+&lt;p>It is commonly assumed that $f$ is an S-shaped function of $s$ for every $c$, and $a$ is an increasing concave function.&lt;/p>
+&lt;p>Our aim is to prove that when the flow function depends non-monotonically on the concentration of chemicals, non classical shocks appear (undercompressive shocks/transitional waves), which depend on the ratio of dissipative coefficients, and cause non-uniqueness of solutions. Similar observation was made in a recent work by W. Shen (2017) and in a paper by Entov &amp;amp; Kerimov (1986) for different models of dissipation terms.&lt;/p>
+&lt;p>After the solution is found (and is unique), the next natural question is the stability of the solution under linear, nonlinear perturbations, and asymptotic stability as $t\to\infty$.&lt;/p></description></item></channel></rss>

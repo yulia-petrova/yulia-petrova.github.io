@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yulia Petrova</title><link>https://example.com/</link><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml"/><description>Yulia Petrova</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate><image><url>https://example.com/media/icon_hub8df033b399123bf68cdca948df172d3_59625_512x512_fill_lanczos_center_3.png</url><title>Yulia Petrova</title><link>https://example.com/</link></image><item><title>Example Talk</title><link>https://example.com/talk/example-talk/</link><pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate><guid>https://example.com/talk/example-talk/</guid><description>&lt;div class="alert alert-note">
+&lt;div>
+Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in slides feature.
+&lt;/div>
+&lt;/div>
+&lt;p>Slides can be added in a few ways:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Create&lt;/strong> slides using Wowchemy&amp;rsquo;s &lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">&lt;em>Slides&lt;/em>&lt;/a> feature and link using &lt;code>slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
+&lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
+&lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>$L_2$-small ball asymptotics for a family of finite-dimensional perturbations of Gaussian functions</title><link>https://example.com/publication/2019_findimpert/</link><pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate><guid>https://example.com/publication/2019_findimpert/</guid><description>&lt;hr></description></item><item><title>Calculation of graded viscosity banks profile on the rear end of the polymer slug</title><link>https://example.com/publication/2021_gvb_spe/</link><pubDate>Fri, 01 Oct 2021 00:00:00 +0000</pubDate><guid>https://example.com/publication/2021_gvb_spe/</guid><description>&lt;hr></description></item><item><title>Velocity of viscous fingers in miscible displacement: Comparison with analytical models</title><link>https://example.com/publication/2021_linear_velocity/</link><pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate><guid>https://example.com/publication/2021_linear_velocity/</guid><description>&lt;hr></description></item><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>https://example.com/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://example.com/post/getting-started/</guid><description>&lt;h2 id="overview">Overview&lt;/h2>
+&lt;ol>
+&lt;li>The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li>
+&lt;li>The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong>no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong> and having &lt;strong>flexibility to later add even deeper personalization with HTML and CSS&lt;/strong>&lt;/li>
+&lt;li>You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li>
+&lt;/ol>
+&lt;figure id="figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device">
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png" alt="The template is mobile first with a responsive design to ensure that your site looks stunning on every device." loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;figcaption>
+The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+&lt;/figcaption>&lt;/figure>
+&lt;h2 id="get-started">Get Started&lt;/h2>
+&lt;ul>
+&lt;li>👉 &lt;a href="https://wowchemy.com/templates/" target="_blank" rel="noopener">&lt;strong>Create a new site&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>📚 &lt;a href="https://wowchemy.com/docs/" target="_blank" rel="noopener">&lt;strong>Personalize your site&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>💬 &lt;a href="https://discord.gg/z8wNYzb" target="_blank" rel="noopener">Chat with the &lt;strong>Wowchemy community&lt;/strong>&lt;/a> or &lt;a href="https://discourse.gohugo.io" target="_blank" rel="noopener">&lt;strong>Hugo community&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>🐦 Twitter: &lt;a href="https://twitter.com/wowchemy" target="_blank" rel="noopener">@wowchemy&lt;/a> &lt;a href="https://twitter.com/GeorgeCushen" target="_blank" rel="noopener">@GeorgeCushen&lt;/a> &lt;a href="https://twitter.com/search?q=%28%23MadeWithWowchemy%20OR%20%23MadeWithAcademic%29&amp;amp;src=typed_query" target="_blank" rel="noopener">#MadeWithWowchemy&lt;/a>&lt;/li>
+&lt;li>💡 &lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/issues" target="_blank" rel="noopener">Request a &lt;strong>feature&lt;/strong> or report a &lt;strong>bug&lt;/strong> for &lt;em>Wowchemy&lt;/em>&lt;/a>&lt;/li>
+&lt;li>⬆️ &lt;strong>Updating Wowchemy?&lt;/strong> View the &lt;a href="https://wowchemy.com/docs/hugo-tutorials/update/" target="_blank" rel="noopener">Update Tutorial&lt;/a> and &lt;a href="https://wowchemy.com/updates/" target="_blank" rel="noopener">Release Notes&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="crowd-funded-open-source-software">Crowd-funded open-source software&lt;/h2>
+&lt;p>To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p>
+&lt;h3 id="-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans">&lt;a href="https://wowchemy.com/plans/" target="_blank" rel="noopener">❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a>&lt;/h3>
+&lt;p>As a token of appreciation for sponsoring, you can &lt;strong>unlock &lt;a href="https://wowchemy.com/plans/" target="_blank" rel="noopener">these&lt;/a> awesome rewards and extra features 🦄✨&lt;/strong>&lt;/p>
+&lt;h2 id="ecosystem">Ecosystem&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>&lt;a href="https://github.com/wowchemy/hugo-academic-cli" target="_blank" rel="noopener">Hugo Academic CLI&lt;/a>:&lt;/strong> Automatically import publications from BibTeX&lt;/li>
+&lt;/ul>
+&lt;h2 id="inspiration">Inspiration&lt;/h2>
+&lt;p>&lt;a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener">Check out the latest &lt;strong>demo&lt;/strong>&lt;/a> of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href="https://wowchemy.com/user-stories/" target="_blank" rel="noopener">view the &lt;strong>showcase&lt;/strong>&lt;/a> of personal, project, and business sites.&lt;/p>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>Page builder&lt;/strong> - Create &lt;em>anything&lt;/em> with &lt;a href="https://wowchemy.com/docs/page-builder/" target="_blank" rel="noopener">&lt;strong>widgets&lt;/strong>&lt;/a> and &lt;a href="https://wowchemy.com/docs/content/writing-markdown-latex/" target="_blank" rel="noopener">&lt;strong>elements&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Edit any type of content&lt;/strong> - Blog posts, publications, talks, slides, projects, and more!&lt;/li>
+&lt;li>&lt;strong>Create content&lt;/strong> in &lt;a href="https://wowchemy.com/docs/content/writing-markdown-latex/" target="_blank" rel="noopener">&lt;strong>Markdown&lt;/strong>&lt;/a>, &lt;a href="https://wowchemy.com/docs/import/jupyter/" target="_blank" rel="noopener">&lt;strong>Jupyter&lt;/strong>&lt;/a>, or &lt;a href="https://wowchemy.com/docs/install-locally/" target="_blank" rel="noopener">&lt;strong>RStudio&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Plugin System&lt;/strong> - Fully customizable &lt;a href="https://wowchemy.com/docs/customization/" target="_blank" rel="noopener">&lt;strong>color&lt;/strong> and &lt;strong>font themes&lt;/strong>&lt;/a>&lt;/li>
+&lt;li>&lt;strong>Display Code and Math&lt;/strong> - Code highlighting and &lt;a href="https://en.wikibooks.org/wiki/LaTeX/Mathematics" target="_blank" rel="noopener">LaTeX math&lt;/a> supported&lt;/li>
+&lt;li>&lt;strong>Integrations&lt;/strong> - &lt;a href="https://analytics.google.com" target="_blank" rel="noopener">Google Analytics&lt;/a>, &lt;a href="https://disqus.com" target="_blank" rel="noopener">Disqus commenting&lt;/a>, Maps, Contact Forms, and more!&lt;/li>
+&lt;li>&lt;strong>Beautiful Site&lt;/strong> - Simple and refreshing one page design&lt;/li>
+&lt;li>&lt;strong>Industry-Leading SEO&lt;/strong> - Help get your website found on search engines and social media&lt;/li>
+&lt;li>&lt;strong>Media Galleries&lt;/strong> - Display your images and videos with captions in a customizable gallery&lt;/li>
+&lt;li>&lt;strong>Mobile Friendly&lt;/strong> - Look amazing on every screen with a mobile friendly version of your site&lt;/li>
+&lt;li>&lt;strong>Multi-language&lt;/strong> - 34+ language packs including English, 中文, and Português&lt;/li>
+&lt;li>&lt;strong>Multi-user&lt;/strong> - Each author gets their own profile page&lt;/li>
+&lt;li>&lt;strong>Privacy Pack&lt;/strong> - Assists with GDPR&lt;/li>
+&lt;li>&lt;strong>Stand Out&lt;/strong> - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li>
+&lt;li>&lt;strong>One-Click Deployment&lt;/strong> - No servers. No databases. Only files.&lt;/li>
+&lt;/ul>
+&lt;h2 id="themes">Themes&lt;/h2>
+&lt;p>Wowchemy and its templates come with &lt;strong>automatic day (light) and night (dark) mode&lt;/strong> built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href="https://academic-demo.netlify.com/" target="_blank" rel="noopener">Demo&lt;/a> to see it in action! Day/night mode can also be disabled by the site admin in &lt;code>params.toml&lt;/code>.&lt;/p>
+&lt;p>&lt;a href="https://wowchemy.com/docs/customization" target="_blank" rel="noopener">Choose a stunning &lt;strong>theme&lt;/strong> and &lt;strong>font&lt;/strong>&lt;/a> for your site. Themes are fully customizable.&lt;/p>
+&lt;h2 id="license">License&lt;/h2>
+&lt;p>Copyright 2016-present &lt;a href="https://georgecushen.com" target="_blank" rel="noopener">George Cushen&lt;/a>.&lt;/p>
+&lt;p>Released under the &lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md" target="_blank" rel="noopener">MIT&lt;/a> license.&lt;/p></description></item><item><title>Optimal polymer slugs injection profiles</title><link>https://example.com/publication/2020_gvb/</link><pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate><guid>https://example.com/publication/2020_gvb/</guid><description>&lt;hr></description></item><item><title>Numerical investigation of viscous fingering phenomenon for raw field data</title><link>https://example.com/publication/2020_rawfielddata/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://example.com/publication/2020_rawfielddata/</guid><description>&lt;hr></description></item><item><title>Slides</title><link>https://example.com/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://example.com/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
+&lt;p>&lt;a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy&lt;/a> | &lt;a href="https://owchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
+&lt;hr>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ul>
+&lt;li>Efficiently write slides in Markdown&lt;/li>
+&lt;li>3-in-1: Create, Present, and Publish your slides&lt;/li>
+&lt;li>Supports speaker notes&lt;/li>
+&lt;li>Mobile friendly slides&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="controls">Controls&lt;/h2>
+&lt;ul>
+&lt;li>Next: &lt;code>Right Arrow&lt;/code> or &lt;code>Space&lt;/code>&lt;/li>
+&lt;li>Previous: &lt;code>Left Arrow&lt;/code>&lt;/li>
+&lt;li>Start: &lt;code>Home&lt;/code>&lt;/li>
+&lt;li>Finish: &lt;code>End&lt;/code>&lt;/li>
+&lt;li>Overview: &lt;code>Esc&lt;/code>&lt;/li>
+&lt;li>Speaker notes: &lt;code>S&lt;/code>&lt;/li>
+&lt;li>Fullscreen: &lt;code>F&lt;/code>&lt;/li>
+&lt;li>Zoom: &lt;code>Alt + Click&lt;/code>&lt;/li>
+&lt;li>&lt;a href="https://github.com/hakimel/reveal.js#pdf-export" target="_blank" rel="noopener">PDF Export&lt;/a>: &lt;code>E&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="code-highlighting">Code Highlighting&lt;/h2>
+&lt;p>Inline code: &lt;code>variable&lt;/code>&lt;/p>
+&lt;p>Code block:&lt;/p>
+&lt;pre>&lt;code class="language-python">porridge = &amp;quot;blueberry&amp;quot;
+if porridge == &amp;quot;blueberry&amp;quot;:
+print(&amp;quot;Eating...&amp;quot;)
+&lt;/code>&lt;/pre>
+&lt;hr>
+&lt;h2 id="math">Math&lt;/h2>
+&lt;p>In-line math: $x + y = z$&lt;/p>
+&lt;p>Block math:&lt;/p>
+&lt;p>$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p>
+&lt;hr>
+&lt;h2 id="fragments">Fragments&lt;/h2>
+&lt;p>Make content appear incrementally&lt;/p>
+&lt;pre>&lt;code>{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code>&lt;/pre>
+&lt;p>Press &lt;code>Space&lt;/code> to play!&lt;/p>
+&lt;span class="fragment " >
+One
+&lt;/span>
+&lt;span class="fragment " >
+**Two**
+&lt;/span>
+&lt;span class="fragment " >
+Three
+&lt;/span>
+&lt;hr>
+&lt;p>A fragment can accept two optional parameters:&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>class&lt;/code>: use a custom style (requires definition in custom CSS)&lt;/li>
+&lt;li>&lt;code>weight&lt;/code>: sets the order in which a fragment appears&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="speaker-notes">Speaker Notes&lt;/h2>
+&lt;p>Add speaker notes to your presentation&lt;/p>
+&lt;pre>&lt;code class="language-markdown">{{% speaker_note %}}
+- Only the speaker can read these notes
+- Press `S` key to view
+{{% /speaker_note %}}
+&lt;/code>&lt;/pre>
+&lt;p>Press the &lt;code>S&lt;/code> key to view the speaker notes!&lt;/p>
+&lt;aside class="notes">
+&lt;ul>
+&lt;li>Only the speaker can read these notes&lt;/li>
+&lt;li>Press &lt;code>S&lt;/code> key to view&lt;/li>
+&lt;/ul>
+&lt;/aside>
+&lt;hr>
+&lt;h2 id="themes">Themes&lt;/h2>
+&lt;ul>
+&lt;li>black: Black background, white text, blue links (default)&lt;/li>
+&lt;li>white: White background, black text, blue links&lt;/li>
+&lt;li>league: Gray background, white text, blue links&lt;/li>
+&lt;li>beige: Beige background, dark text, brown links&lt;/li>
+&lt;li>sky: Blue background, thin dark text, blue links&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;ul>
+&lt;li>night: Black background, thick white text, orange links&lt;/li>
+&lt;li>serif: Cappuccino background, gray text, brown links&lt;/li>
+&lt;li>simple: White background, black text, blue links&lt;/li>
+&lt;li>solarized: Cream-colored background, dark green text, blue links&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;section data-noprocess data-shortcode-slide
+data-background-image="/media/boards.jpg"
+>
+&lt;h2 id="custom-slide">Custom Slide&lt;/h2>
+&lt;p>Customize the slide style and background&lt;/p>
+&lt;pre>&lt;code class="language-markdown">{{&amp;lt; slide background-image=&amp;quot;/media/boards.jpg&amp;quot; &amp;gt;}}
+{{&amp;lt; slide background-color=&amp;quot;#0000FF&amp;quot; &amp;gt;}}
+{{&amp;lt; slide class=&amp;quot;my-style&amp;quot; &amp;gt;}}
+&lt;/code>&lt;/pre>
+&lt;hr>
+&lt;h2 id="custom-css-example">Custom CSS Example&lt;/h2>
+&lt;p>Let&amp;rsquo;s make headers navy colored.&lt;/p>
+&lt;p>Create &lt;code>assets/css/reveal_custom.css&lt;/code> with:&lt;/p>
+&lt;pre>&lt;code class="language-css">.reveal section h1,
+.reveal section h2,
+.reveal section h3 {
+color: navy;
+}
+&lt;/code>&lt;/pre>
+&lt;hr>
+&lt;h1 id="questions">Questions?&lt;/h1>
+&lt;p>&lt;a href="https://github.com/wowchemy/wowchemy-hugo-modules/discussions" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://wowchemy.com/docs/managing-content/#create-slides" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title>On spectral asymptotics for a family of finite-dimensional perturbations of operators of trace class</title><link>https://example.com/publication/2018_doklady/</link><pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate><guid>https://example.com/publication/2018_doklady/</guid><description>&lt;hr></description></item><item><title>Spectral asymptotics for problems with integral constraints</title><link>https://example.com/publication/2017_integral_constraint/</link><pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate><guid>https://example.com/publication/2017_integral_constraint/</guid><description>&lt;hr></description></item><item><title>Exact $L_2$-small ball asymptotics for some Durbin processes</title><link>https://example.com/publication/2017_durbin/</link><pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate><guid>https://example.com/publication/2017_durbin/</guid><description>&lt;hr></description></item><item><title>The small ball asymptotics in Hilbert norm for the Kac-Kiefer-Wolfowitz processes</title><link>https://example.com/publication/2016_kkw/</link><pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate><guid>https://example.com/publication/2016_kkw/</guid><description>&lt;hr></description></item><item><title/><link>https://example.com/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/admin/config.yml</guid><description/></item><item><title>Conservation laws</title><link>https://example.com/project/conservation_laws/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/project/conservation_laws/</guid><description>&lt;p>We study the existence, uniqueness and stability of solutions to some systems of conservation laws. Right now we are working on the non-uniqueness of vanishing viscosity admissible solutions for a Riemann problem for the system of conservation laws ($x\in\mathbb{R}$, $t&amp;gt;0$):
+$$
+s_t + f(s, c)_x = 0,
+$$
+$$
+(cs + a(c))_t + (cf(s,c))_x = 0,
+$$
+with initial data $s(x,0)=c(x,0)=1$ for $x&amp;lt;0$ and $s(x,0)=s(x,0)=0$ for $x&amp;gt;0$. Here&lt;/p>
+&lt;ul>
+&lt;li>$s=s(x,t)\in[0,1]$ is the water phase saturation&lt;/li>
+&lt;li>$c=c(x,t)\in[0,1]$ is the concentration of the chemical agent in the water phase&lt;/li>
+&lt;li>function $f(s,c)$ denotes the fractional flow of water (the Buckley–Leverett function)&lt;/li>
+&lt;li>function $a(c)$ denotes the chemical&amp;rsquo;s adsorption on the rock&lt;/li>
+&lt;/ul>
+&lt;p>It is commonly assumed that $f$ is an S-shaped function of $s$ for every $c$, and $a$ is an increasing concave function.&lt;/p>
+&lt;p>Our aim is to prove that when the flow function depends non-monotonically on the concentration of chemicals, non classical shocks appear (undercompressive shocks/transitional waves), which depend on the ratio of dissipative coefficients, and cause non-uniqueness of solutions. Similar observation was made in a recent work by W. Shen (2017) and in a paper by Entov &amp;amp; Kerimov (1986) for different models of dissipation terms.&lt;/p>
+&lt;p>After the solution is found (and is unique), the next natural question is the stability of the solution under linear, nonlinear perturbations, and asymptotic stability as $t\to\infty$.&lt;/p></description></item><item><title>Enhanced Oil Recovery</title><link>https://example.com/project/eor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/project/eor/</guid><description>&lt;p>From 2017 till 2021 I was involved in the industrial collaboration with Russian petroleum company GazpromNeft. We were doing several projects on Enhanced Oil Recovery methods (EOR). Our special attention was the chemical flooding: the injection of water with dissolved chemical agents (polymer, surfactants etc), which helps to increase the oil production by decreasing the viscosity ratio aspect and increasing the sweep efficiency. We investigated:&lt;/p>
+&lt;ul>
+&lt;li>the influence of the viscous fingering phenomenon for real-field data&lt;/li>
+&lt;li>design of the chemical flooding scheme. In particular, how to calculate the chemical slug sizes in order to prevent the early breakthrough of the slug (see the figure above)&lt;/li>
+&lt;li>semi-analytical construction of the solutions to 1-dimensional models&lt;/li>
+&lt;li>design and interpretation of SWCTT (single-well chemical tracer test)&lt;/li>
+&lt;/ul></description></item><item><title>Small ball probabilities for Gaussian processes</title><link>https://example.com/project/small_ball_probabilities/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/project/small_ball_probabilities/</guid><description>&lt;p>Given a Gaussian process $X(t)$, $t\in[0,1]$, with zero mean, we are interested in the asymptotic behavior of the probability
+$$
+\mathbb{P}(||X(t)||&amp;lt;\varepsilon), \quad \text{as }\varepsilon\to0,
+$$
+which is called small ball probabilities (or small deviation probabilities). Here $||X(t)||$ is some norm.&lt;/p>
+&lt;p>For example, for $|| X(t)||=\sup\limits_{t\in[0,1]}|X(t)|$ this value is just a probability that the trajectory of the process $X(t)$ stays in a small $\varepsilon$-neighbourhood near it&amp;rsquo;s mean value for all times (see figure above), which is usually a &lt;em>rare event&lt;/em>. For example, for a Brownian motion&lt;/p>
+&lt;p>$$
+\mathbb{P}(||X(t)||&amp;lt;\varepsilon)\sim C\cdot\varepsilon\cdot \exp\left(-\frac18\varepsilon^{-2}\right), \quad \text{as }\varepsilon\to0,
+$$
+the probability is exponentially small. The main question of my interest is the following: imagine you have two processes $X_0(t)$ and it&amp;rsquo;s finite dimensional perturbation $X(t)$. How their small ball probabilities are related to each other? You can prove some general theorems, but many inetersting examples (i.e. coming from statistics) are not obeying the assumptions and need individual analysis. My research on the topic is the publications below.&lt;/p></description></item><item><title>Talks</title><link>https://example.com/talks/talks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/talks/talks/</guid><description/></item><item><title>Viscous fingering phenomenon</title><link>https://example.com/project/viscous_fingering/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/project/viscous_fingering/</guid><description>&lt;p>Viscous fingering phenomenon is the instability that occur when you inject a less viscous liquid into a more viscous liquid. If the experiment is done in a thin layer between two glasses, then it is called the Hele-Shaw cell. We consider the displacement of miscible and immiscible fluids in a porous medium. For the one-phase miscible displacement the governing equations are written as follows (the Peaceman model):
+$$
+c_t + \mathrm{div}(u\cdot c)=\varepsilon \Delta c,
+$$
+$$
+u=-\frac{k}{\mu(c)}\nabla p,
+$$
+$$
+\mathrm{div}(u)=0.
+$$
+Here the unknown functions are:&lt;/p>
+&lt;ul>
+&lt;li>$c=c(x,y,t)\in[0,1]$ &amp;mdash; concentration of the more viscous fluid inside a less viscous fluid;&lt;/li>
+&lt;li>$u=u(x,y,t)$ &amp;mdash; velocity of fluid;&lt;/li>
+&lt;li>$p=p(x,y,t)$ &amp;mdash; pressure.&lt;/li>
+&lt;/ul>
+&lt;p>The function $\mu(c)$ is the viscosity function and it&amp;rsquo;s inverse $m(c)=1/\mu(c)$ is the mobility function.
+Imagine that the initial condition is a slightly perturbed Heavy-side function:
+$$
+c(x,y,0) = \mathbb{1}_{x&amp;gt;0} + \eta, \quad \eta\text{ is a small perturbation}
+$$
+Then the instabilities (as in the picture above) will appear and we are interested in the asymptotic behavior of the solution $c$ as $t\to\infty$.&lt;/p>
+&lt;p>The experimental and numerical analysis shows the linear growth of the most &amp;lsquo;&amp;lsquo;fastest&amp;rsquo;&amp;rsquo; finger and the &amp;lsquo;&amp;lsquo;slowest&amp;rsquo;&amp;rsquo; finger. So our aim is to find velocities $v_f$ and $v_b$ (f from front, b from back) such that for all $v&amp;gt;v^f$
+$$
+\lim\limits_{t\to\infty}\sup\limits_{x&amp;gt;v t} c(x,y,t)=1,
+$$
+and for all $v&amp;lt;v^b$
+$$
+\lim\limits_{t\to\infty}\inf\limits_{x&amp;lt;v t} c(x,y,t)=0.
+$$
+Such kind of result is proved by Felix Otto (2006) for the Peaceman model under the assumption of transeverse flow equilibrium condition (TFE model):
+$$
+c_t + \mathrm{div}(u\cdot c)=\varepsilon \Delta c,
+$$
+$$
+u=(u^1, u^2), u^1=\frac{m(c)}{\overline{m(c)}},
+$$
+$$
+\mathrm{div}(u)=0,
+$$
+Here $\overline{m(c)}$ is the average in $y$-direction (for fixed $x$) of the function $m(c(x,y,t))$. Our research is aimed at numerical investigating the linear growth of the considered models, and possible theoretical theatment of the model.&lt;/p></description></item></channel></rss>

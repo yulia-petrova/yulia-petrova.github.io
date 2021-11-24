@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>viscous fingering | Yulia Petrova</title><link>https://example.com/tag/viscous-fingering/</link><atom:link href="https://example.com/tag/viscous-fingering/index.xml" rel="self" type="application/rss+xml"/><description>viscous fingering</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://example.com/media/icon_hub8df033b399123bf68cdca948df172d3_59625_512x512_fill_lanczos_center_3.png</url><title>viscous fingering</title><link>https://example.com/tag/viscous-fingering/</link></image><item><title>Enhanced Oil Recovery</title><link>https://example.com/project/eor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/project/eor/</guid><description>&lt;p>From 2017 till 2021 I was involved in the industrial collaboration with Russian petroleum company GazpromNeft. We were doing several projects on Enhanced Oil Recovery methods (EOR). Our special attention was the chemical flooding: the injection of water with dissolved chemical agents (polymer, surfactants etc), which helps to increase the oil production by decreasing the viscosity ratio aspect and increasing the sweep efficiency. We investigated:&lt;/p>
+&lt;ul>
+&lt;li>the influence of the viscous fingering phenomenon for real-field data&lt;/li>
+&lt;li>design of the chemical flooding scheme. In particular, how to calculate the chemical slug sizes in order to prevent the early breakthrough of the slug (see the figure above)&lt;/li>
+&lt;li>semi-analytical construction of the solutions to 1-dimensional models&lt;/li>
+&lt;li>design and interpretation of SWCTT (single-well chemical tracer test)&lt;/li>
+&lt;/ul></description></item><item><title>Viscous fingering phenomenon</title><link>https://example.com/project/viscous_fingering/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/project/viscous_fingering/</guid><description>&lt;p>Viscous fingering phenomenon is the instability that occur when you inject a less viscous liquid into a more viscous liquid. If the experiment is done in a thin layer between two glasses, then it is called the Hele-Shaw cell. We consider the displacement of miscible and immiscible fluids in a porous medium. For the one-phase miscible displacement the governing equations are written as follows (the Peaceman model):
+$$
+c_t + \mathrm{div}(u\cdot c)=\varepsilon \Delta c,
+$$
+$$
+u=-\frac{k}{\mu(c)}\nabla p,
+$$
+$$
+\mathrm{div}(u)=0.
+$$
+Here the unknown functions are:&lt;/p>
+&lt;ul>
+&lt;li>$c=c(x,y,t)\in[0,1]$ &amp;mdash; concentration of the more viscous fluid inside a less viscous fluid;&lt;/li>
+&lt;li>$u=u(x,y,t)$ &amp;mdash; velocity of fluid;&lt;/li>
+&lt;li>$p=p(x,y,t)$ &amp;mdash; pressure.&lt;/li>
+&lt;/ul>
+&lt;p>The function $\mu(c)$ is the viscosity function and it&amp;rsquo;s inverse $m(c)=1/\mu(c)$ is the mobility function.
+Imagine that the initial condition is a slightly perturbed Heavy-side function:
+$$
+c(x,y,0) = \mathbb{1}_{x&amp;gt;0} + \eta, \quad \eta\text{ is a small perturbation}
+$$
+Then the instabilities (as in the picture above) will appear and we are interested in the asymptotic behavior of the solution $c$ as $t\to\infty$.&lt;/p>
+&lt;p>The experimental and numerical analysis shows the linear growth of the most &amp;lsquo;&amp;lsquo;fastest&amp;rsquo;&amp;rsquo; finger and the &amp;lsquo;&amp;lsquo;slowest&amp;rsquo;&amp;rsquo; finger. So our aim is to find velocities $v_f$ and $v_b$ (f from front, b from back) such that for all $v&amp;gt;v^f$
+$$
+\lim\limits_{t\to\infty}\sup\limits_{x&amp;gt;v t} c(x,y,t)=1,
+$$
+and for all $v&amp;lt;v^b$
+$$
+\lim\limits_{t\to\infty}\inf\limits_{x&amp;lt;v t} c(x,y,t)=0.
+$$
+Such kind of result is proved by Felix Otto (2006) for the Peaceman model under the assumption of transeverse flow equilibrium condition (TFE model):
+$$
+c_t + \mathrm{div}(u\cdot c)=\varepsilon \Delta c,
+$$
+$$
+u=(u^1, u^2), u^1=\frac{m(c)}{\overline{m(c)}},
+$$
+$$
+\mathrm{div}(u)=0,
+$$
+Here $\overline{m(c)}$ is the average in $y$-direction (for fixed $x$) of the function $m(c(x,y,t))$. Our research is aimed at numerical investigating the linear growth of the considered models, and possible theoretical theatment of the model.&lt;/p></description></item></channel></rss>

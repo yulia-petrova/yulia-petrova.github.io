@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | Yulia Petrova</title><link>https://example.com/project/</link><atom:link href="https://example.com/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://example.com/media/icon_hub8df033b399123bf68cdca948df172d3_59625_512x512_fill_lanczos_center_3.png</url><title>Projects</title><link>https://example.com/project/</link></image><item><title>Conservation laws</title><link>https://example.com/project/conservation_laws/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/project/conservation_laws/</guid><description>&lt;p>We study the existence, uniqueness and stability of solutions to some systems of conservation laws. Right now we are working on the non-uniqueness of vanishing viscosity admissible solutions for a Riemann problem for the system of conservation laws ($x\in\mathbb{R}$, $t&amp;gt;0$):
+$$
+s_t + f(s, c)_x = 0,
+$$
+$$
+(cs + a(c))_t + (cf(s,c))_x = 0,
+$$
+with initial data $s(x,0)=c(x,0)=1$ for $x&amp;lt;0$ and $s(x,0)=s(x,0)=0$ for $x&amp;gt;0$. Here&lt;/p>
+&lt;ul>
+&lt;li>$s=s(x,t)\in[0,1]$ is the water phase saturation&lt;/li>
+&lt;li>$c=c(x,t)\in[0,1]$ is the concentration of the chemical agent in the water phase&lt;/li>
+&lt;li>function $f(s,c)$ denotes the fractional flow of water (the Buckley–Leverett function)&lt;/li>
+&lt;li>function $a(c)$ denotes the chemical&amp;rsquo;s adsorption on the rock&lt;/li>
+&lt;/ul>
+&lt;p>It is commonly assumed that $f$ is an S-shaped function of $s$ for every $c$, and $a$ is an increasing concave function.&lt;/p>
+&lt;p>Our aim is to prove that when the flow function depends non-monotonically on the concentration of chemicals, non classical shocks appear (undercompressive shocks/transitional waves), which depend on the ratio of dissipative coefficients, and cause non-uniqueness of solutions. Similar observation was made in a recent work by W. Shen (2017) and in a paper by Entov &amp;amp; Kerimov (1986) for different models of dissipation terms.&lt;/p>
+&lt;p>After the solution is found (and is unique), the next natural question is the stability of the solution under linear, nonlinear perturbations, and asymptotic stability as $t\to\infty$.&lt;/p></description></item><item><title>Enhanced Oil Recovery</title><link>https://example.com/project/eor/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/project/eor/</guid><description>&lt;p>From 2017 till 2021 I was involved in the industrial collaboration with Russian petroleum company GazpromNeft. We were doing several projects on Enhanced Oil Recovery methods (EOR). Our special attention was the chemical flooding: the injection of water with dissolved chemical agents (polymer, surfactants etc), which helps to increase the oil production by decreasing the viscosity ratio aspect and increasing the sweep efficiency. We investigated:&lt;/p>
+&lt;ul>
+&lt;li>the influence of the viscous fingering phenomenon for real-field data&lt;/li>
+&lt;li>design of the chemical flooding scheme. In particular, how to calculate the chemical slug sizes in order to prevent the early breakthrough of the slug (see the figure above)&lt;/li>
+&lt;li>semi-analytical construction of the solutions to 1-dimensional models&lt;/li>
+&lt;li>design and interpretation of SWCTT (single-well chemical tracer test)&lt;/li>
+&lt;/ul></description></item><item><title>Small ball probabilities for Gaussian processes</title><link>https://example.com/project/small_ball_probabilities/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/project/small_ball_probabilities/</guid><description>&lt;p>Given a Gaussian process $X(t)$, $t\in[0,1]$, with zero mean, we are interested in the asymptotic behavior of the probability
+$$
+\mathbb{P}(||X(t)||&amp;lt;\varepsilon), \quad \text{as }\varepsilon\to0,
+$$
+which is called small ball probabilities (or small deviation probabilities). Here $||X(t)||$ is some norm.&lt;/p>
+&lt;p>For example, for $|| X(t)||=\sup\limits_{t\in[0,1]}|X(t)|$ this value is just a probability that the trajectory of the process $X(t)$ stays in a small $\varepsilon$-neighbourhood near it&amp;rsquo;s mean value for all times (see figure above), which is usually a &lt;em>rare event&lt;/em>. For example, for a Brownian motion&lt;/p>
+&lt;p>$$
+\mathbb{P}(||X(t)||&amp;lt;\varepsilon)\sim C\cdot\varepsilon\cdot \exp\left(-\frac18\varepsilon^{-2}\right), \quad \text{as }\varepsilon\to0,
+$$
+the probability is exponentially small. The main question of my interest is the following: imagine you have two processes $X_0(t)$ and it&amp;rsquo;s finite dimensional perturbation $X(t)$. How their small ball probabilities are related to each other? You can prove some general theorems, but many inetersting examples (i.e. coming from statistics) are not obeying the assumptions and need individual analysis. My research on the topic is the publications below.&lt;/p></description></item><item><title>Viscous fingering phenomenon</title><link>https://example.com/project/viscous_fingering/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://example.com/project/viscous_fingering/</guid><description>&lt;p>Viscous fingering phenomenon is the instability that occur when you inject a less viscous liquid into a more viscous liquid. If the experiment is done in a thin layer between two glasses, then it is called the Hele-Shaw cell. We consider the displacement of miscible and immiscible fluids in a porous medium. For the one-phase miscible displacement the governing equations are written as follows (the Peaceman model):
+$$
+c_t + \mathrm{div}(u\cdot c)=\varepsilon \Delta c,
+$$
+$$
+u=-\frac{k}{\mu(c)}\nabla p,
+$$
+$$
+\mathrm{div}(u)=0.
+$$
+Here the unknown functions are:&lt;/p>
+&lt;ul>
+&lt;li>$c=c(x,y,t)\in[0,1]$ &amp;mdash; concentration of the more viscous fluid inside a less viscous fluid;&lt;/li>
+&lt;li>$u=u(x,y,t)$ &amp;mdash; velocity of fluid;&lt;/li>
+&lt;li>$p=p(x,y,t)$ &amp;mdash; pressure.&lt;/li>
+&lt;/ul>
+&lt;p>The function $\mu(c)$ is the viscosity function and it&amp;rsquo;s inverse $m(c)=1/\mu(c)$ is the mobility function.
+Imagine that the initial condition is a slightly perturbed Heavy-side function:
+$$
+c(x,y,0) = \mathbb{1}_{x&amp;gt;0} + \eta, \quad \eta\text{ is a small perturbation}
+$$
+Then the instabilities (as in the picture above) will appear and we are interested in the asymptotic behavior of the solution $c$ as $t\to\infty$.&lt;/p>
+&lt;p>The experimental and numerical analysis shows the linear growth of the most &amp;lsquo;&amp;lsquo;fastest&amp;rsquo;&amp;rsquo; finger and the &amp;lsquo;&amp;lsquo;slowest&amp;rsquo;&amp;rsquo; finger. So our aim is to find velocities $v_f$ and $v_b$ (f from front, b from back) such that for all $v&amp;gt;v^f$
+$$
+\lim\limits_{t\to\infty}\sup\limits_{x&amp;gt;v t} c(x,y,t)=1,
+$$
+and for all $v&amp;lt;v^b$
+$$
+\lim\limits_{t\to\infty}\inf\limits_{x&amp;lt;v t} c(x,y,t)=0.
+$$
+Such kind of result is proved by Felix Otto (2006) for the Peaceman model under the assumption of transeverse flow equilibrium condition (TFE model):
+$$
+c_t + \mathrm{div}(u\cdot c)=\varepsilon \Delta c,
+$$
+$$
+u=(u^1, u^2), u^1=\frac{m(c)}{\overline{m(c)}},
+$$
+$$
+\mathrm{div}(u)=0,
+$$
+Here $\overline{m(c)}$ is the average in $y$-direction (for fixed $x$) of the function $m(c(x,y,t))$. Our research is aimed at numerical investigating the linear growth of the considered models, and possible theoretical theatment of the model.&lt;/p></description></item></channel></rss>

@@ -1,0 +1,138 @@
+<!doctype html><html lang=en-us>
+<head>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1">
+<meta http-equiv=x-ua-compatible content="IE=edge">
+<meta name=generator content="Wowchemy 5.3.0 for Hugo">
+<meta name=author content="Yulia Petrova">
+<meta name=description content="This paper numerically investigates the viscous fngering phenomenon. Two-dimensional horizontal model reservoir was considered for homogeneous porous media with immiscible fluids. A series of numerical simulations was performed with two distinct solvers for various combinations of relative permeability, capillary pressure and material properties in order to analyse morphological properties of viscous fngers in a wide-range spectrum of real feld conditions. A phenomenological classifcation of viscous fngers is proposed.">
+<link rel=alternate hreflang=en-us href=https://example.com/publication/2020_rawfielddata/>
+<link rel=preconnect href=https://fonts.gstatic.com crossorigin>
+<meta name=theme-color content="#1565c0">
+<script src=/js/mathjax-config.js></script>
+<link rel=stylesheet href=/css/vendor-bundle.min.f1ecf783c14edc00c9320c205831ad8e.css media=print onload="this.media='all'">
+<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin=anonymous media=print onload="this.media='all'">
+<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css crossorigin=anonymous title=hl-light media=print onload="this.media='all'">
+<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css crossorigin=anonymous title=hl-dark media=print onload="this.media='all'" disabled>
+<script src=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js integrity crossorigin=anonymous async></script>
+<link rel=preload as=style href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+<link rel=stylesheet href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media=print onload="this.media='all'">
+<link rel=stylesheet href=/css/wowchemy.52927af53ae4a6f611e422364d52eb1d.css>
+<link rel=manifest href=/manifest.webmanifest>
+<link rel=icon type=image/png href=/media/icon_hub8df033b399123bf68cdca948df172d3_59625_32x32_fill_lanczos_center_3.png>
+<link rel=apple-touch-icon type=image/png href=/media/icon_hub8df033b399123bf68cdca948df172d3_59625_180x180_fill_lanczos_center_3.png>
+<link rel=canonical href=https://example.com/publication/2020_rawfielddata/>
+<meta property="twitter:card" content="summary">
+<meta property="og:site_name" content="Yulia Petrova">
+<meta property="og:url" content="https://example.com/publication/2020_rawfielddata/">
+<meta property="og:title" content="Numerical investigation of viscous fingering phenomenon for raw field data | Yulia Petrova">
+<meta property="og:description" content="This paper numerically investigates the viscous fngering phenomenon. Two-dimensional horizontal model reservoir was considered for homogeneous porous media with immiscible fluids. A series of numerical simulations was performed with two distinct solvers for various combinations of relative permeability, capillary pressure and material properties in order to analyse morphological properties of viscous fngers in a wide-range spectrum of real feld conditions. A phenomenological classifcation of viscous fngers is proposed."><meta property="og:image" content="https://example.com/media/icon_hub8df033b399123bf68cdca948df172d3_59625_512x512_fill_lanczos_center_3.png">
+<meta property="twitter:image" content="https://example.com/media/icon_hub8df033b399123bf68cdca948df172d3_59625_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
+<meta property="article:published_time" content="2017-01-01T00:00:00+00:00">
+<meta property="article:modified_time" content="2020-01-01T00:00:00+00:00">
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://example.com/publication/2020_rawfielddata/"},"headline":"Numerical investigation of viscous fingering phenomenon for raw field data","datePublished":"2017-01-01T00:00:00Z","dateModified":"2020-01-01T00:00:00Z","author":{"@type":"Person","name":"Fedor Bakharev"},"publisher":{"@type":"Organization","name":"Yulia Petrova","logo":{"@type":"ImageObject","url":"https://example.com/media/icon_hub8df033b399123bf68cdca948df172d3_59625_192x192_fill_lanczos_center_3.png"}},"description":"This paper numerically investigates the viscous fngering phenomenon. Two-dimensional horizontal model reservoir was considered for homogeneous porous media with immiscible fluids. A series of numerical simulations was performed with two distinct solvers for various combinations of relative permeability, capillary pressure and material properties in order to analyse morphological properties of viscous fngers in a wide-range spectrum of real feld conditions. A phenomenological classifcation of viscous fngers is proposed."}</script>
+<title>Numerical investigation of viscous fingering phenomenon for raw field data | Yulia Petrova</title>
+</head>
+<body id=top data-spy=scroll data-offset=70 data-target=#TableOfContents class=page-wrapper data-wc-page-id=1bdae2c7f03939a33085009c43ea1892>
+<script src=/js/wowchemy-init.min.da42964e270e05a6063fbca894d7ccff.js></script>
+<aside class=search-modal id=search>
+<div class=container>
+<section class=search-header>
+<div class="row no-gutters justify-content-between mb-3">
+<div class=col-6>
+<h1>Search</h1>
+</div>
+<div class="col-6 col-search-close">
+<a class=js-search href=# aria-label=Close><i class="fas fa-times-circle text-muted" aria-hidden=true></i></a>
+</div>
+</div>
+<div id=search-box>
+<input name=q id=search-query placeholder=Search... autocapitalize=off autocomplete=off autocorrect=off spellcheck=false type=search class=form-control aria-label=Search...>
+</div>
+</section>
+<section class=section-search-results>
+<div id=search-hits>
+</div>
+</section>
+</div>
+</aside>
+<div class=page-header>
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id=navbar-main>
+<div class=container-xl>
+<div class="d-none d-lg-inline-flex">
+<a class=navbar-brand href=/>Yulia Petrova</a>
+</div>
+<button type=button class=navbar-toggler data-toggle=collapse data-target=#navbar-content aria-controls=navbar-content aria-expanded=false aria-label="Toggle navigation">
+<span><i class="fas fa-bars"></i></span>
+</button>
+<div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+<a class=navbar-brand href=/>Yulia Petrova</a>
+</div>
+<div class="navbar-collapse main-menu-item collapse justify-content-end" id=navbar-content>
+<ul class="navbar-nav d-md-inline-flex">
+<li class=nav-item>
+<a class=nav-link href=/#about><span>Home</span></a>
+</li>
+<li class=nav-item>
+<a class="nav-link active" href=/publication/><span>Publications</span></a>
+</li>
+<li class=nav-item>
+<a class=nav-link href=/project/><span>Projects</span></a>
+</li>
+<li class=nav-item>
+<a class=nav-link href=/teaching/><span>Teaching</span></a>
+</li>
+</ul>
+</div>
+<ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+</ul>
+</div>
+</nav>
+</div>
+<div class=page-body>
+<div class=pub>
+<div class="article-container pt-3">
+<h1>Numerical investigation of viscous fingering phenomenon for raw field data</h1>
+<div class=article-metadata>
+<div>
+<span>
+Fedor Bakharev</span>, <span>
+Lorenzo Campoli</span>, <span>
+Aleksandr Enin</span>, <span>
+Sergey Matveenko</span>, <span class=author-highlighted>
+Yulia Petrova</span>, <span>
+Sergey Tikhomirov</span>, <span>
+Andrey Yakovlev</span>
+</div>
+<span class=article-date>
+January 2020
+</span>
+</div>
+<div class="btn-links mb-3">
+<a class="btn btn-outline-primary btn-page-header" href=https://link.springer.com/content/pdf/10.1007/s11242-020-01400-5.pdf target=_blank rel=noopener>
+PDF
+</a>
+<a href=# class="btn btn-outline-primary btn-page-header js-cite-modal" data-filename=/publication/2020_rawfielddata/cite.bib>
+Cite
+</a>
+<a class="btn btn-outline-primary btn-page-header" href=/project/viscous_fingering/>
+Project
+</a>
+<a class="btn btn-outline-primary btn-page-header" href=/project/eor/>
+Project
+</a>
+<a class="btn btn-outline-primary btn-page-header" href=https://doi.org/10.1007/s11242-020-01400-5 target=_blank rel=noopener>
+DOI
+</a>
+</div>
+</div>
+<div class=article-container>
+<p class=pub-abstract>This paper numerically investigates the viscous fngering phenomenon. Two-dimensional horizontal model reservoir was considered for homogeneous porous media with immiscible fluids. A series of numerical simulations was performed with two distinct solvers for various combinations of relative permeability, capillary pressure and material properties in order to analyse morphological properties of viscous fngers in a wide-range spectrum of real feld conditions. A phenomenological classifcation of viscous fngers is proposed.</p>
+<div class=space-below></div>
+<div class=article-style><hr>
+</div>
+</div>
+</div>
+</div>
+</body>
+</html>

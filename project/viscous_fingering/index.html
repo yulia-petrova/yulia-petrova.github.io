@@ -1,0 +1,327 @@
+<!doctype html><html lang=en-us>
+<head>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1">
+<meta http-equiv=x-ua-compatible content="IE=edge">
+<meta name=generator content="Wowchemy 5.3.0 for Hugo">
+<meta name=author content="Yulia Petrova">
+<meta name=description content="Here is my research on viscous fingering phenomenon --- an instability that occur when you inject a less viscous fluid into a more viscous fluid (e.g. water into oil).">
+<link rel=alternate hreflang=en-us href=https://example.com/project/viscous_fingering/>
+<link rel=preconnect href=https://fonts.gstatic.com crossorigin>
+<meta name=theme-color content="#1565c0">
+<script src=/js/mathjax-config.js></script>
+<link rel=stylesheet href=/css/vendor-bundle.min.f1ecf783c14edc00c9320c205831ad8e.css media=print onload="this.media='all'">
+<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin=anonymous media=print onload="this.media='all'">
+<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css crossorigin=anonymous title=hl-light media=print onload="this.media='all'">
+<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css crossorigin=anonymous title=hl-dark media=print onload="this.media='all'" disabled>
+<script src=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js integrity crossorigin=anonymous async></script>
+<link rel=preload as=style href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+<link rel=stylesheet href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media=print onload="this.media='all'">
+<link rel=stylesheet href=/css/wowchemy.52927af53ae4a6f611e422364d52eb1d.css>
+<link rel=manifest href=/manifest.webmanifest>
+<link rel=icon type=image/png href=/media/icon_hub8df033b399123bf68cdca948df172d3_59625_32x32_fill_lanczos_center_3.png>
+<link rel=apple-touch-icon type=image/png href=/media/icon_hub8df033b399123bf68cdca948df172d3_59625_180x180_fill_lanczos_center_3.png>
+<link rel=canonical href=https://example.com/project/viscous_fingering/>
+<meta property="twitter:card" content="summary_large_image">
+<meta property="og:site_name" content="Yulia Petrova">
+<meta property="og:url" content="https://example.com/project/viscous_fingering/">
+<meta property="og:title" content="Viscous fingering phenomenon | Yulia Petrova">
+<meta property="og:description" content="Here is my research on viscous fingering phenomenon --- an instability that occur when you inject a less viscous fluid into a more viscous fluid (e.g. water into oil)."><meta property="og:image" content="https://example.com/project/viscous_fingering/featured.png">
+<meta property="twitter:image" content="https://example.com/project/viscous_fingering/featured.png"><meta property="og:locale" content="en-us">
+<script type=application/ld+json>{"@context":"https://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://example.com/project/viscous_fingering/"},"headline":"Viscous fingering phenomenon","image":["https://example.com/project/viscous_fingering/featured.png"],"datePublished":"0001-01-01T00:00:00Z","dateModified":"0001-01-01T00:00:00Z","author":{"@type":"Person","name":"Yulia Petrova"},"publisher":{"@type":"Organization","name":"Yulia Petrova","logo":{"@type":"ImageObject","url":"https://example.com/media/icon_hub8df033b399123bf68cdca948df172d3_59625_192x192_fill_lanczos_center_3.png"}},"description":"Here is my research on viscous fingering phenomenon --- an instability that occur when you inject a less viscous fluid into a more viscous fluid (e.g. water into oil)."}</script>
+<title>Viscous fingering phenomenon | Yulia Petrova</title>
+</head>
+<body id=top data-spy=scroll data-offset=70 data-target=#TableOfContents class=page-wrapper data-wc-page-id=bb0a1f01bb513df9f7af9bad8efdb188>
+<script src=/js/wowchemy-init.min.da42964e270e05a6063fbca894d7ccff.js></script>
+<aside class=search-modal id=search>
+<div class=container>
+<section class=search-header>
+<div class="row no-gutters justify-content-between mb-3">
+<div class=col-6>
+<h1>Search</h1>
+</div>
+<div class="col-6 col-search-close">
+<a class=js-search href=# aria-label=Close><i class="fas fa-times-circle text-muted" aria-hidden=true></i></a>
+</div>
+</div>
+<div id=search-box>
+<input name=q id=search-query placeholder=Search... autocapitalize=off autocomplete=off autocorrect=off spellcheck=false type=search class=form-control aria-label=Search...>
+</div>
+</section>
+<section class=section-search-results>
+<div id=search-hits>
+</div>
+</section>
+</div>
+</aside>
+<div class=page-header>
+<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id=navbar-main>
+<div class=container-xl>
+<div class="d-none d-lg-inline-flex">
+<a class=navbar-brand href=/>Yulia Petrova</a>
+</div>
+<button type=button class=navbar-toggler data-toggle=collapse data-target=#navbar-content aria-controls=navbar-content aria-expanded=false aria-label="Toggle navigation">
+<span><i class="fas fa-bars"></i></span>
+</button>
+<div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+<a class=navbar-brand href=/>Yulia Petrova</a>
+</div>
+<div class="navbar-collapse main-menu-item collapse justify-content-end" id=navbar-content>
+<ul class="navbar-nav d-md-inline-flex">
+<li class=nav-item>
+<a class=nav-link href=/#about><span>Home</span></a>
+</li>
+<li class=nav-item>
+<a class=nav-link href=/publication/><span>Publications</span></a>
+</li>
+<li class=nav-item>
+<a class="nav-link active" href=/project/><span>Projects</span></a>
+</li>
+<li class=nav-item>
+<a class=nav-link href=/teaching/><span>Teaching</span></a>
+</li>
+</ul>
+</div>
+<ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+</ul>
+</div>
+</nav>
+</div>
+<div class=page-body>
+<article class="article article-project">
+<div class="article-container pt-3">
+<h1>Viscous fingering phenomenon</h1>
+<div class=article-metadata>
+<span class=article-date>
+November 11, 1011
+</span>
+</div>
+</div>
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style=max-width:474px;max-height:385px>
+<div style=position:relative>
+<img src=/project/viscous_fingering/featured.png width=474 height=385 alt class=featured-image>
+</div>
+</div>
+<div class=article-container>
+<div class=article-style>
+<p>Viscous fingering phenomenon is the instability that occur when you inject a less viscous liquid into a more viscous liquid. If the experiment is done in a thin layer between two glasses, then it is called the Hele-Shaw cell. We consider the displacement of miscible and immiscible fluids in a porous medium. For the one-phase miscible displacement the governing equations are written as follows (the Peaceman model):
+$$
+c_t + \mathrm{div}(u\cdot c)=\varepsilon \Delta c,
+$$
+$$
+u=-\frac{k}{\mu(c)}\nabla p,
+$$
+$$
+\mathrm{div}(u)=0.
+$$
+Here the unknown functions are:</p>
+<ul>
+<li>$c=c(x,y,t)\in[0,1]$ &mdash; concentration of the more viscous fluid inside a less viscous fluid;</li>
+<li>$u=u(x,y,t)$ &mdash; velocity of fluid;</li>
+<li>$p=p(x,y,t)$ &mdash; pressure.</li>
+</ul>
+<p>The function $\mu(c)$ is the viscosity function and it&rsquo;s inverse $m(c)=1/\mu(c)$ is the mobility function.
+Imagine that the initial condition is a slightly perturbed Heavy-side function:
+$$
+c(x,y,0) = \mathbb{1}_{x>0} + \eta, \quad \eta\text{ is a small perturbation}
+$$
+Then the instabilities (as in the picture above) will appear and we are interested in the asymptotic behavior of the solution $c$ as $t\to\infty$.</p>
+<p>The experimental and numerical analysis shows the linear growth of the most &lsquo;&lsquo;fastest&rsquo;&rsquo; finger and the &lsquo;&lsquo;slowest&rsquo;&rsquo; finger. So our aim is to find velocities $v_f$ and $v_b$ (f from front, b from back) such that for all $v>v^f$
+$$
+\lim\limits_{t\to\infty}\sup\limits_{x>v t} c(x,y,t)=1,
+$$
+and for all $v&lt;v^b$
+$$
+\lim\limits_{t\to\infty}\inf\limits_{x&lt;v t} c(x,y,t)=0.
+$$
+Such kind of result is proved by Felix Otto (2006) for the Peaceman model under the assumption of transeverse flow equilibrium condition (TFE model):
+$$
+c_t + \mathrm{div}(u\cdot c)=\varepsilon \Delta c,
+$$
+$$
+u=(u^1, u^2), u^1=\frac{m(c)}{\overline{m(c)}},
+$$
+$$
+\mathrm{div}(u)=0,
+$$
+Here $\overline{m(c)}$ is the average in $y$-direction (for fixed $x$) of the function $m(c(x,y,t))$. Our research is aimed at numerical investigating the linear growth of the considered models, and possible theoretical theatment of the model.</p>
+</div>
+<div class="project-related-pages content-widget-hr">
+<h2>Publications</h2>
+<div class="media stream-item">
+<div class=media-body>
+<div class="section-subheading article-title mb-0 mt-0">
+<a href=/publication/2021_gvb_spe/>Calculation of graded viscosity banks profile on the rear end of the polymer slug</a>
+</div>
+<a href=/publication/2021_gvb_spe/ class=summary-link>
+<div class=article-style>
+One of the motivations for EOR methods is the possible instability of the front between phases with high contrast of mobility. Highly …
+</div>
+</a>
+<div class="stream-meta article-metadata">
+<div>
+<span>
+Fedor Bakharev</span>, <span>
+Andrey Groman</span>, <span>
+Aleksandr Enin</span>, <span>
+Alexander Kalyuzhnyuk</span>, <span>
+Konstantin Kalinin</span>, <span class=author-highlighted>
+Yulia Petrova</span>, <span>
+Nikita Rastegaev</span>, <span>
+Sergey Tikhomirov</span>
+</div>
+</div>
+<div class=btn-links>
+<a href=# class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename=/publication/2021_gvb_spe/cite.bib>
+Cite
+</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=/project/viscous_fingering/>
+Project
+</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=/project/eor/>
+Project
+</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=https://doi.org/https://doi.org/10.2118/206426-MS target=_blank rel=noopener>
+DOI
+</a>
+</div>
+</div>
+<div class=ml-3>
+</div>
+</div>
+<div class="media stream-item">
+<div class=media-body>
+<div class="section-subheading article-title mb-0 mt-0">
+<a href=/publication/2021_linear_velocity/>Velocity of viscous fingers in miscible displacement: Comparison with analytical models</a>
+</div>
+<a href=/publication/2021_linear_velocity/ class=summary-link>
+<div class=article-style>
+The paper investigates the linear growth of the mixing zone, in a pessimistic scenario, during polymer slug injection into a water …
+</div>
+</a>
+<div class="stream-meta article-metadata">
+<div>
+<span>
+Fedor Bakharev</span>, <span>
+Andrey Groman</span>, <span>
+Aleksandr Enin</span>, <span>
+Alexander Kalyuzhnyuk</span>, <span>
+Sergey Matveenko</span>, <span class=author-highlighted>
+Yulia Petrova</span>, <span>
+Ivan Starkov</span>, <span>
+Sergey Tikhomirov</span>
+</div>
+</div>
+<div class=btn-links>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=https://arxiv.org/pdf/2012.02849.pdf target=_blank rel=noopener>
+PDF
+</a>
+<a href=# class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename=/publication/2021_linear_velocity/cite.bib>
+Cite
+</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=/project/viscous_fingering/>
+Project
+</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=/project/eor/>
+Project
+</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=https://doi.org/https://doi.org/10.1016/j.cam.2021.113808 target=_blank rel=noopener>
+DOI
+</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=https://arxiv.org/abs/2012.02849 target=_blank rel=noopener>
+arXiv</a>
+</div>
+</div>
+<div class=ml-3>
+</div>
+</div>
+<div class="media stream-item">
+<div class=media-body>
+<div class="section-subheading article-title mb-0 mt-0">
+<a href=/publication/2020_gvb/>Optimal polymer slugs injection profiles</a>
+</div>
+<a href=/publication/2020_gvb/ class=summary-link>
+<div class=article-style>
+The graded viscosity banks technology (tapering) for polymer flooding is studied for several different models of mixing zones behavior. …
+</div>
+</a>
+<div class="stream-meta article-metadata">
+<div>
+<span>
+Fedor Bakharev</span>, <span>
+Aleksandr Enin</span>, <span>
+Konstantin Kalinin</span>, <span class=author-highlighted>
+Yulia Petrova</span>, <span>
+Nikita Rastegaev</span>, <span>
+Sergey Tikhomirov</span>
+</div>
+</div>
+<div class=btn-links>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=https://arxiv.org/pdf/2012.03114.pdf target=_blank rel=noopener>
+PDF
+</a>
+<a href=# class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename=/publication/2020_gvb/cite.bib>
+Cite
+</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=/project/viscous_fingering/>
+Project
+</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=/project/eor/>
+Project
+</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=https://arxiv.org/abs/2012.03114 target=_blank rel=noopener>
+arXiv</a>
+</div>
+</div>
+<div class=ml-3>
+</div>
+</div>
+<div class="media stream-item">
+<div class=media-body>
+<div class="section-subheading article-title mb-0 mt-0">
+<a href=/publication/2020_rawfielddata/>Numerical investigation of viscous fingering phenomenon for raw field data</a>
+</div>
+<a href=/publication/2020_rawfielddata/ class=summary-link>
+<div class=article-style>
+This paper numerically investigates the viscous fngering phenomenon. Two-dimensional horizontal model reservoir was considered for …
+</div>
+</a>
+<div class="stream-meta article-metadata">
+<div>
+<span>
+Fedor Bakharev</span>, <span>
+Lorenzo Campoli</span>, <span>
+Aleksandr Enin</span>, <span>
+Sergey Matveenko</span>, <span class=author-highlighted>
+Yulia Petrova</span>, <span>
+Sergey Tikhomirov</span>, <span>
+Andrey Yakovlev</span>
+</div>
+</div>
+<div class=btn-links>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=https://link.springer.com/content/pdf/10.1007/s11242-020-01400-5.pdf target=_blank rel=noopener>
+PDF
+</a>
+<a href=# class="btn btn-outline-primary btn-page-header btn-sm js-cite-modal" data-filename=/publication/2020_rawfielddata/cite.bib>
+Cite
+</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=/project/viscous_fingering/>
+Project
+</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=/project/eor/>
+Project
+</a>
+<a class="btn btn-outline-primary btn-page-header btn-sm" href=https://doi.org/10.1007/s11242-020-01400-5 target=_blank rel=noopener>
+DOI
+</a>
+</div>
+</div>
+<div class=ml-3>
+</div>
+</div>
+</div>
+</div>
+</article>
+</div>
+</body>
+</html>
