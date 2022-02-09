@@ -25,7 +25,7 @@ $$
 \mathbb{P}(||X(t)||&amp;lt;\varepsilon), \quad \text{as }\varepsilon\to0,
 $$
 which is called small ball probabilities (or small deviation probabilities). Here $||X(t)||$ is some norm.&lt;/p>
-&lt;p>For example, for $|| X(t)||=\sup\limits_{t\in[0,1]}|X(t)|$ this value is just a probability that the trajectory of the process $X(t)$ stays in a small $\varepsilon$-neighbourhood near it&amp;rsquo;s mean value for all times (see figure above), which is usually a &lt;em>rare event&lt;/em>. For example, for a Brownian motion&lt;/p>
+&lt;p>For example, for $|| X(t)||=\sup\limits_{t\in[0,1]}|X(t)|$ this value is just a probability that the trajectory of the process $X(t)$ stays in a small $\varepsilon$-neighbourhood near it&amp;rsquo;s mean value for all times (see figure above), which is usually a *rare event*. For example, for a Brownian motion&lt;/p>
 &lt;p>$$
 \mathbb{P}(||X(t)||&amp;lt;\varepsilon)\sim C\cdot\varepsilon\cdot \exp\left(-\frac18\varepsilon^{-2}\right), \quad \text{as }\varepsilon\to0,
 $$
