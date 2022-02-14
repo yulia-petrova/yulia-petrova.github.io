@@ -1,0 +1,54 @@
+:root {
+  --r-main-font-size: 32px;
+  --r-block-margin: 28px;
+  --r-heading-margin: 0 0 20px 0;
+  --r-heading1-color: #ef1010;
+  --r-heading2-color: #068de9;
+  --r-heading3-color: #169f40;
+  --r-heading4-color: #d3d696;
+  --r-heading5-color: #f00ee8;
+  --r-heading6-color: #0ef0eb;
+}
+
+.reveal h1 {
+  color: var(--r-heading1-color);
+  text-align: left;
+  font-size:3.77em
+}
+
+.reveal h2 {
+  color: var(--r-heading2-color);
+  text-align: left;
+}
+
+.reveal h3 {
+  color: var(--r-heading3-color);
+  text-align: left;
+}
+
+.reveal h4 {
+  color: var(--r-heading4-color);
+  text-align: left;
+  text-transform: none;
+}
+
+.reveal h5 {
+  color: var(--r-heading5-color);
+  text-align: left;
+}
+
+.reveal h6 {
+  text-align: left;
+  text-transform: none;
+  font-size: 20px;
+}
+
+em { color: orange }
+
+img[alt=nonuniqueness] { width: 350px; }
+img[alt=polymer_L_regions] { width: 500px; }
+img[alt=polymer_1a] { width: 500px; }
+img[alt=polymer_1b] { width: 500px; }
+img[alt=polymer_1c] { width: 500px; }
+img[alt=polymer_RP_multiple] { width: 300px; }
+
