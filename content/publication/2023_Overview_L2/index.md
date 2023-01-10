@@ -1,16 +1,15 @@
 ---
 
-title: "Vanishing adsorption admissibility criterion for contact discontinuities in the polymer model"
+title: "$L_2$-small ball asymptotics for Gaussian random functions"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
+- Alexander Nazarov
 - admin
-- Bradley J. Plohr
-- Dan Marchesin
 
-date: "2022-11-21T00:00:00Z"
+date: "2023-01-10T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -20,13 +19,13 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: Preprint
 #publication_short: 
 
-abstract: We introduce the vanishing adsorption criterion for contact discontinuities and apply it to the Glimm-Isaacson model of chemical flooding of a petroleum reservoir. We prove that this criterion, which derives from a physical effect, justifies the admissibility criteria adopted previously by Keyfitz-Kranzer, Isaacson-Temple, and de Souza-Marchesin for models such that the fractional flow function depends monotonically on chemical concentration. We also demonstrate that the adsorption criterion selects the undercompressive contact discontinuities required to solve the general Riemann problem in an example model with non-monotone dependence.
+abstract: This article is a survey of the results on asymptotic behavior of small ball probabilities in $L_2$-norm. Article in progress.
 
 # Summary. An optional shortened abstract.
 #summary:  We consider the problem of a small ball behavior in $L_2$-norm for some Gaussian processes of statistical interest.
@@ -40,11 +39,8 @@ featured: true
 # links:
 # - name: Custom Link
 #   url: http://example.org
-links:
- - name: arXiv
-   url: https://arxiv.org/abs/2211.10326
 
-url_pdf: 'https://arxiv.org/pdf/2211.10326.pdf'
+url_pdf: 'https://yulia-petrova.github.io/uploads/preprints/Overview_small_ball_L2_2023-01-09-Overview_sections1234.pdf'
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
@@ -66,8 +62,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- conservation_laws
-- EOR
+- small_ball_probabilities
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
