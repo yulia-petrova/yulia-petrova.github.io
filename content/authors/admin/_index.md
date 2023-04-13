@@ -70,7 +70,7 @@ email: "yu.pe.petrova@yandex.ru"
 highlight_name: true
 ---
 
-I am an Assistant Professor at [PUC-Rio](http://www.mat.puc-rio.br/), Rio de Janeiro, Brazil. Broadly speaking, my research interests include PDEs and their applications to different fields: probability theory, fluid dynamics and solving real-world problems.
+I am an Assistant Professor at the [department of Mathematics](http://www.mat.puc-rio.br/) at [PUC-Rio](http://www.mat.puc-rio.br/), Rio de Janeiro, Brazil. Broadly speaking, my research interests include PDEs and their applications to different fields: probability theory, fluid dynamics and solving real-world problems.
 
 I did my postdoc at [Fluid dynamics Laboratory](https://fluid.impa.br/Home) at [IMPA](https://impa.br/en_US/), Rio de Janeiro, and my mentor is [Dan Marchesin](https://web.archive.org/web/20210815113601/https://marchesi.impa.br/Home). Before I was a researcher at [Chebyshev Laboratory of Mathematics & Computer Science department of St. Petersburg State University](https://chebyshev.spbu.ru/) involved in the lab's collaboration with petroleum company GazpromNeft.
 
