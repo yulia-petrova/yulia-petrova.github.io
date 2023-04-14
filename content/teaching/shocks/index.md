@@ -5,7 +5,7 @@
 - Room 866, Edifio Leme, PUC-Rio
 
 ##### Material: 
-- Handwritten notes (will appear soon)
++ Handwritten notes (will appear soon)
 + Books: 
     + J. Smoller ``Shock waves and reaction-diffusion equations'', [PDF](Smoller.pdf)
     + C. Dafermos ``Hyberbolic conservation laws in continuum physics'', [PDF](Dafermos.pdf)
