@@ -5,7 +5,7 @@
 - Room 866, Department of Mathematics, Edifio Leme, PUC-Rio
 
 ##### Material: 
-+ My (handwritten) notes: [Lecture 1](Lecture1.pdf), notes on wave equation ([Lectures 2--4](Lectures2-4.pdf)), notes on conservation laws ([Lectures 5--7](Lectures5-7.pdf)).
++ My (handwritten) notes: introduction ([Lecture 1](Lecture1.pdf)), notes on wave equation ([Lectures 2--4](Lectures2-4.pdf)), notes on conservation laws ([Lectures 5--7](Lectures5-7.pdf)).
 + Books: 
     + J. Smoller ''Shock waves and reaction-diffusion equations'', [PDF](Smoller.pdf)
     + C. Dafermos ''Hyberbolic conservation laws in continuum physics'', [PDF](Dafermos.pdf)
