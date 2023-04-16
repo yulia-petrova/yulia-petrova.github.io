@@ -5,18 +5,21 @@
 - Room 866, Department of Mathematics, Edifio Leme, PUC-Rio
 
 ##### Material: 
-+ My (handwritten) notes: [Lect1: slides](Lecture1.pdf), lectures on wave equation [Lect2-4](Lectures2-4.pdf), lectures on conservation laws [Lect5-7](Lectures5-7.pdf).
-+ Problem-solving sessions: [Session1](Problems1.pdf).
-+ Exam: [list of questions](Exam-questions.pdf).
++ My (handwritten) notes: [Lecture 1](Lecture1.pdf), notes on wave equation ([Lectures 2--4](Lectures2-4.pdf)), notes on conservation laws ([Lect5-7](Lectures5-7.pdf)).
 + Books: 
     + J. Smoller ''Shock waves and reaction-diffusion equations'', [PDF](Smoller.pdf)
     + C. Dafermos ''Hyberbolic conservation laws in continuum physics'', [PDF](Dafermos.pdf)
     + L.C. Evans ''Partial differential equations'', [PDE](Evans-PDE.pdf)
 + Video lectures on Youtube closely related to the course:
-    + Constantine Dafermos, course of 9 lectures at IMPA  [Hyberbolic conservation laws](https://www.youtube.com/playlist?list=PLo4jXE-LdDTTg8Z4iGDNOSDA74rcwoU2a)
-    + Henri Berestycki, mini course of 4 lectures at IMPA [Reaction-diffusion propagation non-homogenous media](https://www.youtube.com/watch?v=DOw3N7ZbejI&list=PLo4jXE-LdDTQfW_IQ-umx660Plg9NX-nC&index=15)
+    + Constantine Dafermos, course of 9 lectures at IMPA: [Hyberbolic conservation laws](https://www.youtube.com/playlist?list=PLo4jXE-LdDTTg8Z4iGDNOSDA74rcwoU2a)
+    + Henri Berestycki, mini course of 4 lectures at IMPA: [Reaction-diffusion propagation non-homogenous media](https://www.youtube.com/watch?v=DOw3N7ZbejI&list=PLo4jXE-LdDTQfW_IQ-umx660Plg9NX-nC&index=15)
 
 ##### Exercises:
-- [List1](Ex1.pdf). Deadline: 24 of March 2023
-- [List2](Ex2.pdf). Deadline: 7 of April 2023
-- [List3](Ex3.pdf). Deadline: 28 of April 2023
++ Problem-solving sessions: [Session1](Problems1.pdf).
++ Homeworks:
+    + [List1](Ex1.pdf). Deadline: 24 of March 2023
+    + [List2](Ex2.pdf). Deadline: 7 of April 2023
+    + [List3](Ex3.pdf). Deadline: 28 of April 2023
+
+##### Exam: 
++ [Questions](Exam-questions.pdf).
