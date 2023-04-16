@@ -1,17 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yulia Petrova</title><link>https://yulia-petrova.github.io/teaching/</link><atom:link href="https://yulia-petrova.github.io/teaching/index.xml" rel="self" type="application/rss+xml"/><description>Yulia Petrova</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://yulia-petrova.github.io/media/icon_hub8df033b399123bf68cdca948df172d3_59625_512x512_fill_lanczos_center_3.png</url><title>Yulia Petrova</title><link>https://yulia-petrova.github.io/teaching/</link></image><item><title/><link>https://yulia-petrova.github.io/teaching/shocks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://yulia-petrova.github.io/teaching/shocks/</guid><description>&lt;h3 id="shock-waves-in-conservation-laws-and-reaction-diffusion-equations">Shock waves in conservation laws and reaction-diffusion equations&lt;/h3>
 &lt;h5 id="classes">Classes:&lt;/h5>
 &lt;ul>
-&lt;li>March-June 2023. Tuesday, 1pm - 3pm and Friday, 9am - 11am&lt;/li>
-&lt;li>Room 866, Edifio Leme, PUC-Rio&lt;/li>
+&lt;li>March - June 2023. Tuesday, 1pm - 3pm and Friday, 9am - 11am&lt;/li>
+&lt;li>Room 866, Department of Mathematics, Edifio Leme, PUC-Rio&lt;/li>
 &lt;/ul>
 &lt;h5 id="material">Material:&lt;/h5>
 &lt;ul>
-&lt;li>Handwritten notes (will appear soon)&lt;/li>
+&lt;li>My (handwritten) notes: &lt;a href="Lecture1.pdf">Lect1: slides&lt;/a>, lectures on wave equation &lt;a href="Lectures2-4.pdf">Lect2-4&lt;/a>, lectures on conservation laws &lt;a href="Lectures5-7.pdf">Lect5-7&lt;/a>.&lt;/li>
+&lt;li>Problem-solving sessions: &lt;a href="Problems1.pdf">Session1&lt;/a>.&lt;/li>
+&lt;li>Exam: &lt;a href="Exam-questions.pdf">list of questions&lt;/a>.&lt;/li>
 &lt;li>Books:
 &lt;ul>
-&lt;li>J. Smoller ``Shock waves and reaction-diffusion equations'', &lt;a href="Smoller.pdf">PDF&lt;/a>&lt;/li>
-&lt;li>C. Dafermos ``Hyberbolic conservation laws in continuum physics'', &lt;a href="Dafermos.pdf">PDF&lt;/a>&lt;/li>
-&lt;li>L.C. Evans ``Partial differential equations'', &lt;a href="Evans-PDE.pdf">PDE&lt;/a>&lt;/li>
+&lt;li>J. Smoller &amp;lsquo;&amp;lsquo;Shock waves and reaction-diffusion equations&amp;rsquo;&amp;rsquo;, &lt;a href="Smoller.pdf">PDF&lt;/a>&lt;/li>
+&lt;li>C. Dafermos &amp;lsquo;&amp;lsquo;Hyberbolic conservation laws in continuum physics&amp;rsquo;&amp;rsquo;, &lt;a href="Dafermos.pdf">PDF&lt;/a>&lt;/li>
+&lt;li>L.C. Evans &amp;lsquo;&amp;lsquo;Partial differential equations&amp;rsquo;&amp;rsquo;, &lt;a href="Evans-PDE.pdf">PDE&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Video lectures on Youtube closely related to the course:
+&lt;ul>
+&lt;li>Constantine Dafermos, course of 9 lectures at IMPA &lt;a href="https://www.youtube.com/playlist?list=PLo4jXE-LdDTTg8Z4iGDNOSDA74rcwoU2a" target="_blank" rel="noopener">Hyberbolic conservation laws&lt;/a>&lt;/li>
+&lt;li>Henri Berestycki, mini course of 4 lectures at IMPA &lt;a href="https://www.youtube.com/watch?v=DOw3N7ZbejI&amp;amp;list=PLo4jXE-LdDTQfW_IQ-umx660Plg9NX-nC&amp;amp;index=15" target="_blank" rel="noopener">Reaction-diffusion propagation non-homogenous media&lt;/a>&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
@@ -19,5 +27,5 @@
 &lt;ul>
 &lt;li>&lt;a href="Ex1.pdf">List1&lt;/a>. Deadline: 24 of March 2023&lt;/li>
 &lt;li>&lt;a href="Ex2.pdf">List2&lt;/a>. Deadline: 7 of April 2023&lt;/li>
-&lt;li>&lt;a href="Ex3.pdf">List3&lt;/a>. Deadline: 25 of April 2023&lt;/li>
+&lt;li>&lt;a href="Ex3.pdf">List3&lt;/a>. Deadline: 28 of April 2023&lt;/li>
 &lt;/ul></description></item></channel></rss>
