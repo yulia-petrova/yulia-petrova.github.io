@@ -5,7 +5,7 @@
 - Room 866, Department of Mathematics, Edifio Leme, PUC-Rio
 
 ##### Material: 
-+ My (handwritten) notes: [Lecture 1](Lecture1.pdf), notes on wave equation ([Lectures 2--4](Lectures2-4.pdf)), notes on conservation laws ([Lect5-7](Lectures5-7.pdf)).
++ My (handwritten) notes: [Lecture 1](Lecture1.pdf), notes on wave equation ([Lectures 2--4](Lectures2-4.pdf)), notes on conservation laws ([Lectures 5--7](Lectures5-7.pdf)).
 + Books: 
     + J. Smoller ''Shock waves and reaction-diffusion equations'', [PDF](Smoller.pdf)
     + C. Dafermos ''Hyberbolic conservation laws in continuum physics'', [PDF](Dafermos.pdf)
@@ -15,11 +15,11 @@
     + Henri Berestycki, mini course of 4 lectures at IMPA: [Reaction-diffusion propagation non-homogenous media](https://www.youtube.com/watch?v=DOw3N7ZbejI&list=PLo4jXE-LdDTQfW_IQ-umx660Plg9NX-nC&index=15)
 
 ##### Exercises:
-+ Problem-solving sessions: [Session1](Problems1.pdf).
++ Problem-solving sessions: [Session 1](Problems1.pdf).
 + Homeworks:
-    + [List1](Ex1.pdf). Deadline: 24 of March 2023
-    + [List2](Ex2.pdf). Deadline: 7 of April 2023
-    + [List3](Ex3.pdf). Deadline: 28 of April 2023
+    + [List 1](Ex1.pdf). Deadline: 24 of March 2023
+    + [List 2](Ex2.pdf). Deadline: 7 of April 2023
+    + [List 3](Ex3.pdf). Deadline: 28 of April 2023
 
 ##### Exam: 
 + [Questions](Exam-questions.pdf).
