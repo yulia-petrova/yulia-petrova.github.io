@@ -4,7 +4,7 @@
 
 ##### Classes: 
 - March - June 2023. Tuesday, 1pm - 3pm and Friday, 9am - 11am
-- Room 866, Department of Mathematics, Edifio Leme, PUC-Rio
+- Room 866, Department of Mathematics, Edifício Leme, PUC-Rio
 
 ##### Material: 
 + My notes (mainly handwritten): introduction - what this course is about? ([Lecture 1](Lecture1.pdf)), notes on wave equation ([Lectures 2--4](Lectures2-4.pdf)), notes on conservation laws ([Lectures 5--7](Lectures5-7.pdf)).
