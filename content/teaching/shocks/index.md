@@ -14,7 +14,7 @@
     + L.C. Evans ''Partial differential equations'', [PDE](Evans-PDE.pdf)
 + Video lectures on Youtube closely related to the course:
     + Constantine Dafermos, course of 9 lectures at IMPA: [Hyberbolic conservation laws](https://www.youtube.com/playlist?list=PLo4jXE-LdDTTg8Z4iGDNOSDA74rcwoU2a)
-    + Henri Berestycki, mini course of 4 lectures at IMPA: [Reaction-diffusion propagation non-homogenous media](https://www.youtube.com/watch?v=DOw3N7ZbejI&list=PLo4jXE-LdDTQfW_IQ-umx660Plg9NX-nC&index=15)
+    + Henri Berestycki, mini course of 4 lectures at IMPA: [Reaction-diffusion propagation in non-homogenous media](https://www.youtube.com/watch?v=DOw3N7ZbejI&list=PLo4jXE-LdDTQfW_IQ-umx660Plg9NX-nC&index=15)
 
 ##### Exercises:
 + Problem-solving sessions: [Session 1](Problems1.pdf).
