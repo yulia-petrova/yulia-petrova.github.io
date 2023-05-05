@@ -18,7 +18,7 @@
     + Henri Berestycki, mini course of 4 lectures at IMPA: [Reaction-diffusion propagation in non-homogenous media](https://www.youtube.com/watch?v=DOw3N7ZbejI&list=PLo4jXE-LdDTQfW_IQ-umx660Plg9NX-nC&index=15)
 
 ##### Exercises:
-+ Problem-solving sessions: [Session 1](Problems1.pdf).
++ Problem-solving sessions: [Session 1](Problems1.pdf), [Session 2](Problems2.pdf).
 + Homeworks:
     + [List 1](Ex1.pdf). Deadline: 24 of March 2023
     + [List 2](Ex2.pdf). Deadline: 7 of April 2023
