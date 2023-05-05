@@ -12,6 +12,7 @@
     + J. Smoller ''Shock waves and reaction-diffusion equations'', [PDF](Smoller.pdf)
     + C. Dafermos ''Hyberbolic conservation laws in continuum physics'', [PDF](Dafermos.pdf)
     + L.C. Evans ''Partial differential equations'', [PDE](Evans-PDE.pdf)
+    + A. Bressan ''Hyperbolic Conservation Laws: An Illustrated Tutorial'', [PDF](Bressan-tutorial.pdf)
     + H. Holden, N.H. Risebro ''Front tracking for hyperbolic conservation laws'', [PDF](Holden-Risebro.pdf)
 + Video lectures on Youtube closely related to the course:
     + Constantine Dafermos, course of 9 lectures at IMPA: [Hyberbolic conservation laws](https://www.youtube.com/playlist?list=PLo4jXE-LdDTTg8Z4iGDNOSDA74rcwoU2a)
