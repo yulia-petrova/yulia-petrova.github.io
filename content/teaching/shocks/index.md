@@ -7,7 +7,7 @@
 - Room 866, Department of Mathematics, Edifício Leme, PUC-Rio
 
 ##### Material: 
-+ My notes (mainly handwritten): introduction - what this course is about? ([Lecture 1](Lecture1.pdf)), notes on wave equation ([Lectures 2--4](Lectures2-4.pdf)), notes on conservation laws ([Lectures 5--13](Lectures_conslaw.pdf)).
++ My notes (mainly handwritten): introduction - what this course is about? ([Lecture 1](Lecture1.pdf)), notes on wave equation ([Lectures 2--4](Lectures2-4.pdf)), notes on conservation laws ([Lectures 5--14](Lectures_conslaw.pdf)), notes on reaction-diffusion equations ([Lecture 15](Lectures_reactdiff.pdf)).
 + Books: 
     + J. Smoller ''Shock waves and reaction-diffusion equations'', [PDF](Smoller.pdf)
     + C. Dafermos ''Hyberbolic conservation laws in continuum physics'', [PDF](Dafermos.pdf)
@@ -24,6 +24,7 @@
     + [List 1](Ex1.pdf). Deadline: 24 of March 2023
     + [List 2](Ex2.pdf). Deadline: 7 of April 2023
     + [List 3](Ex3.pdf). Deadline: 28 of April 2023
+    + [List 4](Ex4.pdf). Deadline: 26 of May 2023
 
 ##### Exam: 
 + [Questions](Exam-questions.pdf).
