@@ -187,7 +187,7 @@ color: navy;
 &lt;/ul>
 &lt;h5 id="material">Material:&lt;/h5>
 &lt;ul>
-&lt;li>My notes (mainly handwritten): introduction - what this course is about? (&lt;a href="Lecture1.pdf">Lecture 1&lt;/a>), notes on wave equation (&lt;a href="Lectures2-4.pdf">Lectures 2&amp;ndash;4&lt;/a>), notes on conservation laws (&lt;a href="Lectures_conslaw.pdf">Lectures 5&amp;ndash;13&lt;/a>).&lt;/li>
+&lt;li>My notes (mainly handwritten): introduction - what this course is about? (&lt;a href="Lecture1.pdf">Lecture 1&lt;/a>), notes on wave equation (&lt;a href="Lectures2-4.pdf">Lectures 2&amp;ndash;4&lt;/a>), notes on conservation laws (&lt;a href="Lectures_conslaw.pdf">Lectures 5&amp;ndash;14&lt;/a>), notes on reaction-diffusion equations (&lt;a href="Lectures_reactdiff.pdf">Lecture 15&lt;/a>).&lt;/li>
 &lt;li>Books:
 &lt;ul>
 &lt;li>J. Smoller &amp;lsquo;&amp;lsquo;Shock waves and reaction-diffusion equations&amp;rsquo;&amp;rsquo;, &lt;a href="Smoller.pdf">PDF&lt;/a>&lt;/li>
@@ -212,6 +212,7 @@ color: navy;
 &lt;li>&lt;a href="Ex1.pdf">List 1&lt;/a>. Deadline: 24 of March 2023&lt;/li>
 &lt;li>&lt;a href="Ex2.pdf">List 2&lt;/a>. Deadline: 7 of April 2023&lt;/li>
 &lt;li>&lt;a href="Ex3.pdf">List 3&lt;/a>. Deadline: 28 of April 2023&lt;/li>
+&lt;li>&lt;a href="Ex4.pdf">List 4&lt;/a>. Deadline: 26 of May 2023&lt;/li>
 &lt;/ul>
 &lt;/li>
 &lt;/ul>
