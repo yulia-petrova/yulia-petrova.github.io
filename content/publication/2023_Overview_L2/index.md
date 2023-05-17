@@ -1,6 +1,6 @@
 ---
 
-title: "$L_2$-small ball asymptotics for Gaussian random functions"
+title: "$L_2$-small ball asymptotics for Gaussian random functions: a survey"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -25,7 +25,8 @@ publication_types: ["3"]
 publication: Preprint
 #publication_short: 
 
-abstract: This article is a survey of the results on asymptotic behavior of small ball probabilities in $L_2$-norm. Article in progress.
+abstract: This article is a survey of the results on asymptotic behavior of small ball probabilities in $L_2$-norm. Recent progress in this field is mainly based on the methods of spectral
+theory of differential and integral operators.
 
 # Summary. An optional shortened abstract.
 #summary:  We consider the problem of a small ball behavior in $L_2$-norm for some Gaussian processes of statistical interest.
@@ -40,7 +41,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://yulia-petrova.github.io/uploads/preprints/Overview_small_ball_L2_2023-01-09-Overview_sections1234.pdf'
+url_pdf: 'https://arxiv.org/abs/2305.08927'
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
