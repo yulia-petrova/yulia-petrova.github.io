@@ -25,8 +25,7 @@ publication_types: ["3"]
 publication: Preprint
 #publication_short: 
 
-abstract: This article is a survey of the results on asymptotic behavior of small ball probabilities in $L_2$-norm. Recent progress in this field is mainly based on the methods of spectral
-theory of differential and integral operators.
+abstract: This article is a survey of the results on asymptotic behavior of small ball probabilities in $L_2$-norm. Recent progress in this field is mainly based on the methods of spectral theory of differential and integral operators.
 
 # Summary. An optional shortened abstract.
 #summary:  We consider the problem of a small ball behavior in $L_2$-norm for some Gaussian processes of statistical interest.
