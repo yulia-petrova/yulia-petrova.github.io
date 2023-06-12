@@ -25,6 +25,8 @@
     + [List 2](Ex2.pdf). Deadline: 7 of April 2023
     + [List 3](Ex3.pdf). Deadline: 28 of April 2023
     + [List 4](Ex4.pdf). Deadline: 26 of May 2023
+    + [List 5](Ex5.pdf). Deadline: 16 of June 2023
+    
 
 ##### Exam: 
 + [Questions](Exam-questions.pdf).
