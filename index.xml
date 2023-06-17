@@ -187,6 +187,7 @@ color: navy;
 &lt;/ul>
 &lt;h5 id="material">Material:&lt;/h5>
 &lt;ul>
+&lt;li>&lt;a href="All_materials.pdf">All materials in one file&lt;/a>&lt;/li>
 &lt;li>My notes (mainly handwritten): introduction - what this course is about? (&lt;a href="Lecture1.pdf">Lecture 1&lt;/a>), notes on wave equation (&lt;a href="Lectures2-4.pdf">Lectures 2&amp;ndash;4&lt;/a>), notes on conservation laws (&lt;a href="Lectures_conslaw.pdf">Lectures 5&amp;ndash;14&lt;/a>), notes on reaction-diffusion equations (&lt;a href="Lectures_reactdiff.pdf">Lectures 15&amp;ndash;24&lt;/a>).&lt;/li>
 &lt;li>Books:
 &lt;ul>
