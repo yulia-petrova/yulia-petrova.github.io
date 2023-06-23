@@ -1,6 +1,6 @@
 ---
 
-title: "$L_2$-small ball asymptotics for Gaussian random functions: a survey"
+title: "$L_2$-small ball asymptotics for Gaussian random functions: A survey"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -9,8 +9,8 @@ authors:
 - Alexander Nazarov
 - admin
 
-date: "2023-01-10T00:00:00Z"
-doi: ""
+date: "2023-06-23T00:00:00Z"
+doi: "https://doi.org/10.1214/23-PS20"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -19,10 +19,10 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Preprint
+publication: Probability Surveys, 20:608–663.
 #publication_short: 
 
 abstract: This article is a survey of the results on asymptotic behavior of small ball probabilities in $L_2$-norm. Recent progress in this field is mainly based on the methods of spectral theory of differential and integral operators.
