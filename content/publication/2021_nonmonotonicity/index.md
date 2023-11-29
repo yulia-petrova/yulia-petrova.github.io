@@ -12,7 +12,7 @@ authors:
 - Nikita Rastegaev
 
 date: "2021-11-29T00:00:00Z"
-doi: ""
+doi: "https://doi.org/10.1142/S0219891623500121"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -24,7 +24,7 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Preprint
+publication: Journal of Hyperbolic Differential Equations, 20(2):407--432, 2023
 #publication_short: 
 
 abstract: The solutions for a Riemann problem arising in chemical flooding models are studied using vanishing viscosity as an admissibility criterion. We show that when the flow function depends non-monotonically on the concentration of chemicals, non-classical undercompressive shocks appear. The monotonic dependence of the shock velocity on the ratio of dissipative coefficients is proven. For that purpose we provide the classification of the phase portraits for the travelling wave dynamical systems and analyze the saddle-saddle connections.

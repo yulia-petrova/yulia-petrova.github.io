@@ -22,7 +22,7 @@ doi: "https://doi.org/10.1214/23-PS20"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Probability Surveys, 20:608–663.
+publication: Probability Surveys, 20:608–663
 #publication_short: 
 
 abstract: This article is a survey of the results on asymptotic behavior of small ball probabilities in $L_2$-norm. Recent progress in this field is mainly based on the methods of spectral theory of differential and integral operators.

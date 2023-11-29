@@ -1,20 +1,16 @@
 ---
 
-title: "Optimal polymer slugs injection profiles"
+title: "$L_2$-small ball asymptotics for some demeaned Gaussian processes"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Fedor Bakharev
-- Aleksandr Enin
-- Konstantin Kalinin
+- Alexander Nazarov
 - admin
-- Nikita Rastegaev
-- Sergey Tikhomirov
 
-date: "2020-12-01T00:00:00Z"
-doi: "https://doi.org/10.1016/j.cam.2022.115042"
+date: "2023-06-23T00:00:00Z"
+doi: "https://doi.org/10.1016/j.spl.2023.109990"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -26,13 +22,13 @@ doi: "https://doi.org/10.1016/j.cam.2022.115042"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Journal of Computational and Applied Mathematics, January 2023, vol. 425, p.115042
+publication: Statistics and Probability Letters, vol. 206, p. 109990, 2024
 #publication_short: 
 
-abstract: The graded viscosity banks technology (tapering) for polymer flooding is studied for several different models of mixing zones behavior. Depending on the viscosity function the limiting polymer injection profile is rigorously derived in case of transverse flow equilibrium assumption, for the Koval model and for the Todd-Longstaff model. The possible gain of the polymer in comparison to finite number of slugs is numerically estimated.
+abstract: We discuss the centering operation for the Green Gaussian processes and calculate $L_2$-small ball asymptotics for some centered (demeaned) processes.
 
 # Summary. An optional shortened abstract.
-#summary:  The graded viscosity banks technology (tapering) for polymer flooding is studied for several different models of mixing zones behavior.
+#summary:  We consider the problem of a small ball behavior in $L_2$-norm for some Gaussian processes of statistical interest.
 
 tags: []
 
@@ -40,11 +36,11 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-links:
- - name: arXiv
-   url: https://arxiv.org/abs/2012.03114
+# links:
+# - name: Custom Link
+#   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2012.03114.pdf'
+url_pdf: 'https://arxiv.org/abs/2308.10080'
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
@@ -55,10 +51,10 @@ url_pdf: 'https://arxiv.org/pdf/2012.03114.pdf'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-#image:
+image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-#  focal_point: ""
-#  preview_only: true
+  focal_point: ""
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -66,16 +62,14 @@ url_pdf: 'https://arxiv.org/pdf/2012.03114.pdf'
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- viscous_fingering
-- EOR
-
+- small_ball_probabilities
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-# slides: example
+#slides: example
 ---
 
 ---
