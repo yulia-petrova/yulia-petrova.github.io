@@ -24,7 +24,7 @@ doi: "https://doi.org/10.1142/S0219891623500121"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Journal of Hyperbolic Differential Equations, 20(2):407--432, 2023
+publication: Journal of Hyperbolic Differential Equations, 20(2):407--432
 #publication_short: 
 
 abstract: The solutions for a Riemann problem arising in chemical flooding models are studied using vanishing viscosity as an admissibility criterion. We show that when the flow function depends non-monotonically on the concentration of chemicals, non-classical undercompressive shocks appear. The monotonic dependence of the shock velocity on the ratio of dissipative coefficients is proven. For that purpose we provide the classification of the phase portraits for the travelling wave dynamical systems and analyze the saddle-saddle connections.

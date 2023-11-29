@@ -27,7 +27,7 @@ publishDate: "2017-01-01T00:00:00Z"
 #publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Transport in Porous Media
+publication: Transport in Porous Media,  132:443--464
 #publication_short: TPM
 
 abstract: This paper numerically investigates the viscous fngering phenomenon. Two-dimensional horizontal model reservoir was considered for homogeneous porous media with immiscible fluids. A series of numerical simulations was performed with two distinct solvers for various combinations of relative permeability, capillary pressure and material properties in order to analyse morphological properties of viscous fngers in a wide-range spectrum of real feld conditions. A phenomenological classifcation of viscous fngers is proposed.
