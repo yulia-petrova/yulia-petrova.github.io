@@ -14,7 +14,7 @@ organizations:
   url: http://www.mat.puc-rio.br/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include PDEs and their applications to probability theory, fluid dynamics and applications.
+bio: My research interests include PDEs and their applications to probability theory, fluid dynamics and real-world applications.
 
 # Interests to show in About widget
 interests:
