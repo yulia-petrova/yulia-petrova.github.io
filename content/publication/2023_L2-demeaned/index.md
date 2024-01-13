@@ -22,7 +22,7 @@ doi: "https://doi.org/10.1016/j.spl.2023.109990"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Statistics and Probability Letters, vol. 206, p. 109990, 2024
+publication: Statistics and Probability Letters, 206:109990
 #publication_short: 
 
 abstract: We discuss the centering operation for the Green Gaussian processes and calculate $L_2$-small ball asymptotics for some centered (demeaned) processes.
