@@ -21,7 +21,7 @@ doi: "https://doi.org/10.1134/S1064562418050204"
 #publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Doklady Mathematics
+publication: Doklady Mathematics, Volume 98, pages 367–369.
 #publication_short: 
 
 abstract: Spectral asymptotics for a family of finite-dimensional perturbations of operators of trace class are found. The results are used to find exact asymptotics of small ball probabilities in the Hilbert norm for finitedimensional perturbations of Gaussian functions. As an example, Durbin processes appearing in the study of empirical processes with estimated parameters are considered.

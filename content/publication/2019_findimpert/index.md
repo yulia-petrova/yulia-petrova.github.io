@@ -9,7 +9,7 @@ authors:
 - admin
 
 date: "2021-10-01T00:00:00Z"
-#doi: "https://doi.org/10.1134/S1064562418050204"
+doi: "https://doi.org/10.1007/s10958-023-06544-5"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -21,7 +21,7 @@ date: "2021-10-01T00:00:00Z"
 #publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Zapiski Nauchnykh Seminarov POMI. Nikitin's memorial volume, 501:236--258
+publication: Zapiski Nauchnykh Seminarov POMI. Nikitin's memorial volume, 501:236--258 (in Russian). English translation: Journal of Mathematical Sciences, 273(5): 816–831, 2023.
 #publication_short: 
 
 abstract: In this article we study the small ball probabilities in $L_2$-norm for a family of finite-dimensional perturbations of Gaussian functions. We define three types of perturbations (non-critical, partially critical and critical); and derive small ball asymptotics for the perturbated process in terms of the small ball asymptotics for the original process. The natural examples of such perturbations appear in statistics in the study of empirical processes with estimated parameters (the so-called Durbin's processes). We show that the Durbin's processes are critical perturbations of the Brownian bridge. Under some additional assumptions, general results can be simplified. As an example we find the exact $L_2$-small ball asymptotics for critical perturbations of the Green processes (the processes which covariance function is the Green function of the ordinary differential operator).

@@ -9,7 +9,7 @@ authors:
 - Alexander Nazarov
 - admin
 
-date: "2023-11-23T00:00:00Z"
+date: "2024-01-23T00:00:00Z"
 doi: "https://doi.org/10.1016/j.spl.2023.109990"
 
 # Schedule page publish date (NOT publication's date).
@@ -36,11 +36,14 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+ - name: arXiv
+   url: https://arxiv.org/abs/2308.10080
 
-url_pdf: 'https://arxiv.org/abs/2308.10080'
+url_pdf: 'https://arxiv.org/pdf/2308.10080.pdf'
+
+
+url_pdf: 'https://arxiv.org/pdf/2308.10080.pdf'
 #url_code: ''
 #url_dataset: ''
 #url_poster: ''
