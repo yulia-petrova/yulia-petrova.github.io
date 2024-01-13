@@ -5,7 +5,9 @@ I really enjoy teaching and have experience both with math lessons at schools an
 {.table .table-striped}
 |              <h5>Semester</h5>          | <h5>Educational organization</h5>   | <h5>Subject</h5>   | <h5>Materials</h5> |
 |:------------------------------------|:----|:----|:----|
-| Spring 2023             | [PUC-Rio](https://www.puc-rio.br/) <br /> Department of [Mathematics](http://www.mat.puc-rio.br/)  |   Course ''Shock waves in conservation laws <br /> and reaction-diffusion equations''  | [Page]({{< ref "shocks/index.md" >}}) |
+| 2024.1             | [PUC-Rio](https://www.puc-rio.br/) <br /> Department of [Mathematics](http://www.mat.puc-rio.br/)  |   Course ''Proofs from THE BOOK''  |  |
+| 2023.2             | [PUC-Rio](https://www.puc-rio.br/) <br /> Department of [Mathematics](http://www.mat.puc-rio.br/)  |   Course ''Introduction to Fourier analysis''  |  |
+| 2023.1             | [PUC-Rio](https://www.puc-rio.br/) <br /> Department of [Mathematics](http://www.mat.puc-rio.br/)  |   Course ''Shock waves in conservation laws <br /> and reaction-diffusion equations''  | [Page]({{< ref "shocks/index.md" >}}) |
 | Spring 2021             | [St Petersburg State University](https://math-cs.spbu.ru/en/) <br /> Faculty of [Mathematics and Computer Science](https://math-cs.spbu.ru/)  |   Seminars in calculus of variations for mathematicians  | [PDF](Calculus_of_variations_seminars_spring_2021_mkn.pdf) |
 | Fall 2020             | [St Petersburg State University]((https://math-cs.spbu.ru/en/)) <br /> Faculty of [Mathematics and Computer Science](https://math-cs.spbu.ru/)    |   Seminars in probability theory for mathematicians  | [PDF](Probability_seminars_fall_2020_mkn.pdf) |
 | Spring 2020             | [St Petersburg State University](https://math-cs.spbu.ru/en/)  <br /> Faculty of [Mathematics and Computer Science](https://math-cs.spbu.ru/)  |   Seminars in complex variables | [PDF](ComplAn_seminars_spring_2020_Misha_Yulia.pdf) &  [Wiki](https://bsse.compscicenter.ru/wiki/index.php?title=%D0%9C%D0%B0%D1%82%D0%B0%D0%BD_2MIT_%D0%BE%D1%81%D0%B5%D0%BD%D1%8C_2019) |
