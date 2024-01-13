@@ -21,7 +21,7 @@ doi: "https://doi.org/10.1007/s10958-023-06544-5"
 #publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Zapiski Nauchnykh Seminarov POMI. Nikitin's memorial volume, 501:236--258.
+publication: Zapiski Nauchnykh Seminarov POMI. Nikitin's memorial volume, 501:236--258
 #  (in Russian). English translation: Journal of Mathematical Sciences, 273(5): 816--831, 2023.
 #publication_short: 
 

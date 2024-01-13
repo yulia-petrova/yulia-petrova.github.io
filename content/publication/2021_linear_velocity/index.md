@@ -32,7 +32,7 @@ doi: "https://doi.org/10.1016/j.cam.2021.113808"
 #publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Journal of Computational and Applied Mathematics, Volume 402, 1 March 2022, 113808.
+publication: Journal of Computational and Applied Mathematics, 402:113808
 #publication_short: JCAM
 
 abstract: The paper investigates the linear growth of the mixing zone, in a pessimistic scenario, during polymer slug injection into a water reservoir. The velocities of the slug front and of the boundaries of the mixing zone are numerically and analytically studied as key parameters characterizing the miscible displacement. Using two different numerical methods (finite volumes and finite elements), the impact of the slug size, reservoir dimensions, Peclet number, and viscosity curve shape on the corresponding velocities are examined. Notwithstanding the realization of the solution by two computational schemes, the simulation results coincide with a sufficient accuracy. The numerically obtained velocities are compared with theoretical estimates within the transverse flow equilibrium approximation and Koval model. Based on the comparison pattern, recommendations are presented on the use of specific analytical methods for estimating the growth rate of the mixing zone depending on the characteristics of the polymer.

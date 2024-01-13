@@ -26,7 +26,7 @@ doi: "https://doi.org/10.1016/j.cam.2022.115042"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Journal of Computational and Applied Mathematics, January 2023, vol. 425, p.115042
+publication: Journal of Computational and Applied Mathematics, 425:115042
 #publication_short: 
 
 abstract: The graded viscosity banks technology (tapering) for polymer flooding is studied for several different models of mixing zones behavior. Depending on the viscosity function the limiting polymer injection profile is rigorously derived in case of transverse flow equilibrium assumption, for the Koval model and for the Todd-Longstaff model. The possible gain of the polymer in comparison to finite number of slugs is numerically estimated.

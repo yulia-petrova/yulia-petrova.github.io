@@ -23,7 +23,7 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Preprint
+publication: ArXiv 2211.10326
 #publication_short: 
 
 abstract: We introduce the vanishing adsorption criterion for contact discontinuities and apply it to the Glimm-Isaacson model of chemical flooding of a petroleum reservoir. We prove that this criterion, which derives from a physical effect, justifies the admissibility criteria adopted previously by Keyfitz-Kranzer, Isaacson-Temple, and de Souza-Marchesin for models such that the fractional flow function depends monotonically on chemical concentration. We also demonstrate that the adsorption criterion selects the undercompressive contact discontinuities required to solve the general Riemann problem in an example model with non-monotone dependence.
