@@ -21,7 +21,7 @@ publishDate: "2017-10-01T00:00:00Z"
 #publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Mathematical Notes
+publication: Mathematical Notes, 102(3-4):369--377
 #publication_short: 
 
 abstract: The eigenvalue problem for differential operators of arbitrary order with integral constraints is considered. The asymptotics of the eigenvalues is obtained. The results are applied to finding the asymptotics of the probability of small deviations for some detrended processes of nth order.

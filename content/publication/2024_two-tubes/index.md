@@ -67,7 +67,7 @@ image:
 #   Otherwise, set `projects: []`.
 projects:
 - conservation_laws
-- EOR
+- viscous_fingering
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

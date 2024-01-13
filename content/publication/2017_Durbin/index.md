@@ -21,7 +21,7 @@ doi: "https://doi.org/10.1007/s10958-020-04657-9"
 #publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Zapiski Nauchnykh Seminarov POMI
+publication: Zapiski Nauchnykh Seminarov POMI, 466:211--233
 #publication_short: 
 
 abstract: We find the exact $L_2$-small ball asymptotics for some Durbin processes. These processes are finitedimensional perturbations of a Brownian bridge $B(t)$ and naturally appear in statistics as limit ones when one constructs goodness-of-fit tests of $\omega^2$-type for testing a sample for some distribution with estimated parameters. Earlier, in the work of Nazarov and Petrova, Kac–Kiefer–Wolfowitz processes (which correspond for testing normality) were considered, where a technique for obtaining asymptotics of oscillating integrals with a slowly varying amplitude has been developed. Due to this, it is possible to calculate the asymptotics of small deviations for Durbin processes for certain distributions (Laplace, logistic, Gumbel, gamma). 

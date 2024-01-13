@@ -22,7 +22,7 @@ doi: "https://doi.org/10.1137/S0040585X97T987752"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Theory of Probability & Its Applications
+publication: Theory of Probability & Its Applications, 60(3):460--480
 #publication_short: 
 
 abstract: We consider the problem of a small ball behavior in $L_2$-norm for some Gaussian processes of statistical interest. The problem is reduced to the spectral asymptotics for some integraldifferential operators. To find these asymptotics we construct complete asymptotic expansions of some oscillation integrals with slowly varying amplitudes.
