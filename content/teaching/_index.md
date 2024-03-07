@@ -5,7 +5,7 @@ I really enjoy teaching and have experience both with math lessons at schools an
 {.table .table-striped}
 |              <h5>Semester</h5>          | <h5>Educational organization</h5>   | <h5>Subject</h5>   | <h5>Materials</h5> |
 |:------------------------------------|:----|:----|:----|
-| 2024.1             | [PUC-Rio](https://www.puc-rio.br/) <br /> Department of [Mathematics](http://www.mat.puc-rio.br/)  |   Course ''Proofs from THE BOOK''  |  |
+| 2024.1             | [PUC-Rio](https://www.puc-rio.br/) <br /> Department of [Mathematics](http://www.mat.puc-rio.br/)  |   Course ''Proofs from THE BOOK''  | [Page]({{< ref "proofs/index.md" >}}) |
 | 2023.2             | [PUC-Rio](https://www.puc-rio.br/) <br /> Department of [Mathematics](http://www.mat.puc-rio.br/)  |   Course ''Introduction to Fourier analysis''  |  |
 | 2023.1             | [PUC-Rio](https://www.puc-rio.br/) <br /> Department of [Mathematics](http://www.mat.puc-rio.br/)  |   Course ''Shock waves in conservation laws <br /> and reaction-diffusion equations''  | [Page]({{< ref "shocks/index.md" >}}) |
 | Spring 2021             | [St Petersburg State University](https://math-cs.spbu.ru/en/) <br /> Faculty of [Mathematics and Computer Science](https://math-cs.spbu.ru/)  |   Seminars in calculus of variations for mathematicians  | [PDF](Calculus_of_variations_seminars_spring_2021_mkn.pdf) |
