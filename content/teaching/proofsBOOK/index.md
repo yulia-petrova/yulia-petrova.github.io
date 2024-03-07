@@ -13,8 +13,7 @@
     
 ##### Exercises:
 + Homeworks:
-    + [List 1](). Deadline: 17 of March 2023
-
+    
 ##### Talks:
 5 March --- Yulia Petrova ``Seis provas da infinidade dos numeros primos''
 
