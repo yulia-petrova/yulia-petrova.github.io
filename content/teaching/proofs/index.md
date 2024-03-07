@@ -5,7 +5,7 @@
 ##### Talks:
 - 5 March --- Yulia Petrova ''Seis provas da infinidade dos numeros primos''
 - 7 March --- Yulia Petrova ''Postulado de Bertrand''
-- 12 March --- Yulia Petrova ''Agulha de Buffon, numero pi e outros probelams de probabilidade''
+- 12 March --- Yulia Petrova ''Agulha de Buffon, numero pi e outros problemas de probabilidade''
 - 14 March --- Sergio Andrade ''O lema de Borel-Cantelli''
 - ...
 
