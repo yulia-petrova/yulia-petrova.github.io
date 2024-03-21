@@ -7,9 +7,9 @@
 - 7 March --- Yulia Petrova ''Postulado de Bertrand''
 - 12 March --- Yulia Petrova ''Agulha de Buffon, numero pi e outros problemas de probabilidade''
 - 14 March --- Sergio Andrade ''Um pi real e um pi complexo: demonstracoes do Problema de Basileia e da Equacao de Euler para Numeros Complexos''
-- 19 March --- Yulia Petrova ``Todo conjunto grande de pontos tem um angulo obtuso''
-- 21 March --- Yulia Petrova ``Simetrizacao de Steiner e aplicacoes: a desigualdade isodiametrica, desigualdade isoperimetrica e desigualdade de Brunn-Minkowski''
-- 26 March --- Joao Arthur ``Tres aplicacoes da formula de Euler''
+- 19 March --- Yulia Petrova ''Todo conjunto grande de pontos tem um angulo obtuso''
+- 21 March --- Yulia Petrova ''Simetrizacao de Steiner e aplicacoes: a desigualdade isodiametrica, desigualdade isoperimetrica e desigualdade de Brunn-Minkowski''
+- 26 March --- Joao Arthur ''Tres aplicacoes da formula de Euler''
 - ...
 
 ##### Classes: 
