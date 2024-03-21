@@ -182,13 +182,16 @@ color: navy;
 &lt;h5 id="join-the-course-group-in-telegram-linkhttpstmeimagbpjbpu03ntey">Join the course group in Telegram: &lt;a href="https://t.me/&amp;#43;IMAGbpjBPU03NTEy" target="_blank" rel="noopener">link&lt;/a>&lt;/h5>
 &lt;h5 id="talks">Talks:&lt;/h5>
 &lt;ul>
-&lt;li>5 March &amp;mdash; Yulia Petrova &amp;lsquo;&amp;lsquo;Seis provas da infinidade dos numeros primos&amp;rsquo;&amp;rsquo;&lt;/li>
-&lt;li>7 March &amp;mdash; Yulia Petrova &amp;lsquo;&amp;lsquo;Postulado de Bertrand&amp;rsquo;&amp;rsquo;&lt;/li>
-&lt;li>12 March &amp;mdash; Yulia Petrova &amp;lsquo;&amp;lsquo;Agulha de Buffon, numero pi e outros problemas de probabilidade&amp;rsquo;&amp;rsquo;&lt;/li>
+&lt;li>5 March &amp;mdash; Yulia Petrova &amp;lsquo;&amp;lsquo;Six proofs of the infinity of prime numbers&amp;rsquo;&amp;rsquo;&lt;/li>
+&lt;li>7 March &amp;mdash; Yulia Petrova &amp;lsquo;&amp;lsquo;Bertrand&amp;rsquo;s postulate&amp;rsquo;&amp;rsquo;&lt;/li>
+&lt;li>12 March &amp;mdash; Yulia Petrova &amp;lsquo;&amp;lsquo;Buffon&amp;rsquo;s needle, problem of the number of collisions of two blocks and pi&amp;rsquo;&amp;rsquo;&lt;/li>
 &lt;li>14 March &amp;mdash; Sergio Andrade &amp;lsquo;&amp;lsquo;Um pi real e um pi complexo: demonstracoes do Problema de Basileia e da Equacao de Euler para Numeros Complexos&amp;rsquo;&amp;rsquo;&lt;/li>
-&lt;li>19 March &amp;mdash; Yulia Petrova &amp;lsquo;&amp;lsquo;Todo conjunto grande de pontos tem um angulo obtuso&amp;rsquo;&amp;rsquo;&lt;/li>
-&lt;li>21 March &amp;mdash; Yulia Petrova &amp;lsquo;&amp;lsquo;Simetrizacao de Steiner e aplicacoes: a desigualdade isodiametrica, desigualdade isoperimetrica e desigualdade de Brunn-Minkowski&amp;rsquo;&amp;rsquo;&lt;/li>
-&lt;li>26 March &amp;mdash; Joao Arthur &amp;lsquo;&amp;lsquo;Tres aplicacoes da formula de Euler&amp;rsquo;&amp;rsquo;&lt;/li>
+&lt;li>19 March &amp;mdash; Yulia Petrova &amp;lsquo;&amp;lsquo;Every large point set has an obtuse angle&amp;rsquo;&amp;rsquo;&lt;/li>
+&lt;li>21 March &amp;mdash; Yulia Petrova &amp;lsquo;&amp;lsquo;Steiner&amp;rsquo;s simetrization and applications: isodiametric inequality, isoperimetric inequality and Brunn-Minkowski inequality&amp;rsquo;&amp;rsquo;&lt;/li>
+&lt;li>26 March &amp;mdash; Joao Arthur &amp;lsquo;&amp;lsquo;Three applications of Euler&amp;rsquo;s formula&amp;rsquo;&amp;rsquo;&lt;/li>
+&lt;li>28 March &amp;ndash; Semana Santa&lt;/li>
+&lt;li>2 April &amp;mdash; Sergio Andrade ``Cauchy and Fourier proofs of the Basel problem. Lemma Borel-Cantelli''&lt;/li>
+&lt;li>4 April &amp;mdash; Anselmo de Souza Pontes ``Period three implies chaos''&lt;/li>
 &lt;li>&amp;hellip;&lt;/li>
 &lt;/ul>
 &lt;h5 id="classes">Classes:&lt;/h5>
@@ -207,7 +210,11 @@ color: navy;
 &lt;/ul>
 &lt;h5 id="exercises">Exercises:&lt;/h5>
 &lt;ul>
-&lt;li>Homeworks (em breve)&lt;/li>
+&lt;li>Homeworks:
+&lt;ul>
+&lt;li>&lt;a href="List1.pdf">List 1&lt;/a>. Deadline: 1 of April 2024&lt;/li>
+&lt;/ul>
+&lt;/li>
 &lt;/ul></description></item><item><title/><link>https://yulia-petrova.github.io/teaching/shocks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://yulia-petrova.github.io/teaching/shocks/</guid><description>&lt;h3 id="shock-waves-in-conservation-laws-and-reaction-diffusion-equations">Shock waves in conservation laws and reaction-diffusion equations&lt;/h3>
 &lt;h5 id="join-the-course-group-in-telegram-linkhttpstmegdqus0tfjq44nwi6">Join the course group in Telegram: &lt;a href="https://t.me/&amp;#43;gdqus0TfJQ44NWI6" target="_blank" rel="noopener">link&lt;/a>&lt;/h5>
 &lt;h5 id="classes">Classes:&lt;/h5>
