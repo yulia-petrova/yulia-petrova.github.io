@@ -227,31 +227,80 @@ color: navy;
 &lt;td style="text-align:left">Steiner&amp;rsquo;s simetrization and applications: isodiametric inequality, isoperimetric inequality and Brunn-Minkowski inequality&lt;/td>
 &lt;td>&lt;/td>
 &lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">26 March&lt;/td>
+&lt;td style="text-align:left">Joao Arthur&lt;/td>
+&lt;td style="text-align:left">Three applications of Euler&amp;rsquo;s formula&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">2 April&lt;/td>
+&lt;td style="text-align:left">Sergio Andrade&lt;/td>
+&lt;td style="text-align:left">Cauchy and Fourier proofs of the Basel problem&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">4 April&lt;/td>
+&lt;td style="text-align:left">Anselmo de Souza Pontes&lt;/td>
+&lt;td style="text-align:left">Period 3 implies all other periods&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">9 April&lt;/td>
+&lt;td style="text-align:left">Sergio Andrade&lt;/td>
+&lt;td style="text-align:left">Lemma Borel-Cantelli and Gamma function&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">11 April&lt;/td>
+&lt;td style="text-align:left">Anselmo de Souza Pontes&lt;/td>
+&lt;td style="text-align:left">Period 3 implies chaos&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">16 April&lt;/td>
+&lt;td style="text-align:left">Bruno Baldissera&lt;/td>
+&lt;td style="text-align:left">On Lemma of Littlewood and Offord&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">18 April&lt;/td>
+&lt;td style="text-align:left">Yulia Petrova&lt;/td>
+&lt;td style="text-align:left">Discussion of problems from List 1&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">25 April&lt;/td>
+&lt;td style="text-align:left">Carlos Henrique&lt;/td>
+&lt;td style="text-align:left">Aproximacoes por racionais&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">30 April&lt;/td>
+&lt;td style="text-align:left">Joao Arthur&lt;/td>
+&lt;td style="text-align:left">Representando números como soma de dois quadrados&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">2 May&lt;/td>
+&lt;td style="text-align:left">Iago de Carvalho&lt;/td>
+&lt;td style="text-align:left">Godel&amp;rsquo;s incompleteness theorems. Part 1&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">7 May&lt;/td>
+&lt;td style="text-align:left">Iago de Carvalho&lt;/td>
+&lt;td style="text-align:left">Godel&amp;rsquo;s incompleteness theorems. Part 2&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">9 May&lt;/td>
+&lt;td style="text-align:left">Iago de Carvalho&lt;/td>
+&lt;td style="text-align:left">Godel&amp;rsquo;s incompleteness theorems. Part 3&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
 &lt;/tbody>
 &lt;/table>
-&lt;ul>
-&lt;li>5 March &amp;mdash; Yulia Petrova &amp;lsquo;&amp;lsquo;Six proofs of the infinity of prime numbers&amp;rsquo;&amp;rsquo;&lt;/li>
-&lt;li>7 March &amp;mdash; Yulia Petrova &amp;lsquo;&amp;lsquo;Bertrand&amp;rsquo;s postulate&amp;rsquo;&amp;rsquo;&lt;/li>
-&lt;li>12 March &amp;mdash; Yulia Petrova &amp;lsquo;&amp;lsquo;Buffon&amp;rsquo;s needle, problem of the number of collisions of two blocks and pi&amp;rsquo;&amp;rsquo;&lt;/li>
-&lt;li>14 March &amp;mdash; Sergio Andrade &amp;lsquo;&amp;lsquo;Um pi real e um pi complexo: demonstracoes do Problema de Basileia e da Equacao de Euler para Numeros Complexos&amp;rsquo;&amp;rsquo;&lt;/li>
-&lt;li>19 March &amp;mdash; Yulia Petrova &amp;lsquo;&amp;lsquo;Every large point set has an obtuse angle&amp;rsquo;&amp;rsquo;&lt;/li>
-&lt;li>21 March &amp;mdash; Yulia Petrova &amp;lsquo;&amp;lsquo;Steiner&amp;rsquo;s simetrization and applications: isodiametric inequality, isoperimetric inequality and Brunn-Minkowski inequality&amp;rsquo;&amp;rsquo;&lt;/li>
-&lt;li>26 March &amp;mdash; Joao Arthur &amp;lsquo;&amp;lsquo;Three applications of Euler&amp;rsquo;s formula&amp;rsquo;&amp;rsquo;&lt;/li>
-&lt;li>28 March &amp;ndash; Semana Santa&lt;/li>
-&lt;li>2 April &amp;mdash; Sergio Andrade ``Cauchy and Fourier proofs of the Basel problem. Lemma Borel-Cantelli''&lt;/li>
-&lt;li>4 April &amp;mdash; Anselmo de Souza Pontes ``Period three implies chaos''&lt;/li>
-&lt;li>9 April &amp;mdash; Sergio Andrade ``Borel-Cantelli e funcao Gamma''&lt;/li>
-&lt;li>11 April &amp;mdash; Anselmo de Souza Pontes ``Periodo 3 implica chaos''&lt;/li>
-&lt;li>16 April &amp;mdash; Bruno Baldissera ``On Lemma of Littlewood and Offord''&lt;/li>
-&lt;li>18 April &amp;mdash; Discussion of problems from List 1&lt;/li>
-&lt;li>25 April &amp;mdash; Carlos Henrique ``Aproximacoes por racionais''&lt;/li>
-&lt;li>30 April &amp;mdash; Joao Arthur ``Representando números como soma de dois quadrados''&lt;/li>
-&lt;li>2 May &amp;mdash; Iago de Carvalho ``Godel&amp;rsquo;s incompleteness theorems. Part 1''&lt;/li>
-&lt;li>7 May &amp;mdash; Iago de Carvalho ``Godel&amp;rsquo;s incompleteness theorems. Part 2''&lt;/li>
-&lt;li>9 May &amp;mdash; Iago de Carvalho ``Godel&amp;rsquo;s incompleteness theorems. Part 3''&lt;/li>
-&lt;li>&lt;/li>
-&lt;li>&amp;hellip;&lt;/li>
-&lt;/ul>
 &lt;h5 id="classes">Classes:&lt;/h5>
 &lt;ul>
 &lt;li>March - June 2024. Tuesdays and Thursdays: 9am - 11am&lt;/li>
