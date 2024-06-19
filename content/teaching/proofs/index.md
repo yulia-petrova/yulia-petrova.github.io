@@ -3,6 +3,12 @@
 ##### Join the course group in Telegram: [link](https://t.me/+IMAGbpjBPU03NTEy)
 
 ##### Talks:
+{.table .table-striped}
+|              <h5>Date</h5>          | <h5>Speaker</h5>   | <h5>Title</h5>   | <h5>Materials</h5> |
+|:------------------------------------|:----|:----|:----|
+| 5 March             | Yulia Petrova  |   Six proofs of the infinity of prime numbers  |  |
+
+
 - 5 March --- Yulia Petrova ''Six proofs of the infinity of prime numbers''
 - 7 March --- Yulia Petrova ''Bertrand's postulate''
 - 12 March --- Yulia Petrova ''Buffon's needle, problem of the number of collisions of two blocks and pi''
@@ -13,6 +19,16 @@
 - 28 March -- Semana Santa
 - 2 April --- Sergio Andrade ``Cauchy and Fourier proofs of the Basel problem. Lemma Borel-Cantelli''
 - 4 April --- Anselmo de Souza Pontes ``Period three implies chaos''
+- 9 April --- Sergio Andrade ``Borel-Cantelli e funcao Gamma''
+- 11 April --- Anselmo de Souza Pontes ``Periodo 3 implica chaos''
+- 16 April --- Bruno Baldissera ``On Lemma of Littlewood and Offord''
+- 18 April --- Discussion of problems from List 1
+- 25 April --- Carlos Henrique ``Aproximacoes por racionais''
+- 30 April --- Joao Arthur ``Representando números como soma de dois quadrados''
+- 2 May --- Iago de Carvalho ``Godel's incompleteness theorems. Part 1''
+- 7 May --- Iago de Carvalho ``Godel's incompleteness theorems. Part 2''
+- 9 May --- Iago de Carvalho ``Godel's incompleteness theorems. Part 3''
+- 
 - ...
 
 ##### Classes: 
@@ -25,5 +41,5 @@
     + S. Tabachnikov, D. Fuchs ''Mathematical Omnibus: Thirty Lectures on Classic Mathematics''
     
 ##### Exercises:
-+ Homeworks:
++ Homework:
     + [List 1](List1.pdf). Deadline: 1 of April 2024
