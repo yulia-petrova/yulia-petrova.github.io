@@ -12,7 +12,7 @@
 | 14 March             | Sergio Andrade  |  Um pi real e um pi complexo: demonstração do Problema de Basileia e da Equação de Euler para Números Complexos  | 
 | 19 March             | Yulia Petrova  |   Every large point set has an obtuse angle  | 
 | 21 March             | Yulia Petrova  |   Steiner's simetrization and applications: isodiametric inequality, isoperimetric inequality and Brunn-Minkowski inequality  | 
-| 26 March             | Joao Arthur  |   Three applications of Euler's formula  | 
+| 26 March             | João Arthur |   Three applications of Euler's formula  | 
 | 2 April             | Sergio Andrade  |  Cauchy and Fourier proofs of the Basel problem | 
 | 4 April             | Anselmo de Souza Pontes  |   Period 3 implies all other periods  | 
 | 9 April             | Sergio Andrade  |   Lemma Borel-Cantelli and Gamma function  | 
@@ -20,7 +20,7 @@
 | 16 April             | Bruno Baldissera  |   On Lemma of Littlewood and Offord  | 
 | 18 April             | Yulia Petrova  |   Discussion of problems from List 1  | 
 | 25 April             | Carlos Henrique  |   Aproximações por racionais  | 
-| 30 April             | Joao Arthur  |   Representando números como soma de dois quadrados  | 
+| 30 April             | João Arthur |   Representando números como soma de dois quadrados  | 
 | 2 May             | Iago de Carvalho  |   Godel's incompleteness theorems. Part 1  | 
 | 7 May             | Iago de Carvalho  |   Godel's incompleteness theorems. Part 2  | 
 | 9 May             | Iago de Carvalho  |   Godel's incompleteness theorems. Part 3  | 
@@ -28,7 +28,7 @@
 | 16 May             | Ivan Ogloblin  |  Every finite division ring is a field  | 
 | 21 May             | Bruno Baldissera  |  Sobre a conjectura de Borsuk  | 
 | 23 May             | Rony Geymar  |   O teorema pi-lambda dinkin e a unicidade da medida de Lebesgue  | 
-| 28 May             | Joao Artur  |   Polinômios ciclotômicos e versões fracas de teoremas fortes  | 
+| 28 May             | João Arthur |   Polinômios ciclotômicos e versões fracas de teoremas fortes  | 
 | 18 June             | Carlos Henrique  |  Números p-ádicos e o teorema de Ostrowski | 
 | 20 June             | Carlos Henrique  |  Fórmulas de Euler em Teoria dos Números | 
 | 25 June             | Ivan Ogloblin  |  Of friends and politicians | 
