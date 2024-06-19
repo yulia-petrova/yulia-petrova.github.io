@@ -24,6 +24,11 @@
 | 2 May             | Iago de Carvalho  |   Godel's incompleteness theorems. Part 1  | 
 | 7 May             | Iago de Carvalho  |   Godel's incompleteness theorems. Part 2  | 
 | 9 May             | Iago de Carvalho  |   Godel's incompleteness theorems. Part 3  | 
+| 14 May             | Yulia Petrova  |  Shuffling cards  | 
+| 16 May             | Ivan Ogloblin  |  Every finite division ring is a field  | 
+| 21 May             | Bruno Baldissera  |  Sobre a conjectura de Borsuk  | 
+| 23 May             | Rony Geymar  |   O teorema pi-lambda dinkin e a unicidade da medida de Lebesgue  | 
+| 28 May             | Joao Artur  |   Polinômios ciclotômicos e versões fracas de teoremas fortes  | 
 
 
 ##### Classes: 
