@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yulia Petrova</title><link>https://yulia-petrova.github.io/teaching/</link><atom:link href="https://yulia-petrova.github.io/teaching/index.xml" rel="self" type="application/rss+xml"/><description>Yulia Petrova</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://yulia-petrova.github.io/media/icon_hub8df033b399123bf68cdca948df172d3_59625_512x512_fill_lanczos_center_3.png</url><title>Yulia Petrova</title><link>https://yulia-petrova.github.io/teaching/</link></image><item><title/><link>https://yulia-petrova.github.io/teaching/proofs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://yulia-petrova.github.io/teaching/proofs/</guid><description>&lt;h3 id="proofs-from-the-book">Proofs from the BOOK&lt;/h3>
 &lt;h5 id="join-the-course-group-in-telegram-linkhttpstmeimagbpjbpu03ntey">Join the course group in Telegram: &lt;a href="https://t.me/&amp;#43;IMAGbpjBPU03NTEy" target="_blank" rel="noopener">link&lt;/a>&lt;/h5>
-&lt;h5 id="talks">Talks:&lt;/h5>
+&lt;h5 id="talks" class="table table-striped">Talks:&lt;/h5>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:left">&lt;h5>Date&lt;/h5>&lt;/th>
+&lt;th style="text-align:left">&lt;h5>Speaker&lt;/h5>&lt;/th>
+&lt;th style="text-align:left">&lt;h5>Title&lt;/h5>&lt;/th>
+&lt;th style="text-align:left">&lt;h5>Materials&lt;/h5>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:left">5 March&lt;/td>
+&lt;td style="text-align:left">Yulia Petrova&lt;/td>
+&lt;td style="text-align:left">Six proofs of the infinity of prime numbers&lt;/td>
+&lt;td style="text-align:left">&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
 &lt;ul>
 &lt;li>5 March &amp;mdash; Yulia Petrova &amp;lsquo;&amp;lsquo;Six proofs of the infinity of prime numbers&amp;rsquo;&amp;rsquo;&lt;/li>
 &lt;li>7 March &amp;mdash; Yulia Petrova &amp;lsquo;&amp;lsquo;Bertrand&amp;rsquo;s postulate&amp;rsquo;&amp;rsquo;&lt;/li>
@@ -12,6 +30,16 @@
 &lt;li>28 March &amp;ndash; Semana Santa&lt;/li>
 &lt;li>2 April &amp;mdash; Sergio Andrade ``Cauchy and Fourier proofs of the Basel problem. Lemma Borel-Cantelli''&lt;/li>
 &lt;li>4 April &amp;mdash; Anselmo de Souza Pontes ``Period three implies chaos''&lt;/li>
+&lt;li>9 April &amp;mdash; Sergio Andrade ``Borel-Cantelli e funcao Gamma''&lt;/li>
+&lt;li>11 April &amp;mdash; Anselmo de Souza Pontes ``Periodo 3 implica chaos''&lt;/li>
+&lt;li>16 April &amp;mdash; Bruno Baldissera ``On Lemma of Littlewood and Offord''&lt;/li>
+&lt;li>18 April &amp;mdash; Discussion of problems from List 1&lt;/li>
+&lt;li>25 April &amp;mdash; Carlos Henrique ``Aproximacoes por racionais''&lt;/li>
+&lt;li>30 April &amp;mdash; Joao Arthur ``Representando números como soma de dois quadrados''&lt;/li>
+&lt;li>2 May &amp;mdash; Iago de Carvalho ``Godel&amp;rsquo;s incompleteness theorems. Part 1''&lt;/li>
+&lt;li>7 May &amp;mdash; Iago de Carvalho ``Godel&amp;rsquo;s incompleteness theorems. Part 2''&lt;/li>
+&lt;li>9 May &amp;mdash; Iago de Carvalho ``Godel&amp;rsquo;s incompleteness theorems. Part 3''&lt;/li>
+&lt;li>&lt;/li>
 &lt;li>&amp;hellip;&lt;/li>
 &lt;/ul>
 &lt;h5 id="classes">Classes:&lt;/h5>
@@ -30,7 +58,7 @@
 &lt;/ul>
 &lt;h5 id="exercises">Exercises:&lt;/h5>
 &lt;ul>
-&lt;li>Homeworks:
+&lt;li>Homework:
 &lt;ul>
 &lt;li>&lt;a href="List1.pdf">List 1&lt;/a>. Deadline: 1 of April 2024&lt;/li>
 &lt;/ul>
