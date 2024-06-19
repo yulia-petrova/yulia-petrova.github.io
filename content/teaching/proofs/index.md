@@ -3,6 +3,8 @@
 ##### Join the course group in Telegram: [link](https://t.me/+IMAGbpjBPU03NTEy)
 
 ##### Talks:
+The aim of the course is to enjoy the beauty of mathematical proofs in different areas: number theory, algebra, analysis etc. The main sourse of inspiration is THE BOOK by M. Aigner, G. Ziegler ``Proofs from the BOOK'', but as course go on we can find more interesting mathematical stories to tell. The idea is that students choose their favorite topic and give a prosentation on it. Here is the list of the talks that we succeded to do this semester.
+
 {.table .table-striped}
 |              <h5>Date</h5>          | <h5>Speaker</h5>   | <h5>Title</h5>   | 
 |:------------------------------------|:----|:----|:----|
