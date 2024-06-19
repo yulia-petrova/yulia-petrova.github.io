@@ -4,9 +4,14 @@
 
 ##### Talks:
 {.table .table-striped}
-|              <h5>Date</h5>          | <h5>Speaker</h5>   | <h5>Title</h5>   | <h5>Materials</h5> |
+|              <h5>Date</h5>          | <h5>Speaker</h5>   | <h5>Title</h5>   | 
 |:------------------------------------|:----|:----|:----|
-| 5 March             | Yulia Petrova  |   Six proofs of the infinity of prime numbers  |  |
+| 5 March             | Yulia Petrova  |   Six proofs of the infinity of prime numbers  | 
+| 7 March             | Yulia Petrova  |   Bertrand's postulate  | 
+| 12 March             | Yulia Petrova  |   Buffon's needle, problem of the number of collisions of two blocks and pi  | 
+| 14 March             | Sergio Andrade  |  Um pi real e um pi complexo: demonstracoes do Problema de Basileia e da Equacao de Euler para Numeros Complexos  | 
+| 19 March             | Yulia Petrova  |   Every large point set has an obtuse angle  | 
+| 21 March             | Yulia Petrova  |   Steiner's simetrization and applications: isodiametric inequality, isoperimetric inequality and Brunn-Minkowski inequality  | 
 
 
 - 5 March --- Yulia Petrova ''Six proofs of the infinity of prime numbers''
