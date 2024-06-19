@@ -7,7 +7,7 @@
 &lt;th style="text-align:left">&lt;h5>Date&lt;/h5>&lt;/th>
 &lt;th style="text-align:left">&lt;h5>Speaker&lt;/h5>&lt;/th>
 &lt;th style="text-align:left">&lt;h5>Title&lt;/h5>&lt;/th>
-&lt;th style="text-align:left">&lt;h5>Materials&lt;/h5>&lt;/th>
+&lt;th>&lt;/th>
 &lt;/tr>
 &lt;/thead>
 &lt;tbody>
@@ -15,7 +15,37 @@
 &lt;td style="text-align:left">5 March&lt;/td>
 &lt;td style="text-align:left">Yulia Petrova&lt;/td>
 &lt;td style="text-align:left">Six proofs of the infinity of prime numbers&lt;/td>
-&lt;td style="text-align:left">&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">7 March&lt;/td>
+&lt;td style="text-align:left">Yulia Petrova&lt;/td>
+&lt;td style="text-align:left">Bertrand&amp;rsquo;s postulate&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">12 March&lt;/td>
+&lt;td style="text-align:left">Yulia Petrova&lt;/td>
+&lt;td style="text-align:left">Buffon&amp;rsquo;s needle, problem of the number of collisions of two blocks and pi&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">14 March&lt;/td>
+&lt;td style="text-align:left">Sergio Andrade&lt;/td>
+&lt;td style="text-align:left">Um pi real e um pi complexo: demonstracoes do Problema de Basileia e da Equacao de Euler para Numeros Complexos&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">19 March&lt;/td>
+&lt;td style="text-align:left">Yulia Petrova&lt;/td>
+&lt;td style="text-align:left">Every large point set has an obtuse angle&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">21 March&lt;/td>
+&lt;td style="text-align:left">Yulia Petrova&lt;/td>
+&lt;td style="text-align:left">Steiner&amp;rsquo;s simetrization and applications: isodiametric inequality, isoperimetric inequality and Brunn-Minkowski inequality&lt;/td>
+&lt;td>&lt;/td>
 &lt;/tr>
 &lt;/tbody>
 &lt;/table>
