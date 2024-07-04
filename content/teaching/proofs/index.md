@@ -34,9 +34,9 @@ The aim of the course is to enjoy the beauty of mathematical proofs in different
 | 18 June             | Carlos Henrique  |  Números p-ádicos e o teorema de Ostrowski | 
 | 20 June             | Carlos Henrique  |  Fórmulas de Euler em Teoria dos Números | 
 | 25 June             | Ivan Ogloblin  |  Of friends and politicians | 
-| 27 June             | ?  |  ? | 
-| 2 July             | Rony Geymar  |  ? | 
-| 4 July             | Rony Geymar  |  ? | 
+| 27 June             | Bruno Baldissera  |  A conjectura da sensitividade | 
+| 2 July             | Rony Geymar  |  In praise of inequalities | 
+| 4 July             | Rony Geymar  |  Holder inequalities and generalizations | 
 
 
 
