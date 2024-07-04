@@ -36,7 +36,7 @@ The aim of the course is to enjoy the beauty of mathematical proofs in different
 | 25 June             | Ivan Ogloblin  |  Of friends and politicians | 
 | 27 June             | Bruno Baldissera  |  A conjectura da sensitividade | 
 | 2 July             | Rony Geymar  |  In praise of inequalities | 
-| 4 July             | Rony Geymar  |  Holder inequalities and generalizations | 
+| 4 July             | Rony Geymar  |  Fundamental theorem of algebra | 
 
 
 
