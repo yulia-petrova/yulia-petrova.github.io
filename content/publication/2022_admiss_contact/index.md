@@ -1,6 +1,6 @@
 ---
 
-title: "Vanishing adsorption admissibility criterion for contact discontinuities in the polymer model"
+title: "Vanishing adsorption limit of Riemann problem solutions for the polymer model"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -10,8 +10,8 @@ authors:
 - Bradley J. Plohr
 - Dan Marchesin
 
-date: "2022-11-21T00:00:00Z"
-doi: ""
+date: "2024-09-01T00:00:00Z"
+doi: "https://doi.org/10.1142/S0219891624500103"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -23,7 +23,7 @@ doi: ""
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ArXiv 2211.10326
+publication: Journal of Hyperbolic Differential Equations, 21(2):299--327
 #publication_short: 
 
 abstract: We introduce the vanishing adsorption criterion for contact discontinuities and apply it to the Glimm-Isaacson model of chemical flooding of a petroleum reservoir. We prove that this criterion, which derives from a physical effect, justifies the admissibility criteria adopted previously by Keyfitz-Kranzer, Isaacson-Temple, and de Souza-Marchesin for models such that the fractional flow function depends monotonically on chemical concentration. We also demonstrate that the adsorption criterion selects the undercompressive contact discontinuities required to solve the general Riemann problem in an example model with non-monotone dependence.
