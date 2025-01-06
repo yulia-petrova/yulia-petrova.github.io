@@ -10,8 +10,8 @@ authors:
 - Sergey Tikhomirov
 - Yalchin Efendiev
 
-date: "2024-09-03T00:00:00Z"
-# doi: "https://doi.org/10.1142/S0219891623500121"
+date: "2025-01-06T00:00:00Z"
+doi: "https://doi.org/10.1137/24M1632668"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "2017-01-01T00:00:00Z"
@@ -23,7 +23,7 @@ date: "2024-09-03T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: ArXiv 2401.05981. Accepted to SIAM Journal on Mathematical Analysis.  
+publication: SIAM Journal on Mathematical Analysis, , 57(1):30-64, 2025
 #publication_short: 
 
 abstract: We study a semi-discrete model for the two-dimensional incompressible porous medium (IPM) equation describing gravitational fingering phenomenon. The model consists of a system of advection-reaction-diffusion equations on concentration, velocity and pressure, describing motion of miscible liquids under the Darcy's law in two vertical tubes (real lines) and interflow between them. Our analysis reveals the structure of gravitational fingers in this simple setting - the mixing zone consists of space-time regions of constant intermediate concentrations and the profile of propagation is characterized by two consecutive traveling waves which we call a terrace. We prove the existence of such a propagating terrace for the parameters corresponding to small distances between the tubes. This solution shows the possible mechanism of slowing down the fingers' growth due to convection in the transversal direction. The main tool in the proof is a reduction to pressure-free transverse flow equilibrium (TFE) model using geometrical singular perturbation theory and the persistence of stable and unstable manifolds under small perturbations.
