@@ -70,7 +70,7 @@ email: "yu.pe.petrova@gmail.com"
 highlight_name: true
 ---
 
-I am an Assistant Professor at IME-USP (Institute of Mathematics and Statistics at the University of São Paulo, Brazil). Broadly speaking, my research interests include PDEs and their applications to different fields: probability theory, fluid dynamics and solving real-world problems.
+I am an Assistant Professor at the [Institute of Mathematics and Statistics](https://www.ime.usp.br/) at [University of São Paulo](https://www5.usp.br/) (IME-USP, Brazil). Broadly speaking, my research interests include PDEs and their applications to different fields: probability theory, fluid dynamics and solving real-world problems.
 
 During 2023-2025 I was an Assistant Professor at the [Department of Mathematics](http://www.mat.puc-rio.br/) at [PUC-Rio](https://www.puc-rio.br/), Rio de Janeiro. During 2021-2023 I did my postdoc at [Fluid dynamics Laboratory](https://fluid.impa.br/Home) at [IMPA](https://impa.br/en_US/), Rio de Janeiro, and my mentor is [Dan Marchesin](https://web.archive.org/web/20210815113601/https://marchesi.impa.br/Home). During 2018-2021 I was a researcher at [Chebyshev Laboratory of Mathematics & Computer Science department of St. Petersburg State University](https://chebyshev.spbu.ru/) involved in the lab's collaboration with petroleum company GazpromNeft.
 
