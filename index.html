@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Yulia Petrova — Mathematician</title>
+<meta name="description" content="Yulia Petrova — Assistant Professor of Mathematics at IME-USP, São Paulo. Nonlinear PDEs, conservation laws, viscous fingering, Gaussian processes.">
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,600&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="css/style.css">
+<script src="js/i18n.js"></script>
+<script src="js/app.js"></script>
+<script src="js/news-data.js"></script>
+<script src="js/figures-data.js"></script>
+<script src="js/talks-data.js"></script>
+<script src="js/home.js"></script>
+</head>
+<body>
+
+<header class="site">
+  <div class="site-inner">
+    <a class="brand" href="index.html">Yulia Petrova</a>
+    <nav class="main" aria-label="Main">
+      <a href="index.html" aria-current="page" data-i18n="nav.about">About</a>
+      <a href="publications.html" data-i18n="nav.publications">Publications</a>
+      <a href="teaching.html" data-i18n="nav.teaching">Teaching</a>
+      <a href="talks.html" data-i18n="nav.talks">Talks</a>
+      <a href="uploads/Petrova_CV.pdf" target="_blank" rel="noopener" data-i18n="nav.cv">CV</a>
+      <a href="uploads/Petrova_CV_short.pdf" target="_blank" rel="noopener" data-i18n="nav.cvshort">CV short</a>
+    </nav>
+    <div class="controls">
+      <div class="langs" role="group" aria-label="Language">
+        <button data-lang="en" onclick="setLang('en')">EN</button>
+        <button data-lang="pt" onclick="setLang('pt')">PT</button>
+        <button data-lang="ru" onclick="setLang('ru')">RU</button>
+      </div>
+      <button id="themeToggle" onclick="toggleTheme()" aria-label="Toggle color theme">☾</button>
+    </div>
+  </div>
+</header>
+
+<div class="hero">
+  <div class="hero-inner">
+    <img src="assets/avatar.jpg" alt="Portrait of Yulia Petrova" width="150" height="150">
+    <div class="who">
+      <h1 data-i18n="hero.name">Yulia Petrova</h1>
+      <p class="role" data-i18n="hero.role"></p>
+      <p data-i18n="hero.tagline"></p>
+      <div class="socials">
+        <a href="https://scholar.google.com/citations?hl=en&user=cchgBPMAAAAJ" target="_blank" rel="noopener">Google Scholar</a>
+        <a href="https://arxiv.org/a/0000-0003-0595-3727.html" target="_blank" rel="noopener">arXiv</a>
+        <a href="http://lattes.cnpq.br/1307618187534439" target="_blank" rel="noopener">Lattes</a>
+        <a href="https://mathscinet.ams.org/mathscinet/author?authorId=1187391" target="_blank" rel="noopener">MathSciNet</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<main class="wrap">
+  <h2 data-i18n="about.bio.title">About me</h2>
+  <p class="plain" data-i18n="about.plain"></p>
+  <p data-i18n="about.bio.p1"></p>
+
+  <h2 data-i18n="about.keywords">Keywords</h2>
+  <div class="kws">
+    <span data-i18n="kw.1">PDEs</span>
+    <span data-i18n="kw.2">Conservation laws</span>
+    <span data-i18n="kw.3">Viscous fingering</span>
+    <span data-i18n="kw.4">Porous media</span>
+    <span data-i18n="kw.5">Traveling waves</span>
+    <span data-i18n="kw.9">Propagating terraces</span>
+    <span data-i18n="kw.6">Gaussian processes</span>
+    <span data-i18n="kw.7">Small ball probabilities</span>
+    <span data-i18n="kw.8">Enhanced oil recovery</span>
+  </div>
+
+  <h2 data-i18n="home.selected">Selected publications</h2>
+  <ul class="selpub">
+    <li><a href="publications.html#2024_two-tubes">Propagating terrace in a two-tubes model of gravitational fingering</a><br>
+      <span class="venue">SIAM Journal on Mathematical Analysis, 2025 · with S. Tikhomirov, Ya. Efendiev</span></li>
+    <li><a href="publications.html#2022_admiss_contact">Vanishing adsorption admissibility criterion for contact discontinuities in the polymer model</a><br>
+      <span class="venue">Journal of Hyperbolic Differential Equations, 2024 · with B. Plohr, D. Marchesin</span></li>
+    <li><a href="publications.html#2020_RawFieldData">Numerical investigation of viscous fingering phenomenon for raw field data</a><br>
+      <span class="venue">Transport in Porous Media, 2020 · with F. Bakharev, L. Campoli, A. Enin, S. Matveenko, S. Tikhomirov, A. Yakovlev</span></li>
+    <li><a href="publications.html#2023_Overview_L2">L₂-small ball asymptotics for Gaussian random functions: a survey</a><br>
+      <span class="venue">Probability Surveys, 2023 · with A. I. Nazarov</span></li>
+  </ul>
+  <p><a href="publications.html" data-i18n="home.allpubs">All publications →</a></p>
+
+  <div class="cols">
+    <section>
+      <h2 data-i18n="about.education">Education</h2>
+      <ul class="edu">
+        <li><span class="deg" data-i18n="about.edu.phd"></span><br><span class="inst" data-i18n="about.edu.phd.inst"></span></li>
+        <li><span class="deg" data-i18n="about.edu.spec"></span><br><span class="inst" data-i18n="about.edu.spec.inst"></span></li>
+      </ul>
+      <h2 data-i18n="about.contact">Contact</h2>
+      <p><span data-i18n="about.contact.text"></span><a href="mailto:yulia.petrova@ime.usp.br">yulia.petrova@ime.usp.br</a></p>
+    </section>
+    <section>
+      <h2 data-i18n="about.positions">Positions</h2>
+      <ul class="timeline">
+        <li><span class="when">2025 —</span><br><span data-i18n="about.pos.usp"></span></li>
+        <li><span class="when">2023 — 2025</span><br><span data-i18n="about.pos.puc"></span></li>
+        <li><span class="when">2021 — 2023</span><br><span data-i18n="about.pos.impa"></span></li>
+        <li><span class="when">2017 — 2021</span><br><span data-i18n="about.pos.cheb"></span></li>
+        <li><span class="when">2012 — 2021</span><br><span data-i18n="about.pos.lect"></span></li>
+      </ul>
+    </section>
+  </div>
+  <div class="cols">
+    <section>
+      <h2 data-i18n="home.news">News</h2>
+      <div id="newslist"></div>
+    </section>
+    <section>
+      <h2 data-i18n="home.upcoming">Upcoming talks</h2>
+      <div id="upcoming"></div>
+    </section>
+  </div>
+
+  <section id="figsec" hidden>
+    <h2 data-i18n="home.figures">Figures from my papers</h2>
+    <div class="figgrid" id="figures"></div>
+  </section>
+</main>
+
+<footer class="site">
+  <div class="wrap">
+    <span>© Yulia Petrova · <span data-i18n="footer.updated">Last updated</span> 09/2026</span>
+    <a href="https://github.com/yulia-petrova/yulia-petrova.github.io" data-i18n="footer.source">Site source on GitHub</a>
+  </div>
+</footer>
+
+</body>
+</html>

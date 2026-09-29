@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Talks — Yulia Petrova</title>
+<link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,600&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="css/style.css">
+<script src="js/i18n.js"></script>
+<script src="js/app.js"></script>
+<script src="js/talks-data.js"></script>
+<script src="js/talks.js"></script>
+</head>
+<body>
+
+<header class="site">
+  <div class="site-inner">
+    <a class="brand" href="index.html">Yulia Petrova</a>
+    <nav class="main" aria-label="Main">
+      <a href="index.html" data-i18n="nav.about">About</a>
+      <a href="publications.html" data-i18n="nav.publications">Publications</a>
+      <a href="teaching.html" data-i18n="nav.teaching">Teaching</a>
+      <a href="talks.html" aria-current="page" data-i18n="nav.talks">Talks</a>
+      <a href="uploads/Petrova_CV.pdf" target="_blank" rel="noopener" data-i18n="nav.cv">CV</a>
+      <a href="uploads/Petrova_CV_short.pdf" target="_blank" rel="noopener" data-i18n="nav.cvshort">CV short</a>
+    </nav>
+    <div class="controls">
+      <div class="langs" role="group" aria-label="Language">
+        <button data-lang="en" onclick="setLang('en')">EN</button>
+        <button data-lang="pt" onclick="setLang('pt')">PT</button>
+        <button data-lang="ru" onclick="setLang('ru')">RU</button>
+      </div>
+      <button id="themeToggle" onclick="toggleTheme()" aria-label="Toggle color theme">☾</button>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <div class="pagehead">
+    <h1 data-i18n="talks.title">Talks</h1>
+    <p class="lead-big" data-i18n="talks.lead"></p>
+  </div>
+  <div class="filters" id="talkswitch"></div>
+  <div id="talklist"></div>
+</main>
+
+<footer class="site">
+  <div class="wrap">
+    <span>© Yulia Petrova · <span data-i18n="footer.updated">Last updated</span> 09/2026</span>
+    <a href="https://github.com/yulia-petrova/yulia-petrova.github.io" data-i18n="footer.source">Site source on GitHub</a>
+  </div>
+</footer>
+
+</body>
+</html>

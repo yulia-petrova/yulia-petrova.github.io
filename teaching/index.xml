@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yulia Petrova</title><link>https://yulia-petrova.github.io/teaching/</link><atom:link href="https://yulia-petrova.github.io/teaching/index.xml" rel="self" type="application/rss+xml"/><description>Yulia Petrova</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://yulia-petrova.github.io/media/icon_hub8df033b399123bf68cdca948df172d3_59625_512x512_fill_lanczos_center_3.png</url><title>Yulia Petrova</title><link>https://yulia-petrova.github.io/teaching/</link></image><item><title/><link>https://yulia-petrova.github.io/teaching/proofs/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://yulia-petrova.github.io/teaching/proofs/</guid><description>&lt;h3 id="proofs-from-the-book">Proofs from the BOOK&lt;/h3>
+&lt;h5 id="join-the-course-group-in-telegram-linkhttpstmeimagbpjbpu03ntey">Join the course group in Telegram: &lt;a href="https://t.me/&amp;#43;IMAGbpjBPU03NTEy" target="_blank" rel="noopener">link&lt;/a>&lt;/h5>
+&lt;h5 id="talks">Talks:&lt;/h5>
+&lt;p>The aim of the course is to enjoy the beauty of mathematical proofs in different areas: number theory, algebra, analysis etc. The main source of inspiration is THE BOOK by M. Aigner, G. Ziegler ``Proofs from the BOOK'', but as course go on we can find more interesting mathematical stories to tell. The idea is that students choose their favorite topic and give a presentation on it. Here is the list of the talks that we succeded to do this semester:&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:left">&lt;h5>Date&lt;/h5>&lt;/th>
+&lt;th style="text-align:left">&lt;h5>Speaker&lt;/h5>&lt;/th>
+&lt;th style="text-align:left">&lt;h5>Title&lt;/h5>&lt;/th>
+&lt;th>&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:left">5 March&lt;/td>
+&lt;td style="text-align:left">Yulia Petrova&lt;/td>
+&lt;td style="text-align:left">Six proofs of the infinity of prime numbers&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">7 March&lt;/td>
+&lt;td style="text-align:left">Yulia Petrova&lt;/td>
+&lt;td style="text-align:left">Bertrand&amp;rsquo;s postulate&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">12 March&lt;/td>
+&lt;td style="text-align:left">Yulia Petrova&lt;/td>
+&lt;td style="text-align:left">Buffon&amp;rsquo;s needle, problem of the number of collisions of two blocks and pi&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">14 March&lt;/td>
+&lt;td style="text-align:left">Sergio Andrade&lt;/td>
+&lt;td style="text-align:left">Um pi real e um pi complexo: demonstração do Problema de Basileia e da Equação de Euler para Números Complexos&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">19 March&lt;/td>
+&lt;td style="text-align:left">Yulia Petrova&lt;/td>
+&lt;td style="text-align:left">Every large point set has an obtuse angle&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">21 March&lt;/td>
+&lt;td style="text-align:left">Yulia Petrova&lt;/td>
+&lt;td style="text-align:left">Steiner&amp;rsquo;s simetrization and applications: isodiametric inequality, isoperimetric inequality and Brunn-Minkowski inequality&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">26 March&lt;/td>
+&lt;td style="text-align:left">João Arthur&lt;/td>
+&lt;td style="text-align:left">Three applications of Euler&amp;rsquo;s formula&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">2 April&lt;/td>
+&lt;td style="text-align:left">Sergio Andrade&lt;/td>
+&lt;td style="text-align:left">Cauchy and Fourier proofs of the Basel problem&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">4 April&lt;/td>
+&lt;td style="text-align:left">Anselmo de Souza Pontes&lt;/td>
+&lt;td style="text-align:left">Period 3 implies all other periods&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">9 April&lt;/td>
+&lt;td style="text-align:left">Sergio Andrade&lt;/td>
+&lt;td style="text-align:left">Lemma Borel-Cantelli and Gamma function&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">11 April&lt;/td>
+&lt;td style="text-align:left">Anselmo de Souza Pontes&lt;/td>
+&lt;td style="text-align:left">Period 3 implies chaos&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">16 April&lt;/td>
+&lt;td style="text-align:left">Bruno Baldissera&lt;/td>
+&lt;td style="text-align:left">On Lemma of Littlewood and Offord&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">18 April&lt;/td>
+&lt;td style="text-align:left">Yulia Petrova&lt;/td>
+&lt;td style="text-align:left">Discussion of problems from List 1&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">25 April&lt;/td>
+&lt;td style="text-align:left">Carlos Henrique&lt;/td>
+&lt;td style="text-align:left">Aproximações por racionais&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">30 April&lt;/td>
+&lt;td style="text-align:left">João Arthur&lt;/td>
+&lt;td style="text-align:left">Representando números como soma de dois quadrados&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">2 May&lt;/td>
+&lt;td style="text-align:left">Iago de Carvalho&lt;/td>
+&lt;td style="text-align:left">Godel&amp;rsquo;s incompleteness theorems. Part 1&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">7 May&lt;/td>
+&lt;td style="text-align:left">Iago de Carvalho&lt;/td>
+&lt;td style="text-align:left">Godel&amp;rsquo;s incompleteness theorems. Part 2&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">9 May&lt;/td>
+&lt;td style="text-align:left">Iago de Carvalho&lt;/td>
+&lt;td style="text-align:left">Godel&amp;rsquo;s incompleteness theorems. Part 3&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">14 May&lt;/td>
+&lt;td style="text-align:left">Yulia Petrova&lt;/td>
+&lt;td style="text-align:left">Shuffling cards&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">16 May&lt;/td>
+&lt;td style="text-align:left">Ivan Ogloblin&lt;/td>
+&lt;td style="text-align:left">Every finite division ring is a field&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">21 May&lt;/td>
+&lt;td style="text-align:left">Bruno Baldissera&lt;/td>
+&lt;td style="text-align:left">Sobre a conjectura de Borsuk&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">23 May&lt;/td>
+&lt;td style="text-align:left">Rony Geymar&lt;/td>
+&lt;td style="text-align:left">O teorema pi-lambda dinkin e a unicidade da medida de Lebesgue&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">28 May&lt;/td>
+&lt;td style="text-align:left">João Arthur&lt;/td>
+&lt;td style="text-align:left">Polinômios ciclotômicos e versões fracas de teoremas fortes&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">18 June&lt;/td>
+&lt;td style="text-align:left">Carlos Henrique&lt;/td>
+&lt;td style="text-align:left">Números p-ádicos e o teorema de Ostrowski&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">20 June&lt;/td>
+&lt;td style="text-align:left">Carlos Henrique&lt;/td>
+&lt;td style="text-align:left">Fórmulas de Euler em Teoria dos Números&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">25 June&lt;/td>
+&lt;td style="text-align:left">Ivan Ogloblin&lt;/td>
+&lt;td style="text-align:left">Of friends and politicians&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">27 June&lt;/td>
+&lt;td style="text-align:left">Bruno Baldissera&lt;/td>
+&lt;td style="text-align:left">A conjectura da sensitividade&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">2 July&lt;/td>
+&lt;td style="text-align:left">Rony Geymar&lt;/td>
+&lt;td style="text-align:left">In praise of inequalities&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">4 July&lt;/td>
+&lt;td style="text-align:left">Rony Geymar&lt;/td>
+&lt;td style="text-align:left">Fundamental theorem of algebra&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;h5 id="classes">Classes:&lt;/h5>
+&lt;ul>
+&lt;li>March - June 2024. Tuesdays and Thursdays: 9am - 11am&lt;/li>
+&lt;li>Room 863, Department of Mathematics, Edifício Leme, PUC-Rio&lt;/li>
+&lt;/ul>
+&lt;h5 id="materials">Materials:&lt;/h5>
+&lt;ul>
+&lt;li>Books:
+&lt;ul>
+&lt;li>M. Aigner, G. Ziegler &amp;lsquo;&amp;lsquo;Proofs from the BOOK&amp;rsquo;&amp;rsquo;&lt;/li>
+&lt;li>S. Tabachnikov, D. Fuchs &amp;lsquo;&amp;lsquo;Mathematical Omnibus: Thirty Lectures on Classic Mathematics&amp;rsquo;&amp;rsquo;&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h5 id="exercises">Exercises:&lt;/h5>
+&lt;ul>
+&lt;li>Homework:
+&lt;ul>
+&lt;li>&lt;a href="List1.pdf">List 1&lt;/a>. Deadline: 1 of April 2024&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul></description></item><item><title/><link>https://yulia-petrova.github.io/teaching/shocks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://yulia-petrova.github.io/teaching/shocks/</guid><description>&lt;h3 id="shock-waves-in-conservation-laws-and-reaction-diffusion-equations">Shock waves in conservation laws and reaction-diffusion equations&lt;/h3>
+&lt;h5 id="join-the-course-group-in-telegram-linkhttpstmegdqus0tfjq44nwi6">Join the course group in Telegram: &lt;a href="https://t.me/&amp;#43;gdqus0TfJQ44NWI6" target="_blank" rel="noopener">link&lt;/a>&lt;/h5>
+&lt;h5 id="classes">Classes:&lt;/h5>
+&lt;ul>
+&lt;li>March - June 2023. Tuesday, 1pm - 3pm and Friday, 9am - 11am&lt;/li>
+&lt;li>Room 866, Department of Mathematics, Edifício Leme, PUC-Rio&lt;/li>
+&lt;/ul>
+&lt;h5 id="material">Material:&lt;/h5>
+&lt;ul>
+&lt;li>&lt;a href="All_materials.pdf">All materials in one file&lt;/a>&lt;/li>
+&lt;li>My notes (mainly handwritten): introduction - what this course is about? (&lt;a href="Lecture1.pdf">Lecture 1&lt;/a>), notes on wave equation (&lt;a href="Lectures2-4.pdf">Lectures 2&amp;ndash;4&lt;/a>), notes on conservation laws (&lt;a href="Lectures_conslaw.pdf">Lectures 5&amp;ndash;14&lt;/a>), notes on reaction-diffusion equations (&lt;a href="Lectures_reactdiff.pdf">Lectures 15&amp;ndash;24&lt;/a>).&lt;/li>
+&lt;li>Books:
+&lt;ul>
+&lt;li>J. Smoller &amp;lsquo;&amp;lsquo;Shock waves and reaction-diffusion equations&amp;rsquo;&amp;rsquo;, &lt;a href="Smoller.pdf">PDF&lt;/a>&lt;/li>
+&lt;li>C. Dafermos &amp;lsquo;&amp;lsquo;Hyberbolic conservation laws in continuum physics&amp;rsquo;&amp;rsquo;, &lt;a href="Dafermos.pdf">PDF&lt;/a>&lt;/li>
+&lt;li>L.C. Evans &amp;lsquo;&amp;lsquo;Partial differential equations&amp;rsquo;&amp;rsquo;, &lt;a href="Evans-PDE.pdf">PDE&lt;/a>&lt;/li>
+&lt;li>A. Bressan &amp;lsquo;&amp;lsquo;Hyperbolic Conservation Laws: An Illustrated Tutorial&amp;rsquo;&amp;rsquo;, &lt;a href="Bressan-tutorial.pdf">PDF&lt;/a>&lt;/li>
+&lt;li>H. Holden, N.H. Risebro &amp;lsquo;&amp;lsquo;Front tracking for hyperbolic conservation laws&amp;rsquo;&amp;rsquo;, &lt;a href="Holden-Risebro.pdf">PDF&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Video lectures on Youtube closely related to the course:
+&lt;ul>
+&lt;li>Constantine Dafermos, course of 9 lectures at IMPA: &lt;a href="https://www.youtube.com/playlist?list=PLo4jXE-LdDTTg8Z4iGDNOSDA74rcwoU2a" target="_blank" rel="noopener">Hyberbolic conservation laws&lt;/a>&lt;/li>
+&lt;li>Henri Berestycki, mini course of 4 lectures at IMPA: &lt;a href="https://www.youtube.com/watch?v=DOw3N7ZbejI&amp;amp;list=PLo4jXE-LdDTQfW_IQ-umx660Plg9NX-nC&amp;amp;index=15" target="_blank" rel="noopener">Reaction-diffusion propagation in non-homogenous media&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h5 id="exercises">Exercises:&lt;/h5>
+&lt;ul>
+&lt;li>Problem-solving sessions: &lt;a href="Problems1.pdf">Session 1&lt;/a>, &lt;a href="Problems2.pdf">Session 2&lt;/a>, &lt;a href="Problems3.pdf">Session 3&lt;/a>, &lt;a href="Problems4.pdf">Session 4&lt;/a>.&lt;/li>
+&lt;li>Homeworks:
+&lt;ul>
+&lt;li>&lt;a href="Ex1.pdf">List 1&lt;/a>. Deadline: 24 of March 2023&lt;/li>
+&lt;li>&lt;a href="Ex2.pdf">List 2&lt;/a>. Deadline: 7 of April 2023&lt;/li>
+&lt;li>&lt;a href="Ex3.pdf">List 3&lt;/a>. Deadline: 28 of April 2023&lt;/li>
+&lt;li>&lt;a href="Ex4.pdf">List 4&lt;/a>. Deadline: 26 of May 2023&lt;/li>
+&lt;li>&lt;a href="Ex5.pdf">List 5&lt;/a>. Deadline: 16 of June 2023&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h5 id="exam">Exam:&lt;/h5>
+&lt;ul>
+&lt;li>&lt;a href="Exam-questions.pdf">Questions&lt;/a>.&lt;/li>
+&lt;/ul></description></item></channel></rss>
