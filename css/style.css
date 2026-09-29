@@ -99,6 +99,19 @@ nav.main a[aria-current="page"]{color:var(--green)}
   border-radius:7px;cursor:pointer;padding:.22rem .5rem;font-size:.9rem;line-height:1;
 }
 #themeToggle:hover{color:var(--accent)}
+.navtoggle{
+  display:none;border:1px solid var(--line);background:transparent;color:var(--ink);
+  border-radius:7px;font-size:1.15rem;line-height:1;padding:.18rem .55rem;cursor:pointer;
+}
+@media (max-width:860px){
+  .navtoggle{display:block}
+  nav.main{
+    display:none;flex-basis:100%;flex-direction:column;gap:.1rem;order:10;
+    border-top:1px solid var(--line);margin-top:.55rem;padding-top:.45rem;
+  }
+  header.site.nav-open nav.main{display:flex}
+  nav.main a{padding:.5rem .4rem;font-size:1.05rem}
+}
 
 /* ——— hero (index) ——— */
 .hero{
@@ -110,7 +123,7 @@ nav.main a[aria-current="page"]{color:var(--green)}
   display:flex;gap:2.2rem;align-items:center;flex-wrap:wrap;
 }
 .hero img{
-  width:150px;height:150px;border-radius:50%;object-fit:cover;
+  width:190px;height:190px;border-radius:50%;object-fit:cover;
   border:3px solid var(--surface);box-shadow:var(--shadow), 0 0 0 1px var(--line);
 }
 .hero .role{color:var(--muted);font-size:1.1rem;margin:0}

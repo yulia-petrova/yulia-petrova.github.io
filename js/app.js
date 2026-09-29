@@ -63,6 +63,14 @@
 
   document.addEventListener('DOMContentLoaded', function(){
     updateThemeBtn();
+    var nt = document.getElementById('navToggle');
+    if (nt){
+      nt.addEventListener('click', function(){
+        var h = document.querySelector('header.site');
+        var open = h.classList.toggle('nav-open');
+        nt.setAttribute('aria-expanded', open ? 'true' : 'false');
+      });
+    }
     var ups = document.querySelectorAll('[data-upload]');
     for (var i=0;i<ups.length;i++){
       ups[i].setAttribute('href', UPLOADS_BASE + ups[i].getAttribute('data-upload'));

@@ -1,390 +1,98 @@
-<!doctype html><html lang=en-us>
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<meta charset=utf-8>
-<meta name=viewport content="width=device-width,initial-scale=1">
-<meta http-equiv=x-ua-compatible content="IE=edge">
-<meta name=generator content="Wowchemy 5.3.0 for Hugo">
-<meta name=author content="Yulia Petrova">
-<meta name=description content="Proofs from the BOOK Join the course group in Telegram: link Talks: The aim of the course is to enjoy the beauty of mathematical proofs in different areas: number theory, algebra, analysis etc.">
-<link rel=alternate hreflang=en-us href=https://yulia-petrova.github.io/teaching/proofs/>
-<link rel=preconnect href=https://fonts.gstatic.com crossorigin>
-<meta name=theme-color content="#1565c0">
-<script src=/js/mathjax-config.js></script>
-<link rel=stylesheet href=/css/vendor-bundle.min.f1ecf783c14edc00c9320c205831ad8e.css media=print onload="this.media='all'">
-<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.9.0/css/academicons.min.css integrity="sha512-W4yqoT1+8NLkinBLBZko+dFB2ZbHsYLDdr50VElllRcNt2Q4/GSs6u71UHKxB7S6JEMCp5Ve4xjh3eGQl/HRvg==" crossorigin=anonymous media=print onload="this.media='all'">
-<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/github.min.css crossorigin=anonymous title=hl-light media=print onload="this.media='all'">
-<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.2.0/styles/dracula.min.css crossorigin=anonymous title=hl-dark media=print onload="this.media='all'" disabled>
-<script src=https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js integrity crossorigin=anonymous async></script>
-<link rel=preload as=style href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
-<link rel=stylesheet href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media=print onload="this.media='all'">
-<link rel=stylesheet href=/css/wowchemy.52927af53ae4a6f611e422364d52eb1d.css>
-<link rel=manifest href=/manifest.webmanifest>
-<link rel=icon type=image/png href=/media/icon_hub8df033b399123bf68cdca948df172d3_59625_32x32_fill_lanczos_center_3.png>
-<link rel=apple-touch-icon type=image/png href=/media/icon_hub8df033b399123bf68cdca948df172d3_59625_180x180_fill_lanczos_center_3.png>
-<link rel=canonical href=https://yulia-petrova.github.io/teaching/proofs/>
-<meta property="twitter:card" content="summary">
-<meta property="og:site_name" content="Yulia Petrova">
-<meta property="og:url" content="https://yulia-petrova.github.io/teaching/proofs/">
-<meta property="og:title" content=" | Yulia Petrova">
-<meta property="og:description" content="Proofs from the BOOK Join the course group in Telegram: link Talks: The aim of the course is to enjoy the beauty of mathematical proofs in different areas: number theory, algebra, analysis etc."><meta property="og:image" content="https://yulia-petrova.github.io/media/icon_hub8df033b399123bf68cdca948df172d3_59625_512x512_fill_lanczos_center_3.png">
-<meta property="twitter:image" content="https://yulia-petrova.github.io/media/icon_hub8df033b399123bf68cdca948df172d3_59625_512x512_fill_lanczos_center_3.png"><meta property="og:locale" content="en-us">
-<title> | Yulia Petrova</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Proofs from THE BOOK — Yulia Petrova</title>
+<link rel="icon" href="../../assets/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,600&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="../../css/style.css">
+<script src="../../js/i18n.js"></script>
+<script src="../../js/app.js"></script>
 </head>
-<body id=top data-spy=scroll data-offset=70 data-target=#TableOfContents class=page-wrapper data-wc-page-id=7f339502e0bf227080b6b5c2402f93fb>
-<script src=/js/wowchemy-init.min.da42964e270e05a6063fbca894d7ccff.js></script>
-<aside class=search-modal id=search>
-<div class=container>
-<section class=search-header>
-<div class="row no-gutters justify-content-between mb-3">
-<div class=col-6>
-<h1>Search</h1>
-</div>
-<div class="col-6 col-search-close">
-<a class=js-search href=# aria-label=Close><i class="fas fa-times-circle text-muted" aria-hidden=true></i></a>
-</div>
-</div>
-<div id=search-box>
-<input name=q id=search-query placeholder=Search... autocapitalize=off autocomplete=off autocorrect=off spellcheck=false type=search class=form-control aria-label=Search...>
-</div>
-</section>
-<section class=section-search-results>
-<div id=search-hits>
-</div>
-</section>
-</div>
-</aside>
-<div class=page-header>
-<nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id=navbar-main>
-<div class=container-xl>
-<div class="d-none d-lg-inline-flex">
-<a class=navbar-brand href=/>Yulia Petrova</a>
-</div>
-<button type=button class=navbar-toggler data-toggle=collapse data-target=#navbar-content aria-controls=navbar-content aria-expanded=false aria-label="Toggle navigation">
-<span><i class="fas fa-bars"></i></span>
-</button>
-<div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
-<a class=navbar-brand href=/>Yulia Petrova</a>
-</div>
-<div class="navbar-collapse main-menu-item collapse justify-content-end" id=navbar-content>
-<ul class="navbar-nav d-md-inline-flex">
-<li class=nav-item>
-<a class=nav-link href=/uploads/Petrova_CV.pdf><span>CV</span></a>
-</li>
-<li class=nav-item>
-<a class=nav-link href=/#about><span>Home</span></a>
-</li>
-<li class=nav-item>
-<a class=nav-link href=/publication/><span>Publications</span></a>
-</li>
-<li class=nav-item>
-<a class=nav-link href=/project/><span>Projects</span></a>
-</li>
-<li class=nav-item>
-<a class="nav-link active" href=/teaching/><span>Teaching</span></a>
-</li>
-</ul>
-</div>
-<ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
-</ul>
-</div>
-</nav>
-</div>
-<div class=page-body>
-<article class=article>
-<div class="article-container pt-3">
-<h1></h1>
-<div class=article-metadata>
-<span class=article-date>
-November 11, 1011
-</span>
-</div>
-</div>
-<div class=article-container>
-<div class=article-style>
-<h3 id=proofs-from-the-book>Proofs from the BOOK</h3>
-<h5 id=join-the-course-group-in-telegram-linkhttpstmeimagbpjbpu03ntey>Join the course group in Telegram: <a href=https://t.me/+IMAGbpjBPU03NTEy target=_blank rel=noopener>link</a></h5>
-<h5 id=talks>Talks:</h5>
-<p>The aim of the course is to enjoy the beauty of mathematical proofs in different areas: number theory, algebra, analysis etc. The main source of inspiration is THE BOOK by M. Aigner, G. Ziegler ``Proofs from the BOOK'', but as course go on we can find more interesting mathematical stories to tell. The idea is that students choose their favorite topic and give a presentation on it. Here is the list of the talks that we succeded to do this semester:</p>
-<table>
-<thead>
-<tr>
-<th style=text-align:left><h5>Date</h5></th>
-<th style=text-align:left><h5>Speaker</h5></th>
-<th style=text-align:left><h5>Title</h5></th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style=text-align:left>5 March</td>
-<td style=text-align:left>Yulia Petrova</td>
-<td style=text-align:left>Six proofs of the infinity of prime numbers</td>
-<td></td>
-</tr>
-<tr>
-<td style=text-align:left>7 March</td>
-<td style=text-align:left>Yulia Petrova</td>
-<td style=text-align:left>Bertrand&rsquo;s postulate</td>
-<td></td>
-</tr>
-<tr>
-<td style=text-align:left>12 March</td>
-<td style=text-align:left>Yulia Petrova</td>
-<td style=text-align:left>Buffon&rsquo;s needle, problem of the number of collisions of two blocks and pi</td>
-<td></td>
-</tr>
-<tr>
-<td style=text-align:left>14 March</td>
-<td style=text-align:left>Sergio Andrade</td>
-<td style=text-align:left>Um pi real e um pi complexo: demonstração do Problema de Basileia e da Equação de Euler para Números Complexos</td>
-<td></td>
-</tr>
-<tr>
-<td style=text-align:left>19 March</td>
-<td style=text-align:left>Yulia Petrova</td>
-<td style=text-align:left>Every large point set has an obtuse angle</td>
-<td></td>
-</tr>
-<tr>
-<td style=text-align:left>21 March</td>
-<td style=text-align:left>Yulia Petrova</td>
-<td style=text-align:left>Steiner&rsquo;s simetrization and applications: isodiametric inequality, isoperimetric inequality and Brunn-Minkowski inequality</td>
-<td></td>
-</tr>
-<tr>
-<td style=text-align:left>26 March</td>
-<td style=text-align:left>João Arthur</td>
-<td style=text-align:left>Three applications of Euler&rsquo;s formula</td>
-<td></td>
-</tr>
-<tr>
-<td style=text-align:left>2 April</td>
-<td style=text-align:left>Sergio Andrade</td>
-<td style=text-align:left>Cauchy and Fourier proofs of the Basel problem</td>
-<td></td>
-</tr>
-<tr>
-<td style=text-align:left>4 April</td>
-<td style=text-align:left>Anselmo de Souza Pontes</td>
-<td style=text-align:left>Period 3 implies all other periods</td>
-<td></td>
-</tr>
-<tr>
-<td style=text-align:left>9 April</td>
-<td style=text-align:left>Sergio Andrade</td>
-<td style=text-align:left>Lemma Borel-Cantelli and Gamma function</td>
-<td></td>
-</tr>
-<tr>
-<td style=text-align:left>11 April</td>
-<td style=text-align:left>Anselmo de Souza Pontes</td>
-<td style=text-align:left>Period 3 implies chaos</td>
-<td></td>
-</tr>
-<tr>
-<td style=text-align:left>16 April</td>
-<td style=text-align:left>Bruno Baldissera</td>
-<td style=text-align:left>On Lemma of Littlewood and Offord</td>
-<td></td>
-</tr>
-<tr>
-<td style=text-align:left>18 April</td>
-<td style=text-align:left>Yulia Petrova</td>
-<td style=text-align:left>Discussion of problems from List 1</td>
-<td></td>
-</tr>
-<tr>
-<td style=text-align:left>25 April</td>
-<td style=text-align:left>Carlos Henrique</td>
-<td style=text-align:left>Aproximações por racionais</td>
-<td></td>
-</tr>
-<tr>
-<td style=text-align:left>30 April</td>
-<td style=text-align:left>João Arthur</td>
-<td style=text-align:left>Representando números como soma de dois quadrados</td>
-<td></td>
-</tr>
-<tr>
-<td style=text-align:left>2 May</td>
-<td style=text-align:left>Iago de Carvalho</td>
-<td style=text-align:left>Godel&rsquo;s incompleteness theorems. Part 1</td>
-<td></td>
-</tr>
-<tr>
-<td style=text-align:left>7 May</td>
-<td style=text-align:left>Iago de Carvalho</td>
-<td style=text-align:left>Godel&rsquo;s incompleteness theorems. Part 2</td>
-<td></td>
-</tr>
-<tr>
-<td style=text-align:left>9 May</td>
-<td style=text-align:left>Iago de Carvalho</td>
-<td style=text-align:left>Godel&rsquo;s incompleteness theorems. Part 3</td>
-<td></td>
-</tr>
-<tr>
-<td style=text-align:left>14 May</td>
-<td style=text-align:left>Yulia Petrova</td>
-<td style=text-align:left>Shuffling cards</td>
-<td></td>
-</tr>
-<tr>
-<td style=text-align:left>16 May</td>
-<td style=text-align:left>Ivan Ogloblin</td>
-<td style=text-align:left>Every finite division ring is a field</td>
-<td></td>
-</tr>
-<tr>
-<td style=text-align:left>21 May</td>
-<td style=text-align:left>Bruno Baldissera</td>
-<td style=text-align:left>Sobre a conjectura de Borsuk</td>
-<td></td>
-</tr>
-<tr>
-<td style=text-align:left>23 May</td>
-<td style=text-align:left>Rony Geymar</td>
-<td style=text-align:left>O teorema pi-lambda dinkin e a unicidade da medida de Lebesgue</td>
-<td></td>
-</tr>
-<tr>
-<td style=text-align:left>28 May</td>
-<td style=text-align:left>João Arthur</td>
-<td style=text-align:left>Polinômios ciclotômicos e versões fracas de teoremas fortes</td>
-<td></td>
-</tr>
-<tr>
-<td style=text-align:left>18 June</td>
-<td style=text-align:left>Carlos Henrique</td>
-<td style=text-align:left>Números p-ádicos e o teorema de Ostrowski</td>
-<td></td>
-</tr>
-<tr>
-<td style=text-align:left>20 June</td>
-<td style=text-align:left>Carlos Henrique</td>
-<td style=text-align:left>Fórmulas de Euler em Teoria dos Números</td>
-<td></td>
-</tr>
-<tr>
-<td style=text-align:left>25 June</td>
-<td style=text-align:left>Ivan Ogloblin</td>
-<td style=text-align:left>Of friends and politicians</td>
-<td></td>
-</tr>
-<tr>
-<td style=text-align:left>27 June</td>
-<td style=text-align:left>Bruno Baldissera</td>
-<td style=text-align:left>A conjectura da sensitividade</td>
-<td></td>
-</tr>
-<tr>
-<td style=text-align:left>2 July</td>
-<td style=text-align:left>Rony Geymar</td>
-<td style=text-align:left>In praise of inequalities</td>
-<td></td>
-</tr>
-<tr>
-<td style=text-align:left>4 July</td>
-<td style=text-align:left>Rony Geymar</td>
-<td style=text-align:left>Fundamental theorem of algebra</td>
-<td></td>
-</tr>
-</tbody>
-</table>
-<h5 id=classes>Classes:</h5>
-<ul>
-<li>March - June 2024. Tuesdays and Thursdays: 9am - 11am</li>
-<li>Room 863, Department of Mathematics, Edifício Leme, PUC-Rio</li>
-</ul>
-<h5 id=materials>Materials:</h5>
-<ul>
-<li>Books:
-<ul>
-<li>M. Aigner, G. Ziegler &lsquo;&lsquo;Proofs from the BOOK&rsquo;&rsquo;</li>
-<li>S. Tabachnikov, D. Fuchs &lsquo;&lsquo;Mathematical Omnibus: Thirty Lectures on Classic Mathematics&rsquo;&rsquo;</li>
-</ul>
-</li>
-</ul>
-<h5 id=exercises>Exercises:</h5>
-<ul>
-<li>Homework:
-<ul>
-<li><a href=List1.pdf>List 1</a>. Deadline: 1 of April 2024</li>
-</ul>
-</li>
-</ul>
-</div>
-<div class=share-box>
-<ul class=share>
-<li>
-<a href="https://twitter.com/intent/tweet?url=https://yulia-petrova.github.io/teaching/proofs/&text=" target=_blank rel=noopener class=share-btn-twitter aria-label=twitter>
-<i class="fab fa-twitter"></i>
-</a>
-</li>
-<li>
-<a href="https://www.facebook.com/sharer.php?u=https://yulia-petrova.github.io/teaching/proofs/&t=" target=_blank rel=noopener class=share-btn-facebook aria-label=facebook>
-<i class="fab fa-facebook"></i>
-</a>
-</li>
-<li>
-<a href="mailto:?subject=&body=https://yulia-petrova.github.io/teaching/proofs/" target=_blank rel=noopener class=share-btn-email aria-label=envelope>
-<i class="fas fa-envelope"></i>
-</a>
-</li>
-<li>
-<a href="https://www.linkedin.com/shareArticle?url=https://yulia-petrova.github.io/teaching/proofs/&title=" target=_blank rel=noopener class=share-btn-linkedin aria-label=linkedin-in>
-<i class="fab fa-linkedin-in"></i>
-</a>
-</li>
-<li>
-<a href="whatsapp://send?text=%20https://yulia-petrova.github.io/teaching/proofs/" target=_blank rel=noopener class=share-btn-whatsapp aria-label=whatsapp>
-<i class="fab fa-whatsapp"></i>
-</a>
-</li>
-<li>
-<a href="https://service.weibo.com/share/share.php?url=https://yulia-petrova.github.io/teaching/proofs/&title=" target=_blank rel=noopener class=share-btn-weibo aria-label=weibo>
-<i class="fab fa-weibo"></i>
-</a>
-</li>
-</ul>
-</div>
-<div class="media author-card content-widget-hr">
-<a href=https://yulia-petrova.github.io/><img class="avatar mr-3 avatar-circle" src=/authors/admin/avatar_hucb8cc0fe6166b014a419eca87d6061b5_1200029_270x270_fill_q75_lanczos_center.jpg alt="Yulia Petrova"></a>
-<div class=media-body>
-<h5 class=card-title><a href=https://yulia-petrova.github.io/>Yulia Petrova</a></h5>
-<h6 class=card-subtitle>Assistant Professor at IME-USP</h6>
-<p class=card-text>My research interests include PDEs and their applications to probability theory, fluid dynamics and real-world problems.</p>
-<ul class=network-icon aria-hidden=true>
-<li>
-<a href="https://scholar.google.com/citations?hl=en&user=cchgBPMAAAAJ" target=_blank rel=noopener>
-<i class="ai ai-google-scholar"></i>
-</a>
-</li>
-<li>
-<a href=https://arxiv.org/a/0000-0003-0595-3727.html target=_blank rel=noopener>
-<i class="ai ai-arxiv"></i>
-</a>
-</li>
-<li>
-<a href=https://github.com/yulia-petrova target=_blank rel=noopener>
-<i class="fab fa-github"></i>
-</a>
-</li>
-<li>
-<a href=https://www.linkedin.com/in/yulia-petrova-8480a9217/ target=_blank rel=noopener>
-<i class="fab fa-linkedin"></i>
-</a>
-</li>
-<li>
-<a href=/uploads/Petrova_CV.pdf>
-<i class="ai ai-cv"></i>
-</a>
-</li>
-</ul>
-</div>
-</div>
-</div>
-</article>
-</div>
+<body>
+
+<header class="site">
+  <div class="site-inner">
+    <a class="brand" href="../../index.html">Yulia Petrova</a>
+    <nav class="main" aria-label="Main">
+      <a href="../../index.html" data-i18n="nav.about">About</a>
+      <a href="../../publications.html" data-i18n="nav.publications">Publications</a>
+      <a href="../../teaching.html" aria-current="page" data-i18n="nav.teaching">Teaching</a>
+      <a href="../../talks.html" data-i18n="nav.talks">Talks</a>
+      <a href="../../uploads/Petrova_CV.pdf" target="_blank" rel="noopener" data-i18n="nav.cv">CV</a>
+      <a href="../../uploads/Petrova_CV_short.pdf" target="_blank" rel="noopener" data-i18n="nav.cvshort">CV short</a>
+    </nav>
+    <div class="controls">
+      <div class="langs" role="group" aria-label="Language">
+        <button data-lang="en" onclick="setLang('en')">EN</button>
+        <button data-lang="pt" onclick="setLang('pt')">PT</button>
+        <button data-lang="ru" onclick="setLang('ru')">RU</button>
+      </div>
+      <button id="themeToggle" onclick="toggleTheme()" aria-label="Toggle color theme">☾</button>
+      <button id="navToggle" class="navtoggle" aria-label="Menu" aria-expanded="false">☰</button>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <div class="pagehead">
+    <h1>Proofs from THE BOOK</h1>
+    <p class="lead">Graduate/undergraduate course · PUC-Rio, March–June 2024 · Tuesdays and Thursdays 9–11am, room 863, Edifício Leme</p>
+  </div>
+
+  <p>The aim of the course is to enjoy the beauty of mathematical proofs in different areas: number theory, algebra, analysis and beyond. The main source of inspiration is the book by M.&nbsp;Aigner and G.&nbsp;Ziegler, <em>Proofs from THE BOOK</em>, complemented by other interesting mathematical stories. Students choose their favorite topic and give a presentation on it.</p>
+
+  <h2>Materials</h2>
+  <p>Books: M. Aigner, G. Ziegler, <em>Proofs from the BOOK</em>; S. Tabachnikov, D. Fuchs, <em>Mathematical Omnibus: Thirty Lectures on Classic Mathematics</em>.<br>
+  Homework: <a href="List1.pdf">List 1 (PDF)</a>.</p>
+
+  <h2>Talks given in the course</h2>
+  <div class="tablewrap">
+  <table>
+    <thead><tr><th>Date (2024)</th><th>Speaker</th><th>Title</th></tr></thead>
+    <tbody>
+      <tr><td class="sem">5 March</td><td>Yulia Petrova</td><td>Six proofs of the infinity of prime numbers</td></tr>
+      <tr><td class="sem">7 March</td><td>Yulia Petrova</td><td>Bertrand's postulate</td></tr>
+      <tr><td class="sem">12 March</td><td>Yulia Petrova</td><td>Buffon's needle, problem of the number of collisions of two blocks and π</td></tr>
+      <tr><td class="sem">14 March</td><td>Sergio Andrade</td><td>Um pi real e um pi complexo: demonstração do Problema de Basileia e da Equação de Euler para Números Complexos</td></tr>
+      <tr><td class="sem">19 March</td><td>Yulia Petrova</td><td>Every large point set has an obtuse angle</td></tr>
+      <tr><td class="sem">21 March</td><td>Yulia Petrova</td><td>Steiner's simetrization and applications: isodiametric inequality, isoperimetric inequality and Brunn–Minkowski inequality</td></tr>
+      <tr><td class="sem">26 March</td><td>João Arthur</td><td>Three applications of Euler's formula</td></tr>
+      <tr><td class="sem">2 April</td><td>Sergio Andrade</td><td>Cauchy and Fourier proofs of the Basel problem</td></tr>
+      <tr><td class="sem">4 April</td><td>Anselmo de Souza Pontes</td><td>Period 3 implies all other periods</td></tr>
+      <tr><td class="sem">9 April</td><td>Sergio Andrade</td><td>Lemma Borel–Cantelli and Gamma function</td></tr>
+      <tr><td class="sem">11 April</td><td>Anselmo de Souza Pontes</td><td>Period 3 implies chaos</td></tr>
+      <tr><td class="sem">16 April</td><td>Bruno Baldissera</td><td>On Lemma of Littlewood and Offord</td></tr>
+      <tr><td class="sem">18 April</td><td>Yulia Petrova</td><td>Discussion of problems from List 1</td></tr>
+      <tr><td class="sem">25 April</td><td>Carlos Henrique</td><td>Aproximações por racionais</td></tr>
+      <tr><td class="sem">30 April</td><td>João Arthur</td><td>Representando números como soma de dois quadrados</td></tr>
+      <tr><td class="sem">2 May</td><td>Iago de Carvalho</td><td>Gödel's incompleteness theorems. Part 1</td></tr>
+      <tr><td class="sem">7 May</td><td>Iago de Carvalho</td><td>Gödel's incompleteness theorems. Part 2</td></tr>
+      <tr><td class="sem">9 May</td><td>Iago de Carvalho</td><td>Gödel's incompleteness theorems. Part 3</td></tr>
+      <tr><td class="sem">14 May</td><td>Yulia Petrova</td><td>Shuffling cards</td></tr>
+      <tr><td class="sem">16 May</td><td>Ivan Ogloblin</td><td>Every finite division ring is a field</td></tr>
+      <tr><td class="sem">21 May</td><td>Bruno Baldissera</td><td>Sobre a conjectura de Borsuk</td></tr>
+      <tr><td class="sem">23 May</td><td>Rony Geymar</td><td>O teorema π-λ de Dynkin e a unicidade da medida de Lebesgue</td></tr>
+      <tr><td class="sem">28 May</td><td>João Arthur</td><td>Polinômios ciclotômicos e versões fracas de teoremas fortes</td></tr>
+      <tr><td class="sem">18 June</td><td>Carlos Henrique</td><td>Números p-ádicos e o teorema de Ostrowski</td></tr>
+      <tr><td class="sem">20 June</td><td>Carlos Henrique</td><td>Fórmulas de Euler em Teoria dos Números</td></tr>
+      <tr><td class="sem">25 June</td><td>Ivan Ogloblin</td><td>Of friends and politicians</td></tr>
+      <tr><td class="sem">27 June</td><td>Bruno Baldissera</td><td>A conjectura da sensitividade</td></tr>
+      <tr><td class="sem">2 July</td><td>Rony Geymar</td><td>In praise of inequalities</td></tr>
+      <tr><td class="sem">4 July</td><td>Rony Geymar</td><td>Fundamental theorem of algebra</td></tr>
+    </tbody>
+  </table>
+  </div>
+</main>
+
+<footer class="site">
+  <div class="wrap">
+    <span>© Yulia Petrova · <span data-i18n="footer.updated">Last updated</span> 09/2026</span>
+    <a href="https://github.com/yulia-petrova/yulia-petrova.github.io" data-i18n="footer.source">Site source on GitHub</a>
+  </div>
+</footer>
+
 </body>
 </html>
